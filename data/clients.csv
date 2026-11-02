@@ -1,0 +1,1201 @@
+id_client,nom,secteur,region,ca_annuel,evolution_ca_pct,marge_ebe_pct,encours,ratio_endettement_pct,tresorerie_jours,utilisation_decouvert_pct,nb_retards_12m,retard_moyen_jours,incidents_bancaires_12m,anciennete_ans,nb_salaries,defaut
+CL-0001,Agence Morel SASU,Services,Hauts-de-France,605458.0,13.8,17.3,195480.0,32.3,50.0,12.8,0,0.0,0,10.2,6,0
+CL-0002,Traiteur Dumont SAS,Restauration,Hauts-de-France,310767.0,11.0,19.7,308437.0,99.3,31.0,16.7,1,29.0,0,4.3,3,0
+CL-0003,Optique Roux SA,Santé,Bretagne,311555.0,-4.4,15.4,129475.0,41.6,42.0,20.5,1,8.0,0,17.0,4,0
+CL-0004,Agence Legrand SAS,Services,Provence-Alpes-Côte d'Azur,1150396.0,2.5,0.5,640515.0,55.7,30.0,68.3,5,40.8,1,15.8,14,0
+CL-0005,Rénovation Lambert SA,BTP,Île-de-France,174861.0,-14.8,-7.4,94572.0,54.1,25.0,84.6,5,50.8,0,12.8,2,0
+CL-0006,EARL Chevalier SARL,Agriculture,Île-de-France,476480.0,-0.8,4.9,117530.0,24.7,59.0,14.4,0,0.0,0,6.7,5,0
+CL-0007,Services André EURL,Services,Grand Est,450144.0,1.9,16.5,345568.0,76.8,39.0,57.5,2,8.5,0,44.5,5,1
+CL-0008,Services Legrand SARL,Services,Occitanie,498628.0,11.5,9.6,266245.0,53.4,28.0,32.4,1,15.0,0,3.7,6,0
+CL-0009,Maçonnerie Roux SA,BTP,Auvergne-Rhône-Alpes,2894242.0,0.1,6.1,1279499.0,44.2,34.0,40.9,3,17.3,1,6.8,20,0
+CL-0010,Traiteur Boyer SA,Restauration,Occitanie,154348.0,4.6,12.9,84547.0,54.8,38.0,49.9,2,16.5,0,18.6,1,1
+CL-0011,Restaurant Mathieu SAS,Restauration,Pays de la Loire,357949.0,2.7,6.1,185152.0,51.7,17.0,38.6,2,12.5,0,13.9,3,0
+CL-0012,Cabinet Morel SASU,Santé,Bretagne,482371.0,2.8,4.6,213455.0,44.3,7.0,69.9,3,17.3,1,7.2,3,0
+CL-0013,Mécanique Roux SAS,Industrie,Hauts-de-France,2350042.0,-4.0,8.5,938510.0,39.9,46.0,57.3,5,18.0,3,9.3,22,0
+CL-0014,Conseil Gaillard SAS,Services,Nouvelle-Aquitaine,591787.0,6.0,6.3,112373.0,19.0,37.0,14.1,0,0.0,0,16.0,4,0
+CL-0015,Brasserie Perrin SA,Restauration,Auvergne-Rhône-Alpes,3072081.0,7.0,17.2,1659635.0,54.0,29.0,72.2,6,60.2,2,6.6,30,0
+CL-0016,Épicerie Meunier EURL,Commerce,Hauts-de-France,1107952.0,-1.2,-6.7,555728.0,50.2,42.0,60.3,3,41.0,1,2.1,7,0
+CL-0017,Fret Bonnet SARL,Transport,Nouvelle-Aquitaine,2570177.0,-1.8,-0.9,287585.0,11.2,17.0,67.7,3,24.7,0,3.3,21,0
+CL-0018,Maçonnerie Rivière EURL,BTP,Hauts-de-France,1701766.0,2.3,4.4,544164.0,32.0,42.0,56.8,4,17.2,0,8.2,22,0
+CL-0019,Solutions Blanchard SAS,Services,Provence-Alpes-Côte d'Azur,1121627.0,13.8,6.8,898627.0,80.1,41.0,16.6,3,11.3,0,1.5,14,0
+CL-0020,Mécanique Rivière SASU,Industrie,Île-de-France,838181.0,-2.9,6.7,204728.0,24.4,29.0,36.9,1,17.0,1,10.7,10,0
+CL-0021,Agence Girard SA,Services,Île-de-France,567108.0,-7.1,12.4,365055.0,64.4,31.0,58.9,1,8.0,0,1.8,5,0
+CL-0022,Brasserie Robert EURL,Restauration,Auvergne-Rhône-Alpes,138387.0,4.0,15.9,25150.0,18.2,51.0,6.4,0,0.0,0,4.8,1,0
+CL-0023,EARL Michel SA,Agriculture,Normandie,2163725.0,14.8,7.8,1387624.0,64.1,39.0,31.5,1,11.0,0,10.3,26,0
+CL-0024,Laboratoire Marchand SASU,Santé,Grand Est,831387.0,14.7,18.6,229369.0,27.6,58.0,6.7,1,22.0,0,2.7,6,0
+CL-0025,Conseil Lefèvre EURL,Services,Île-de-France,447670.0,5.6,12.3,133265.0,29.8,64.0,8.0,0,0.0,0,7.6,3,0
+CL-0026,Boutique Robin SAS,Commerce,Normandie,849952.0,-4.4,3.4,682163.0,80.3,28.0,61.9,1,30.0,1,51.3,9,0
+CL-0027,Restaurant Brunet EURL,Restauration,Occitanie,123878.0,4.1,3.7,39929.0,32.2,35.0,69.9,2,24.5,0,1.6,1,0
+CL-0028,Rénovation Rousseau SAS,BTP,Occitanie,169764.0,6.9,3.0,103295.0,60.8,40.0,31.2,2,16.5,0,9.8,2,0
+CL-0029,Rénovation Thomas SAS,BTP,Bourgogne-Franche-Comté,665356.0,-5.8,3.9,202238.0,30.4,44.0,45.0,0,0.0,1,10.7,5,0
+CL-0030,Solutions Morin SARL,Services,Île-de-France,230951.0,-3.0,7.3,152178.0,65.9,34.0,42.1,2,15.5,0,10.9,2,0
+CL-0031,Solutions Legrand SAS,Services,Auvergne-Rhône-Alpes,311331.0,2.8,16.0,63471.0,20.4,34.0,41.0,0,0.0,0,27.9,3,0
+CL-0032,Ferme Arnaud SASU,Agriculture,Grand Est,368621.0,6.9,8.0,159598.0,43.3,51.0,11.8,0,0.0,0,12.4,4,0
+CL-0033,Épicerie Bonnet SASU,Commerce,Auvergne-Rhône-Alpes,774515.0,14.7,9.1,227774.0,29.4,48.0,27.3,2,22.5,0,30.9,5,0
+CL-0034,Brasserie Boyer SARL,Restauration,Provence-Alpes-Côte d'Azur,567344.0,-0.8,0.2,232207.0,40.9,24.0,56.7,3,21.7,1,7.3,4,0
+CL-0035,Brasserie Mercier EURL,Restauration,Auvergne-Rhône-Alpes,579884.0,9.5,7.0,195750.0,33.8,68.0,5.0,1,11.0,0,7.6,5,0
+CL-0036,Bazar Durand SAS,Commerce,Île-de-France,508634.0,8.2,5.7,84830.0,16.7,41.0,18.1,1,8.0,0,33.9,4,0
+CL-0037,Charpentes Perrin SA,BTP,Auvergne-Rhône-Alpes,1423829.0,2.3,8.5,432312.0,30.4,41.0,9.4,0,0.0,0,9.5,11,0
+CL-0038,Boulangerie Legrand SARL,Restauration,Occitanie,216527.0,3.0,13.2,162894.0,75.2,23.0,49.4,5,28.4,0,4.0,3,0
+CL-0039,Boutique Simon EURL,Commerce,Île-de-France,2053244.0,17.3,12.3,663959.0,32.3,54.0,6.1,0,0.0,0,14.3,21,0
+CL-0040,Mécanique Bertrand EURL,Industrie,Île-de-France,2729056.0,8.6,10.1,912333.0,33.4,39.0,38.3,0,0.0,0,10.2,18,0
+CL-0041,Traiteur Mercier SA,Restauration,Normandie,263826.0,2.6,5.7,338420.0,128.3,5.0,88.9,9,39.0,4,12.8,2,1
+CL-0042,Solutions Marchand SA,Services,Nouvelle-Aquitaine,447779.0,4.0,11.6,121075.0,27.0,33.0,22.9,0,0.0,0,9.5,4,0
+CL-0043,Conseil Dumont SA,Services,Nouvelle-Aquitaine,194366.0,2.7,13.1,95306.0,49.0,43.0,28.6,0,0.0,0,18.0,3,0
+CL-0044,Bazar Perrin EURL,Commerce,Île-de-France,308322.0,5.6,13.0,203674.0,66.1,15.0,64.4,7,32.3,4,5.4,2,1
+CL-0045,Services Meunier SA,Services,Nouvelle-Aquitaine,452858.0,8.1,8.0,291085.0,64.3,60.0,9.9,2,10.5,0,2.8,4,0
+CL-0046,Services Muller EURL,Services,Auvergne-Rhône-Alpes,207225.0,12.1,-5.5,157764.0,76.1,39.0,69.3,5,34.0,1,3.3,1,0
+CL-0047,Bistrot Noël SA,Restauration,Grand Est,1208743.0,-4.8,6.8,568005.0,47.0,37.0,61.4,1,18.0,0,12.6,14,0
+CL-0048,Bazar Robin SASU,Commerce,Auvergne-Rhône-Alpes,334352.0,4.0,1.4,79810.0,23.9,16.0,65.1,4,66.5,3,10.1,4,0
+CL-0049,Conseil Nicolas SASU,Services,Normandie,617596.0,1.8,15.7,223588.0,36.2,30.0,30.8,3,24.0,1,29.0,5,0
+CL-0050,Charpentes Mathieu SA,BTP,Bourgogne-Franche-Comté,482205.0,-9.5,3.2,504690.0,104.7,19.0,50.8,4,21.2,0,7.9,5,0
+CL-0051,Boutique Mercier EURL,Commerce,Île-de-France,1118626.0,0.1,18.3,1034254.0,92.5,28.0,43.2,3,16.0,1,3.9,14,1
+CL-0052,Toitures Marie EURL,BTP,Île-de-France,1417556.0,-4.7,15.8,344604.0,24.3,50.0,22.2,1,25.0,0,40.0,18,0
+CL-0053,Services Gaillard EURL,Services,Île-de-France,82574.0,0.3,16.4,29577.0,35.8,45.0,28.4,2,10.0,0,24.6,1,0
+CL-0054,Mécanique Garcia EURL,Industrie,Grand Est,4309497.0,1.9,10.9,870621.0,20.2,31.0,38.8,3,26.3,1,16.7,35,0
+CL-0055,Conseil Denis SASU,Services,Île-de-France,513528.0,10.1,8.2,231995.0,45.2,47.0,18.5,1,14.0,0,22.1,4,0
+CL-0056,Services Roux SA,Services,Bretagne,497545.0,15.8,7.4,92042.0,18.5,59.0,13.9,0,0.0,0,5.8,4,0
+CL-0057,Bistrot Perrin EURL,Restauration,Pays de la Loire,415896.0,6.7,-0.1,162765.0,39.1,23.0,68.8,1,39.0,0,3.8,5,0
+CL-0058,Express Joly SARL,Transport,Bretagne,899794.0,-14.3,-0.4,710172.0,78.9,2.0,90.2,6,29.8,2,4.7,6,1
+CL-0059,Rénovation Barbier SAS,BTP,Hauts-de-France,193056.0,14.3,0.7,72002.0,37.3,36.0,33.7,3,35.7,0,21.5,3,0
+CL-0060,Maçonnerie Boyer EURL,BTP,Corse,787379.0,9.2,2.9,266960.0,33.9,57.0,34.4,0,0.0,0,14.9,7,0
+CL-0061,Métallerie Lemaire EURL,Industrie,Île-de-France,2246066.0,8.9,6.6,1316599.0,58.6,50.0,21.1,0,0.0,0,1.6,15,0
+CL-0062,Bistrot Henry SAS,Restauration,Nouvelle-Aquitaine,348385.0,-0.8,-6.4,283771.0,81.5,23.0,76.7,3,43.7,0,11.7,3,1
+CL-0063,Express Leroy SARL,Transport,Nouvelle-Aquitaine,535968.0,-8.4,-0.5,229269.0,42.8,14.0,88.3,5,36.2,4,4.2,5,1
+CL-0064,Services Noël SASU,Services,Centre-Val de Loire,881036.0,0.1,-2.0,202782.0,23.0,35.0,26.5,5,27.6,0,31.7,11,0
+CL-0065,Ateliers Durand SARL,Industrie,Hauts-de-France,2872650.0,-4.4,10.8,678272.0,23.6,54.0,13.4,0,0.0,0,15.4,28,0
+CL-0066,Fret Roux SAS,Transport,Bretagne,764428.0,9.5,-2.0,196785.0,25.7,52.0,33.7,1,16.0,0,11.3,9,0
+CL-0067,Ambulances Blanchard EURL,Transport,Île-de-France,332382.0,13.0,19.5,47130.0,14.2,59.0,12.3,1,17.0,0,8.3,3,0
+CL-0068,Épicerie Perrin SAS,Commerce,Centre-Val de Loire,335345.0,-4.5,11.7,202016.0,60.2,55.0,30.1,1,29.0,1,3.0,3,0
+CL-0069,Toitures Richard EURL,BTP,Hauts-de-France,655972.0,-11.3,-3.4,175634.0,26.8,25.0,81.5,7,47.3,2,12.4,6,0
+CL-0070,Bistrot Dumont SASU,Restauration,Occitanie,945391.0,9.2,11.3,287835.0,30.4,63.0,8.8,0,0.0,0,8.1,10,0
+CL-0071,Boutique Denis EURL,Commerce,Centre-Val de Loire,615213.0,4.8,24.5,156677.0,25.5,76.0,4.4,0,0.0,0,17.8,8,0
+CL-0072,Bistrot Muller SAS,Restauration,Nouvelle-Aquitaine,316945.0,4.9,14.3,64389.0,20.3,40.0,25.2,1,7.0,1,4.8,3,0
+CL-0073,Laboratoire Fournier SAS,Santé,Nouvelle-Aquitaine,1002194.0,16.9,8.3,328999.0,32.8,47.0,41.5,2,17.0,1,11.3,14,0
+CL-0074,Épicerie Martin SA,Commerce,Grand Est,996030.0,-2.4,0.1,675363.0,67.8,35.0,57.5,4,19.2,2,2.0,11,0
+CL-0075,Maçonnerie Michel SARL,BTP,Île-de-France,877696.0,5.3,17.7,429436.0,48.9,20.0,41.5,2,12.0,1,3.2,8,0
+CL-0076,Bazar Boyer SAS,Commerce,Nouvelle-Aquitaine,1065067.0,-2.9,-0.9,356933.0,33.5,19.0,51.5,8,38.5,0,3.1,12,0
+CL-0077,Comptoir Durand SAS,Commerce,Auvergne-Rhône-Alpes,975838.0,22.3,21.0,382675.0,39.2,58.0,2.4,1,10.0,0,5.1,12,0
+CL-0078,Mécanique Noël SARL,Industrie,Île-de-France,4233902.0,-6.1,5.4,1668911.0,39.4,29.0,50.1,0,0.0,0,19.9,55,0
+CL-0079,Express Lemaire SA,Transport,Normandie,1082184.0,-9.0,6.0,549118.0,50.7,44.0,29.9,2,14.0,0,6.9,7,0
+CL-0080,Studio David SAS,Services,Grand Est,211733.0,8.9,5.3,98643.0,46.6,48.0,26.3,1,31.0,0,8.0,2,0
+CL-0081,Mécanique Roussel SAS,Industrie,Nouvelle-Aquitaine,1916844.0,7.6,9.1,654733.0,34.2,38.0,32.3,0,0.0,0,1.8,14,1
+CL-0082,Boulangerie Henry SA,Restauration,Occitanie,704922.0,3.0,6.3,247181.0,35.1,24.0,42.2,4,13.8,0,6.6,4,0
+CL-0083,Agence Gaillard SASU,Services,Occitanie,1019200.0,-8.6,-0.2,311880.0,30.6,28.0,54.7,0,0.0,0,7.2,9,0
+CL-0084,Rénovation Roussel SA,BTP,Grand Est,1599315.0,-6.9,3.9,669480.0,41.9,29.0,51.4,5,32.4,1,4.9,13,1
+CL-0085,Charpentes Lemaire SAS,BTP,Bourgogne-Franche-Comté,821468.0,12.1,7.5,156858.0,19.1,73.0,7.6,1,10.0,0,10.9,11,0
+CL-0086,Charpentes Garnier EURL,BTP,Bourgogne-Franche-Comté,1627901.0,-8.4,7.0,1711611.0,105.1,44.0,30.1,0,0.0,0,7.4,11,0
+CL-0087,Solutions Richard SA,Services,Nouvelle-Aquitaine,240001.0,23.5,20.5,69816.0,29.1,56.0,6.3,0,0.0,0,2.7,3,0
+CL-0088,Boulangerie Dubois SA,Restauration,Nouvelle-Aquitaine,962400.0,2.4,4.2,292015.0,30.3,24.0,34.2,3,15.3,0,9.5,14,0
+CL-0089,Rénovation Richard SASU,BTP,Occitanie,2760850.0,5.9,5.5,1566255.0,56.7,37.0,55.7,1,9.0,0,7.5,24,0
+CL-0090,Ambulances Girard SA,Transport,Hauts-de-France,2218272.0,-0.7,2.1,2200541.0,99.2,27.0,70.1,5,26.4,0,4.9,16,1
+CL-0091,Charpentes David SAS,BTP,Occitanie,413247.0,-0.1,9.7,107954.0,26.1,44.0,21.0,0,0.0,0,1.3,3,0
+CL-0092,Studio Gautier SA,Services,Grand Est,192986.0,-3.6,3.2,119745.0,62.0,19.0,78.1,5,50.8,1,5.9,2,1
+CL-0093,Brasserie Gaillard SASU,Restauration,Hauts-de-France,847162.0,-3.7,4.2,472393.0,55.8,16.0,79.7,8,42.8,2,23.5,7,1
+CL-0094,Brasserie Rivière SAS,Restauration,Nouvelle-Aquitaine,607091.0,14.0,14.8,59958.0,9.9,56.0,6.4,0,0.0,0,17.8,6,0
+CL-0095,Maison Gautier SARL,Commerce,Nouvelle-Aquitaine,363380.0,-3.7,13.0,84397.0,23.2,17.0,80.5,1,12.0,2,9.0,3,0
+CL-0096,Mécanique Gautier SAS,Industrie,Nouvelle-Aquitaine,1529221.0,2.8,7.6,497776.0,32.6,36.0,62.2,3,14.0,0,3.0,11,0
+CL-0097,Brasserie Bernard SA,Restauration,Île-de-France,602354.0,2.7,7.2,161358.0,26.8,45.0,25.0,2,24.5,0,14.7,6,0
+CL-0098,Bâtiments Dubois SASU,BTP,Île-de-France,440363.0,0.9,14.1,76711.0,17.4,52.0,6.4,0,0.0,0,16.7,4,0
+CL-0099,Bâtiments Henry SASU,BTP,Provence-Alpes-Côte d'Azur,1128921.0,7.1,11.0,524860.0,46.5,23.0,70.2,5,28.2,0,1.4,8,0
+CL-0100,Ferme Garnier EURL,Agriculture,Nouvelle-Aquitaine,1357955.0,5.8,21.6,536806.0,39.5,54.0,3.7,0,0.0,0,24.8,10,0
+CL-0101,Clinique vétérinaire André SARL,Santé,Auvergne-Rhône-Alpes,742155.0,0.5,17.5,145114.0,19.6,49.0,14.7,0,0.0,0,26.2,7,0
+CL-0102,Agence Laurent SARL,Services,Hauts-de-France,1371830.0,3.1,9.3,834797.0,60.9,60.0,30.8,1,8.0,0,3.3,14,0
+CL-0103,Épicerie Roux SARL,Commerce,Pays de la Loire,956806.0,-8.6,6.9,758286.0,79.3,7.0,63.6,4,30.5,3,5.0,14,0
+CL-0104,GAEC Chevalier SARL,Agriculture,Auvergne-Rhône-Alpes,556973.0,12.7,11.4,173105.0,31.1,34.0,18.3,1,22.0,0,1.6,5,0
+CL-0105,Agence Bernard SARL,Services,Bretagne,716001.0,10.9,17.8,184896.0,25.8,54.0,3.7,0,0.0,1,15.9,5,0
+CL-0106,Conseil Blanc EURL,Services,Bourgogne-Franche-Comté,815519.0,-3.2,7.8,439946.0,53.9,49.0,33.7,0,0.0,0,7.7,8,0
+CL-0107,Boulangerie Nicolas EURL,Restauration,Grand Est,247241.0,7.8,2.0,76315.0,30.9,32.0,67.5,2,28.5,1,12.4,2,0
+CL-0108,Bazar Morel EURL,Commerce,Provence-Alpes-Côte d'Azur,559496.0,-0.5,0.9,153035.0,27.4,4.0,77.0,9,43.7,3,10.8,5,0
+CL-0109,Toitures Garcia SA,BTP,Île-de-France,435171.0,20.1,17.3,45676.0,10.5,62.0,4.1,1,9.0,0,13.5,4,0
+CL-0110,Pharmacie Blanchard SASU,Santé,Bourgogne-Franche-Comté,212199.0,5.8,17.1,72912.0,34.4,47.0,23.1,1,15.0,0,6.7,2,0
+CL-0111,Restaurant Robert EURL,Restauration,Nouvelle-Aquitaine,385449.0,8.1,17.6,75770.0,19.7,68.0,21.5,0,0.0,0,3.7,3,0
+CL-0112,Comptoir Dupont SAS,Commerce,Bourgogne-Franche-Comté,841025.0,8.4,2.3,95083.0,11.3,33.0,65.1,3,40.3,1,6.4,6,0
+CL-0113,Bazar André SARL,Commerce,Grand Est,507282.0,-3.6,11.5,345481.0,68.1,38.0,12.3,0,0.0,0,2.6,4,0
+CL-0114,Mécanique Simon EURL,Industrie,Île-de-France,2940713.0,14.7,6.8,2476582.0,84.2,52.0,15.7,0,0.0,0,39.1,31,0
+CL-0115,Bazar Dufour EURL,Commerce,Île-de-France,497833.0,12.3,9.8,118688.0,23.8,64.0,7.4,2,14.5,0,6.0,3,0
+CL-0116,Clinique vétérinaire André EURL,Santé,Provence-Alpes-Côte d'Azur,356840.0,0.5,4.4,453320.0,127.0,44.0,26.1,2,13.5,0,4.0,3,0
+CL-0117,Conseil Legrand SASU,Services,Hauts-de-France,482788.0,-8.9,4.0,187772.0,38.9,36.0,28.8,1,7.0,0,5.1,5,0
+CL-0118,Conseil Gauthier EURL,Services,Île-de-France,186144.0,-4.8,5.8,116505.0,62.6,36.0,54.3,2,14.5,1,5.3,1,0
+CL-0119,Restaurant Gauthier SAS,Restauration,Pays de la Loire,390190.0,-3.4,13.5,207070.0,53.1,29.0,60.9,0,0.0,1,7.4,3,0
+CL-0120,Mécanique Laurent SAS,Industrie,Bretagne,1257980.0,12.2,13.2,321326.0,25.5,60.0,12.7,0,0.0,0,7.4,17,0
+CL-0121,Métallerie Lucas EURL,Industrie,Hauts-de-France,1564818.0,-10.3,13.1,405379.0,25.9,43.0,41.9,0,0.0,1,4.2,13,0
+CL-0122,Plasturgie Clément SASU,Industrie,Occitanie,1402426.0,0.5,10.5,519535.0,37.0,47.0,19.9,1,14.0,0,7.5,17,0
+CL-0123,Charpentes Morin EURL,BTP,Île-de-France,2549519.0,-1.6,-0.4,561326.0,22.0,13.0,74.1,7,27.4,2,37.8,18,0
+CL-0124,Bistrot Garcia SASU,Restauration,Pays de la Loire,457357.0,4.0,15.1,66233.0,14.5,41.0,41.6,0,0.0,0,2.2,4,0
+CL-0125,Maçonnerie Bonnet SARL,BTP,Nouvelle-Aquitaine,511841.0,9.8,20.9,86787.0,17.0,54.0,8.3,0,0.0,0,2.9,4,0
+CL-0126,Express Masson EURL,Transport,Normandie,763323.0,4.8,5.3,325288.0,42.6,43.0,21.6,1,19.0,0,33.3,11,0
+CL-0127,Bazar Thomas EURL,Commerce,Nouvelle-Aquitaine,1067327.0,-3.3,11.8,485179.0,45.5,22.0,63.1,3,30.3,0,16.5,12,0
+CL-0128,Rénovation Mercier SAS,BTP,Hauts-de-France,950006.0,-1.1,11.7,213167.0,22.4,48.0,18.8,1,7.0,0,31.6,6,0
+CL-0129,Maçonnerie Mathieu SA,BTP,Auvergne-Rhône-Alpes,1354523.0,15.7,2.3,618247.0,45.6,51.0,26.0,1,10.0,0,12.2,17,0
+CL-0130,Plasturgie Chevalier EURL,Industrie,Île-de-France,3397237.0,9.3,10.0,1297925.0,38.2,48.0,5.8,0,0.0,0,19.8,34,0
+CL-0131,Boutique Clément SARL,Commerce,Pays de la Loire,1231179.0,-6.2,-0.3,427374.0,34.7,8.0,91.2,8,49.6,5,1.8,9,1
+CL-0132,Optique Giraud SASU,Santé,Hauts-de-France,218673.0,-0.2,20.8,37931.0,17.3,74.0,4.8,0,0.0,0,18.9,3,0
+CL-0133,Mécanique Duval EURL,Industrie,Hauts-de-France,2328552.0,1.1,12.8,735499.0,31.6,56.0,22.5,2,15.0,0,8.5,17,0
+CL-0134,Boulangerie François SAS,Restauration,Centre-Val de Loire,143270.0,-2.3,6.7,57758.0,40.3,29.0,61.5,4,25.0,3,20.5,1,0
+CL-0135,Ateliers Girard SASU,Industrie,Centre-Val de Loire,8680493.0,3.7,19.9,1128505.0,13.0,51.0,4.9,1,10.0,0,9.5,68,0
+CL-0136,Charpentes Chevalier SAS,BTP,Bretagne,730097.0,-7.4,-0.5,447246.0,61.3,18.0,76.8,6,40.2,2,1.1,5,1
+CL-0137,Vergers Vincent SA,Agriculture,Auvergne-Rhône-Alpes,1251510.0,4.5,3.5,489769.0,39.1,34.0,60.6,1,12.0,0,4.5,15,0
+CL-0138,Logistique Blanc EURL,Transport,Grand Est,1758586.0,-2.1,14.0,832450.0,47.3,25.0,47.9,5,33.2,1,3.1,13,0
+CL-0139,Agence David SAS,Services,Normandie,242022.0,-3.3,-0.2,36250.0,15.0,43.0,42.7,3,16.0,1,13.4,2,0
+CL-0140,Toitures Simon SASU,BTP,Nouvelle-Aquitaine,2204935.0,7.6,9.6,1178357.0,53.4,31.0,51.7,0,0.0,0,11.0,14,0
+CL-0141,Fret Masson SASU,Transport,Île-de-France,963225.0,10.3,5.0,319699.0,33.2,55.0,10.8,2,12.0,0,4.3,7,0
+CL-0142,Transports Bernard SASU,Transport,Bretagne,2448353.0,11.3,9.8,1555283.0,63.5,46.0,38.0,3,12.0,1,5.9,22,0
+CL-0143,Vergers Bernard SA,Agriculture,Occitanie,318148.0,-7.0,12.5,134063.0,42.1,51.0,15.8,1,9.0,0,3.2,3,0
+CL-0144,Plasturgie Martin SAS,Industrie,Hauts-de-France,3329809.0,-3.3,1.0,2553777.0,76.7,30.0,55.4,3,27.7,0,3.0,34,1
+CL-0145,Restaurant Brunet SASU,Restauration,Centre-Val de Loire,387046.0,3.8,3.2,189113.0,48.9,10.0,58.7,6,28.8,1,2.0,3,0
+CL-0146,Épicerie Girard SASU,Commerce,Grand Est,723966.0,-2.7,-2.5,187544.0,25.9,5.0,82.1,5,37.2,2,7.7,5,0
+CL-0147,Boutique Fournier SARL,Commerce,Occitanie,360103.0,-3.0,7.6,233412.0,64.8,34.0,44.2,5,32.4,0,3.9,2,0
+CL-0148,Fret Roussel SASU,Transport,Nouvelle-Aquitaine,374570.0,0.4,9.6,147250.0,39.3,29.0,46.5,3,19.3,0,6.5,5,0
+CL-0149,Brasserie Vincent SA,Restauration,Occitanie,165054.0,9.2,17.8,76332.0,46.2,27.0,31.2,0,0.0,0,8.7,2,0
+CL-0150,Maçonnerie Michel SARL 2,BTP,Île-de-France,2167606.0,-2.5,17.0,500743.0,23.1,43.0,45.4,1,7.0,0,9.0,26,0
+CL-0151,Services Moreau SASU,Services,Pays de la Loire,177926.0,5.1,4.0,86863.0,48.8,30.0,54.6,2,34.0,0,3.2,1,0
+CL-0152,Optique Nicolas SASU,Santé,Bretagne,478469.0,0.7,9.9,72597.0,15.2,48.0,17.2,1,47.0,1,4.3,3,0
+CL-0153,Maçonnerie Martin SARL,BTP,Auvergne-Rhône-Alpes,651221.0,-1.0,0.6,485104.0,74.5,25.0,70.5,4,21.2,0,1.1,6,0
+CL-0154,Ambulances Simon SARL,Transport,Auvergne-Rhône-Alpes,2128153.0,-7.5,16.5,662757.0,31.1,51.0,16.8,0,0.0,0,5.8,24,0
+CL-0155,Toitures André SAS,BTP,Normandie,2463868.0,-6.7,7.3,1055472.0,42.8,40.0,16.8,1,8.0,0,13.5,33,0
+CL-0156,Solutions François SA,Services,Île-de-France,1054690.0,-1.8,8.6,270352.0,25.6,31.0,28.8,1,9.0,0,1.3,12,0
+CL-0157,Comptoir Masson SA,Commerce,Hauts-de-France,232422.0,-4.1,2.0,92314.0,39.7,36.0,24.8,1,21.0,1,17.4,3,0
+CL-0158,Usinage Girard SA,Industrie,Occitanie,885560.0,1.6,12.2,314316.0,35.5,44.0,6.7,0,0.0,1,21.5,6,0
+CL-0159,Agence Thomas SASU,Services,Provence-Alpes-Côte d'Azur,190938.0,5.9,5.8,96244.0,50.4,37.0,27.4,1,29.0,0,8.5,2,0
+CL-0160,Services Durand SA,Services,Île-de-France,637839.0,13.3,15.6,198646.0,31.1,51.0,5.0,0,0.0,0,17.4,5,0
+CL-0161,Toitures Lucas SASU,BTP,Provence-Alpes-Côte d'Azur,1188327.0,1.7,4.3,327013.0,27.5,36.0,24.1,4,21.5,0,6.6,12,1
+CL-0162,Cabinet Chevalier SARL,Santé,Nouvelle-Aquitaine,1526236.0,10.8,-2.4,677956.0,44.4,23.0,64.9,4,18.8,2,4.0,14,0
+CL-0163,Bazar Roussel SASU,Commerce,Grand Est,270663.0,7.1,16.9,104671.0,38.7,27.0,45.7,5,23.2,1,1.6,3,0
+CL-0164,Charpentes Masson SASU,BTP,Île-de-France,482862.0,-0.6,5.8,108719.0,22.5,25.0,59.1,5,24.8,2,1.5,7,0
+CL-0165,Ambulances Rivière SA,Transport,Occitanie,1402843.0,-12.5,9.7,565214.0,40.3,3.0,90.3,5,46.0,1,17.5,11,0
+CL-0166,Boulangerie Duval SAS,Restauration,Hauts-de-France,251120.0,8.9,14.9,64994.0,25.9,45.0,13.4,1,17.0,0,25.9,2,0
+CL-0167,Conseil Faure SA,Services,Auvergne-Rhône-Alpes,782942.0,10.2,17.9,165321.0,21.1,50.0,19.5,1,18.0,1,8.1,5,0
+CL-0168,Conseil Gauthier SARL,Services,Île-de-France,131228.0,-4.5,10.9,35788.0,27.3,58.0,24.9,0,0.0,0,21.1,1,0
+CL-0169,Comptoir Simon EURL,Commerce,Auvergne-Rhône-Alpes,2641805.0,2.1,8.8,1058775.0,40.1,41.0,16.0,1,10.0,0,10.2,29,0
+CL-0170,Vergers Dumont EURL,Agriculture,Nouvelle-Aquitaine,465040.0,8.4,20.7,91993.0,19.8,74.0,1.1,0,0.0,0,16.1,3,0
+CL-0171,Épicerie Legrand SARL,Commerce,Île-de-France,184671.0,-2.9,7.1,53724.0,29.1,33.0,26.9,1,23.0,1,9.5,1,0
+CL-0172,Logistique Chevalier EURL,Transport,Bourgogne-Franche-Comté,4628290.0,3.6,17.7,2295362.0,49.6,48.0,25.9,1,10.0,0,9.1,55,0
+CL-0173,Boutique Noël SASU,Commerce,Occitanie,273578.0,5.8,4.9,68324.0,25.0,28.0,56.2,4,15.8,1,4.8,4,0
+CL-0174,Vergers François SASU,Agriculture,Bretagne,908282.0,-14.6,7.5,241601.0,26.6,40.0,54.0,1,28.0,1,9.5,7,0
+CL-0175,Rénovation Meyer SARL,BTP,Centre-Val de Loire,611722.0,6.6,6.8,123026.0,20.1,63.0,22.5,1,8.0,0,3.7,7,0
+CL-0176,Charpentes Thomas SASU,BTP,Île-de-France,316983.0,8.4,3.4,190406.0,60.1,33.0,72.3,4,24.2,1,1.5,2,0
+CL-0177,Traiteur Brun SAS,Restauration,Grand Est,304677.0,4.2,0.3,176593.0,58.0,41.0,45.9,1,50.0,2,7.9,2,1
+CL-0178,GAEC Gauthier SAS,Agriculture,Normandie,1173065.0,-4.1,3.9,494273.0,42.1,26.0,36.7,0,0.0,0,1.9,13,0
+CL-0179,Pharmacie Dupont SASU,Santé,Grand Est,894181.0,-14.1,21.6,623489.0,69.7,46.0,15.7,1,17.0,0,6.1,7,0
+CL-0180,Studio Rivière SASU,Services,Occitanie,132563.0,7.7,10.4,22242.0,16.8,66.0,12.4,0,0.0,0,1.2,2,0
+CL-0181,Cabinet Roussel EURL,Santé,Occitanie,949714.0,-2.8,9.3,243318.0,25.6,58.0,8.2,0,0.0,0,9.6,6,0
+CL-0182,Laboratoire Garnier SAS,Santé,Île-de-France,515284.0,13.7,19.9,187976.0,36.5,60.0,10.8,0,0.0,0,4.4,7,0
+CL-0183,Ambulances Brun SARL,Transport,Hauts-de-France,2117882.0,-12.2,3.6,773319.0,36.5,19.0,75.1,2,24.5,0,2.2,25,0
+CL-0184,Épicerie Girard SA,Commerce,Corse,184489.0,-3.3,17.1,73508.0,39.8,57.0,9.2,0,0.0,0,5.8,3,0
+CL-0185,Conseil Roux SAS,Services,Centre-Val de Loire,93968.0,-7.3,13.5,47980.0,51.1,34.0,32.3,3,15.0,0,5.5,1,0
+CL-0186,Usinage Morel SASU,Industrie,Île-de-France,753674.0,-2.8,16.5,279319.0,37.1,54.0,7.3,1,11.0,0,14.3,7,0
+CL-0187,Boulangerie Dufour SARL,Restauration,Provence-Alpes-Côte d'Azur,870069.0,-6.5,9.9,747192.0,85.9,34.0,32.3,3,28.3,0,23.7,11,1
+CL-0188,Bâtiments Durand SA,BTP,Auvergne-Rhône-Alpes,1006061.0,6.0,4.5,931654.0,92.6,22.0,47.2,3,16.3,0,13.7,11,0
+CL-0189,Solutions Legrand EURL,Services,Normandie,2126565.0,6.2,6.1,1103134.0,51.9,40.0,43.6,2,19.5,1,2.1,19,0
+CL-0190,Comptoir Bertrand SASU,Commerce,Île-de-France,389829.0,-2.1,13.7,106020.0,27.2,39.0,48.2,3,24.3,0,3.4,5,0
+CL-0191,Ferme Thomas EURL,Agriculture,Bourgogne-Franche-Comté,272999.0,2.9,11.1,311930.0,114.3,67.0,8.3,0,0.0,0,58.1,2,0
+CL-0192,Comptoir Robert SAS,Commerce,Bretagne,181702.0,-6.0,4.6,33076.0,18.2,49.0,24.2,1,12.0,0,5.7,2,0
+CL-0193,Charpentes Fontaine SAS,BTP,Île-de-France,1846282.0,2.3,4.0,607846.0,32.9,47.0,20.8,1,33.0,0,5.6,14,0
+CL-0194,Solutions Faure SASU,Services,Île-de-France,511263.0,0.2,13.1,231263.0,45.2,55.0,9.0,1,15.0,0,16.1,6,0
+CL-0195,Rénovation Durand SAS,BTP,Bretagne,1158055.0,16.0,6.7,491383.0,42.4,27.0,24.7,0,0.0,0,15.6,14,1
+CL-0196,Boutique Rivière SARL,Commerce,Île-de-France,770496.0,-1.0,12.2,464506.0,60.3,13.0,78.4,7,53.4,1,2.3,7,0
+CL-0197,Métallerie Leroy SAS,Industrie,Hauts-de-France,7478220.0,6.2,9.1,3823113.0,51.1,27.0,48.1,2,12.0,0,9.1,89,0
+CL-0198,Clinique vétérinaire Dufour SARL,Santé,Bourgogne-Franche-Comté,345270.0,6.5,16.8,141660.0,41.0,52.0,10.0,0,0.0,0,2.1,5,0
+CL-0199,Épicerie Blanchard SAS,Commerce,Hauts-de-France,1564111.0,-4.1,5.9,370216.0,23.7,34.0,55.2,4,24.5,1,17.4,15,0
+CL-0200,Épicerie Denis SARL,Commerce,Nouvelle-Aquitaine,857355.0,2.7,5.2,595499.0,69.5,37.0,75.6,5,41.2,0,1.7,7,0
+CL-0201,Services Blanchard SA,Services,Occitanie,260069.0,9.9,10.7,80809.0,31.1,51.0,23.7,0,0.0,0,7.9,2,0
+CL-0202,GAEC Dubois SASU,Agriculture,Île-de-France,447946.0,4.7,-0.5,267244.0,59.7,35.0,52.7,2,28.5,1,19.7,3,0
+CL-0203,Logistique Gaillard EURL,Transport,Centre-Val de Loire,676904.0,8.1,12.3,251129.0,37.1,49.0,36.5,0,0.0,0,6.2,8,0
+CL-0204,Toitures Denis EURL,BTP,Nouvelle-Aquitaine,1394716.0,17.5,12.4,218723.0,15.7,69.0,9.3,2,15.0,0,12.2,11,0
+CL-0205,Bâtiments Robert SARL,BTP,Auvergne-Rhône-Alpes,2192878.0,-14.2,5.8,1241680.0,56.6,29.0,55.1,3,26.0,0,9.0,17,0
+CL-0206,Comptoir Roux SA,Commerce,Auvergne-Rhône-Alpes,1200615.0,-3.7,2.0,225585.0,18.8,44.0,26.3,1,10.0,0,19.0,15,0
+CL-0207,Bâtiments Brunet EURL,BTP,Centre-Val de Loire,2164523.0,0.4,4.7,946125.0,43.7,51.0,31.4,0,0.0,0,28.5,24,0
+CL-0208,Conseil Robert SAS,Services,Île-de-France,362442.0,13.5,9.2,403491.0,111.3,60.0,13.4,0,0.0,0,12.4,3,0
+CL-0209,Maçonnerie Lambert SASU,BTP,Normandie,470925.0,5.9,10.9,105629.0,22.4,42.0,16.6,0,0.0,1,24.3,3,0
+CL-0210,Transports Laurent EURL,Transport,Provence-Alpes-Côte d'Azur,1199774.0,4.0,13.0,330058.0,27.5,29.0,61.8,1,38.0,0,4.9,11,0
+CL-0211,Services Girard SA,Services,Bretagne,168987.0,3.3,-6.4,61513.0,36.4,47.0,35.8,0,0.0,0,8.1,1,0
+CL-0212,Mécanique Fontaine SARL,Industrie,Centre-Val de Loire,2732571.0,-3.8,18.8,876235.0,32.1,39.0,36.5,2,23.5,2,6.4,31,0
+CL-0213,Comptoir Garnier EURL,Commerce,Bretagne,858457.0,3.4,2.3,358944.0,41.8,44.0,23.6,1,27.0,0,25.1,7,0
+CL-0214,Conseil Leroy SASU,Services,Bourgogne-Franche-Comté,526280.0,4.3,17.7,95905.0,18.2,66.0,5.8,1,9.0,0,16.3,5,0
+CL-0215,Conseil Simon EURL,Services,Île-de-France,129469.0,8.3,14.4,21887.0,16.9,46.0,17.9,0,0.0,0,4.4,1,0
+CL-0216,Services Perrin SARL,Services,Pays de la Loire,391610.0,-0.5,11.7,19638.0,5.0,56.0,4.0,0,0.0,0,5.2,3,0
+CL-0217,Toitures François EURL,BTP,Hauts-de-France,334583.0,14.9,12.6,71405.0,21.3,41.0,23.2,4,26.8,0,29.4,3,0
+CL-0218,Bâtiments Perrin SARL,BTP,Hauts-de-France,480908.0,11.8,9.7,155142.0,32.3,56.0,9.1,1,17.0,1,3.5,5,0
+CL-0219,Clinique vétérinaire Roux SA,Santé,Normandie,756381.0,9.9,11.9,386928.0,51.2,70.0,9.3,0,0.0,0,5.6,6,0
+CL-0220,Brasserie Henry SARL,Restauration,Centre-Val de Loire,437430.0,-10.6,-1.2,258441.0,59.1,27.0,69.0,4,25.8,0,5.1,4,0
+CL-0221,Maison Garnier SA,Commerce,Provence-Alpes-Côte d'Azur,135979.0,-0.8,5.2,84749.0,62.3,23.0,51.5,3,14.3,1,1.2,1,0
+CL-0222,Fret Muller SARL,Transport,Occitanie,883663.0,1.6,15.6,366463.0,41.5,60.0,17.3,0,0.0,0,9.0,8,0
+CL-0223,Usinage Mercier SARL,Industrie,Occitanie,1970833.0,8.9,16.0,508736.0,25.8,41.0,28.9,2,12.0,0,5.8,25,0
+CL-0224,Domaine Roux SAS,Agriculture,Nouvelle-Aquitaine,428139.0,-3.6,1.1,89376.0,20.9,25.0,86.9,8,46.6,2,2.2,4,0
+CL-0225,Boutique Muller SAS,Commerce,Nouvelle-Aquitaine,490628.0,2.8,-1.2,260994.0,53.2,11.0,85.5,9,42.0,2,1.2,5,0
+CL-0226,Pharmacie Mercier SAS,Santé,Nouvelle-Aquitaine,1958608.0,-6.7,-4.1,373241.0,19.1,27.0,70.8,3,44.0,1,6.0,15,0
+CL-0227,Bâtiments Guérin SARL,BTP,Île-de-France,103209.0,-3.5,11.6,45023.0,43.6,31.0,56.2,3,30.7,0,16.5,1,0
+CL-0228,Ambulances Guérin SA,Transport,Île-de-France,819667.0,11.3,17.0,208458.0,25.4,71.0,4.8,0,0.0,0,14.9,5,0
+CL-0229,Métallerie Barbier SASU,Industrie,Pays de la Loire,516271.0,18.3,5.2,596599.0,115.6,34.0,36.2,3,24.0,0,3.4,4,0
+CL-0230,Charpentes Marchand SARL,BTP,Occitanie,622098.0,12.3,5.6,425262.0,68.4,32.0,26.9,2,25.5,0,4.2,4,0
+CL-0231,Toitures Lambert SARL,BTP,Bourgogne-Franche-Comté,1705823.0,1.4,9.2,942552.0,55.3,35.0,62.6,3,20.7,1,7.0,16,0
+CL-0232,Restaurant Bertrand SARL,Restauration,Grand Est,3281676.0,-2.3,6.0,932113.0,28.4,28.0,56.4,2,40.0,0,1.9,31,0
+CL-0233,Ferme Durand SA,Agriculture,Île-de-France,831718.0,12.8,13.7,133673.0,16.1,49.0,45.6,1,10.0,0,10.2,6,0
+CL-0234,Usinage Marchand SAS,Industrie,Île-de-France,2491160.0,-4.9,7.6,2641526.0,106.0,45.0,42.8,2,26.5,1,3.7,29,0
+CL-0235,EARL Lefèvre EURL,Agriculture,Auvergne-Rhône-Alpes,925208.0,-18.2,8.9,313755.0,33.9,27.0,28.0,0,0.0,0,20.2,6,0
+CL-0236,Solutions Fournier SAS,Services,Centre-Val de Loire,245989.0,5.8,13.7,106314.0,43.2,51.0,29.8,3,14.3,0,10.4,3,0
+CL-0237,Traiteur Meunier SASU,Restauration,Auvergne-Rhône-Alpes,656065.0,-0.3,4.7,158797.0,24.2,46.0,34.0,1,21.0,0,4.4,9,0
+CL-0238,Agence Dupont SASU,Services,Hauts-de-France,483144.0,-5.6,11.9,279919.0,57.9,59.0,5.0,0,0.0,0,15.9,5,0
+CL-0239,Charpentes Lefèvre SARL,BTP,Bourgogne-Franche-Comté,1988864.0,-0.2,-8.1,654713.0,32.9,17.0,73.4,9,35.0,2,21.6,19,1
+CL-0240,Charpentes Lemaire SARL,BTP,Centre-Val de Loire,836359.0,-14.0,2.8,439170.0,52.5,9.0,83.7,7,30.9,5,8.1,8,0
+CL-0241,Studio Michel SAS,Services,Auvergne-Rhône-Alpes,501163.0,5.7,3.6,234626.0,46.8,32.0,50.4,3,16.3,2,3.9,6,0
+CL-0242,Solutions Bonnet SAS,Services,Île-de-France,288494.0,12.8,14.1,113318.0,39.3,52.0,10.6,0,0.0,0,30.9,2,0
+CL-0243,Bazar Lefèvre SARL,Commerce,Île-de-France,638382.0,0.6,8.5,154082.0,24.1,65.0,12.6,0,0.0,0,19.2,5,0
+CL-0244,Ambulances Gauthier SARL,Transport,Île-de-France,1190734.0,18.4,8.2,463883.0,39.0,46.0,28.3,1,9.0,1,23.0,13,0
+CL-0245,Usinage Garcia SAS,Industrie,Auvergne-Rhône-Alpes,3497395.0,2.0,-2.8,1200570.0,34.3,15.0,79.2,5,32.6,0,11.1,35,0
+CL-0246,Laboratoire Henry SAS,Santé,Hauts-de-France,716911.0,5.5,21.7,164200.0,22.9,72.0,7.0,0,0.0,0,10.4,6,0
+CL-0247,Métallerie Blanc SA,Industrie,Bourgogne-Franche-Comté,2089389.0,-3.8,8.8,934492.0,44.7,38.0,30.4,0,0.0,0,11.7,17,0
+CL-0248,Brasserie Lambert EURL,Restauration,Hauts-de-France,262982.0,0.7,6.9,247294.0,94.0,30.0,69.1,3,37.7,2,2.6,3,0
+CL-0249,Traiteur David SA,Restauration,Grand Est,372156.0,4.6,-0.4,183958.0,49.4,25.0,69.9,5,41.0,1,9.4,4,0
+CL-0250,Brasserie André SAS,Restauration,Auvergne-Rhône-Alpes,311024.0,8.7,6.6,66020.0,21.2,38.0,42.9,0,0.0,0,2.7,2,0
+CL-0251,Usinage Joly EURL,Industrie,Pays de la Loire,2364537.0,11.2,14.5,1497687.0,63.3,37.0,12.5,0,0.0,0,3.7,21,0
+CL-0252,Clinique vétérinaire Morel SA,Santé,Grand Est,282977.0,0.5,14.4,148824.0,52.6,36.0,28.9,0,0.0,0,4.6,2,0
+CL-0253,Bistrot Henry EURL,Restauration,Normandie,1275100.0,-4.1,-0.4,790949.0,62.0,19.0,68.3,5,30.2,1,14.0,8,0
+CL-0254,Maison Clément SASU,Commerce,Centre-Val de Loire,388913.0,4.3,3.8,346058.0,89.0,34.0,24.3,1,8.0,0,7.5,4,1
+CL-0255,Maison Joly SAS,Commerce,Nouvelle-Aquitaine,1869542.0,-10.6,0.5,1628656.0,87.1,30.0,34.4,1,14.0,1,7.5,12,0
+CL-0256,Studio Lefèvre SAS,Services,Île-de-France,174389.0,10.7,15.9,30636.0,17.6,54.0,18.9,0,0.0,0,10.7,2,0
+CL-0257,Solutions Nicolas SAS,Services,Auvergne-Rhône-Alpes,1356570.0,1.6,1.6,352840.0,26.0,51.0,10.2,0,0.0,0,7.4,10,0
+CL-0258,Charpentes Noël SARL,BTP,Occitanie,1456742.0,-4.6,4.8,342611.0,23.5,22.0,59.2,5,24.4,1,12.3,13,0
+CL-0259,Bâtiments Lefebvre EURL,BTP,Bourgogne-Franche-Comté,393259.0,-5.7,-8.1,174141.0,44.3,25.0,58.6,4,47.2,2,1.7,3,0
+CL-0260,Mécanique Meyer SA,Industrie,Nouvelle-Aquitaine,2973191.0,8.8,11.0,1361095.0,45.8,40.0,45.5,2,27.0,0,5.6,33,0
+CL-0261,Charpentes Muller SARL,BTP,Pays de la Loire,1179552.0,-10.6,1.3,261872.0,22.2,24.0,85.4,2,32.5,1,7.7,9,0
+CL-0262,Services Giraud SASU,Services,Hauts-de-France,1115886.0,-8.1,18.3,305641.0,27.4,53.0,13.2,1,10.0,0,2.1,7,0
+CL-0263,Comptoir Denis EURL,Commerce,Île-de-France,578226.0,3.4,3.9,153366.0,26.5,41.0,48.5,0,0.0,0,6.5,4,0
+CL-0264,Bâtiments Mathieu SA,BTP,Nouvelle-Aquitaine,1712650.0,4.6,8.8,1117534.0,65.3,51.0,24.8,0,0.0,0,6.6,15,0
+CL-0265,Clinique vétérinaire Boyer SASU,Santé,Grand Est,635575.0,13.0,15.6,388237.0,61.1,62.0,4.6,1,22.0,0,12.1,7,0
+CL-0266,Maçonnerie Roussel SAS,BTP,Provence-Alpes-Côte d'Azur,318527.0,22.9,7.1,261548.0,82.1,15.0,57.0,3,49.7,2,4.5,3,1
+CL-0267,Épicerie Fournier SAS,Commerce,Occitanie,882785.0,-3.1,2.8,266362.0,30.2,43.0,22.3,0,0.0,0,10.9,6,0
+CL-0268,Maçonnerie Richard EURL,BTP,Auvergne-Rhône-Alpes,689679.0,-0.0,7.1,311782.0,45.2,52.0,17.5,1,6.0,0,13.3,5,0
+CL-0269,Charpentes Brunet SARL,BTP,Provence-Alpes-Côte d'Azur,923424.0,2.0,0.8,291270.0,31.5,27.0,48.8,2,17.5,0,11.6,9,0
+CL-0270,Rénovation Lefèvre SASU,BTP,Île-de-France,1537648.0,-8.4,10.7,407775.0,26.5,23.0,50.3,2,25.0,2,3.9,14,1
+CL-0271,Charpentes Blanc EURL,BTP,Bourgogne-Franche-Comté,2484670.0,-5.7,3.4,746178.0,30.0,16.0,50.9,4,19.8,1,12.8,20,0
+CL-0272,Bazar Lambert SA,Commerce,Auvergne-Rhône-Alpes,349178.0,-1.3,7.1,243009.0,69.6,32.0,57.4,2,17.0,0,11.8,2,0
+CL-0273,Bâtiments Bonnet SAS,BTP,Île-de-France,622014.0,-6.5,8.6,666796.0,107.2,31.0,64.9,5,30.8,2,4.5,7,1
+CL-0274,Métallerie Moreau SAS,Industrie,Hauts-de-France,1816453.0,-2.8,-3.8,701861.0,38.6,44.0,63.6,2,11.5,0,3.4,21,0
+CL-0275,Studio Noël SASU,Services,Hauts-de-France,486355.0,-10.8,10.9,229486.0,47.2,50.0,23.9,3,10.0,0,4.4,3,0
+CL-0276,Traiteur Duval EURL,Restauration,Hauts-de-France,422070.0,4.8,5.1,114115.0,27.0,38.0,51.7,0,0.0,0,2.6,3,0
+CL-0277,Maison Michel SASU,Commerce,Occitanie,562145.0,6.4,10.6,339084.0,60.3,33.0,55.4,2,26.0,0,8.4,4,0
+CL-0278,Express Roux SARL,Transport,Corse,753158.0,-11.6,8.4,120216.0,16.0,34.0,22.4,1,23.0,0,7.7,5,0
+CL-0279,Pharmacie Lemaire EURL,Santé,Occitanie,319492.0,0.3,3.8,274895.0,86.0,25.0,62.4,4,41.8,1,6.4,3,0
+CL-0280,Cabinet Duval EURL,Santé,Occitanie,372668.0,3.6,-1.6,316799.0,85.0,23.0,65.2,3,27.3,1,4.2,5,0
+CL-0281,Toitures Joly SA,BTP,Occitanie,577160.0,-4.5,-2.4,204049.0,35.4,25.0,82.3,4,24.8,0,2.0,7,0
+CL-0282,Boutique Dumont SAS,Commerce,Île-de-France,973249.0,3.4,9.4,723961.0,74.4,30.0,46.7,4,21.2,0,21.6,7,0
+CL-0283,Comptoir Henry EURL,Commerce,Grand Est,348209.0,6.1,1.7,27860.0,8.0,34.0,38.4,1,8.0,0,8.7,2,0
+CL-0284,Comptoir Arnaud SARL,Commerce,Auvergne-Rhône-Alpes,2247806.0,13.1,6.8,507135.0,22.6,53.0,5.1,0,0.0,0,14.7,25,0
+CL-0285,Ateliers Thomas SA,Industrie,Grand Est,603960.0,3.3,9.1,322375.0,53.4,54.0,26.8,1,15.0,0,17.1,5,0
+CL-0286,Bistrot Mercier EURL,Restauration,Île-de-France,307570.0,-1.9,9.4,110462.0,35.9,48.0,29.5,2,13.0,0,14.8,2,0
+CL-0287,Charpentes Perrin SARL,BTP,Centre-Val de Loire,870339.0,-0.7,4.1,150047.0,17.2,30.0,46.4,2,35.0,0,6.0,11,0
+CL-0288,Brasserie Lucas SASU,Restauration,Occitanie,512686.0,1.1,6.4,243864.0,47.6,27.0,58.3,0,0.0,2,10.0,7,0
+CL-0289,Transports Vincent SAS,Transport,Normandie,1319171.0,-14.2,-2.1,462209.0,35.0,8.0,85.5,8,50.2,1,1.4,17,0
+CL-0290,Maçonnerie Bonnet EURL,BTP,Occitanie,782851.0,6.2,6.7,483439.0,61.8,54.0,18.6,2,13.5,1,16.3,6,0
+CL-0291,Conseil Dupont SASU,Services,Île-de-France,611763.0,3.6,10.0,69657.0,11.4,59.0,8.5,0,0.0,0,22.4,6,0
+CL-0292,Charpentes Blanchard SA,BTP,Bretagne,352698.0,9.1,-1.4,169995.0,48.2,18.0,66.9,5,34.6,1,25.6,3,0
+CL-0293,Cabinet Legrand SARL,Santé,Grand Est,1461989.0,-3.6,11.2,270759.0,18.5,36.0,38.1,0,0.0,0,3.5,12,0
+CL-0294,Rénovation Simon SARL,BTP,Pays de la Loire,369209.0,19.7,10.2,139124.0,37.7,37.0,27.7,1,7.0,0,3.2,4,0
+CL-0295,Solutions Lefèvre SASU,Services,Occitanie,232905.0,-6.6,2.1,44181.0,19.0,40.0,33.0,2,39.5,0,7.2,2,0
+CL-0296,Pharmacie Denis EURL,Santé,Grand Est,587425.0,-8.6,4.3,169629.0,28.9,44.0,22.8,1,8.0,0,10.2,6,0
+CL-0297,Domaine Dufour SASU,Agriculture,Normandie,923868.0,11.2,18.5,250209.0,27.1,39.0,39.0,0,0.0,0,9.3,9,0
+CL-0298,Conseil Simon SAS,Services,Grand Est,528986.0,0.7,15.4,139991.0,26.5,35.0,15.7,1,6.0,0,19.0,6,0
+CL-0299,Agence Lambert SAS,Services,Nouvelle-Aquitaine,944070.0,-0.2,9.8,586846.0,62.2,13.0,79.8,8,47.0,3,7.8,7,0
+CL-0300,Usinage Simon EURL,Industrie,Provence-Alpes-Côte d'Azur,1878542.0,4.3,3.5,1015886.0,54.1,37.0,65.5,0,0.0,0,7.5,18,0
+CL-0301,Agence Gautier SASU,Services,Provence-Alpes-Côte d'Azur,581256.0,-9.1,8.6,250564.0,43.1,36.0,58.6,2,25.5,1,8.0,4,0
+CL-0302,Toitures Mercier SAS,BTP,Centre-Val de Loire,429521.0,-14.9,7.7,108865.0,25.3,70.0,15.0,1,13.0,0,6.1,4,0
+CL-0303,Express Roussel SASU,Transport,Nouvelle-Aquitaine,1782200.0,-10.4,-0.4,1162472.0,65.2,29.0,42.1,1,35.0,1,5.9,20,0
+CL-0304,Express Guérin SAS,Transport,Occitanie,1470745.0,-4.4,2.2,516787.0,35.1,17.0,88.8,6,29.5,2,4.5,12,1
+CL-0305,Cabinet Joly EURL,Santé,Bretagne,487883.0,3.9,2.5,236842.0,48.5,38.0,31.1,0,0.0,0,2.4,4,0
+CL-0306,Brasserie Gaillard EURL,Restauration,Hauts-de-France,282064.0,10.0,21.0,36694.0,13.0,104.0,0.8,0,0.0,0,3.8,2,0
+CL-0307,Brasserie Marchand SASU,Restauration,Provence-Alpes-Côte d'Azur,964513.0,0.8,0.6,1471549.0,152.6,13.0,84.1,10,46.5,1,2.4,8,1
+CL-0308,Métallerie Garnier SASU,Industrie,Occitanie,2962392.0,-12.7,-8.4,1061804.0,35.8,22.0,80.3,9,46.3,2,7.0,21,1
+CL-0309,Épicerie Lambert EURL,Commerce,Auvergne-Rhône-Alpes,1558942.0,1.1,5.7,203156.0,13.0,74.0,3.6,0,0.0,0,33.9,19,0
+CL-0310,Toitures Giraud EURL,BTP,Pays de la Loire,800062.0,5.4,3.5,399212.0,49.9,11.0,74.4,8,42.2,2,8.9,7,0
+CL-0311,Boulangerie Chevalier SAS,Restauration,Île-de-France,755568.0,9.3,13.7,140328.0,18.6,71.0,1.6,1,19.0,0,8.1,5,0
+CL-0312,Boulangerie Lambert SAS,Restauration,Auvergne-Rhône-Alpes,1448079.0,8.6,9.2,730784.0,50.5,26.0,36.3,4,34.8,0,8.4,13,0
+CL-0313,Bazar Robin SAS,Commerce,Grand Est,1022271.0,-1.8,11.1,388217.0,38.0,29.0,29.9,1,42.0,1,3.2,11,0
+CL-0314,Traiteur Gaillard SAS,Restauration,Pays de la Loire,1094635.0,9.1,14.2,244832.0,22.4,87.0,3.2,0,0.0,0,7.0,11,0
+CL-0315,Bistrot Boyer EURL,Restauration,Normandie,1057066.0,1.0,11.9,954670.0,90.3,25.0,68.9,5,21.2,1,3.1,9,0
+CL-0316,Bazar Gauthier EURL,Commerce,Auvergne-Rhône-Alpes,1258574.0,-7.1,7.7,1125989.0,89.5,22.0,57.5,4,19.0,1,10.8,11,0
+CL-0317,Bistrot Giraud SASU,Restauration,Île-de-France,492266.0,7.4,8.0,209052.0,42.5,31.0,53.2,1,10.0,1,17.7,5,0
+CL-0318,Agence André SA,Services,Centre-Val de Loire,1022825.0,7.5,10.0,387084.0,37.8,33.0,31.8,2,27.5,0,3.2,9,0
+CL-0319,Maison Simon SARL,Commerce,Île-de-France,810535.0,3.9,6.6,278299.0,34.3,24.0,29.1,4,11.8,0,25.6,8,0
+CL-0320,Domaine Noël SASU,Agriculture,Auvergne-Rhône-Alpes,507033.0,9.9,14.9,141135.0,27.8,67.0,6.0,0,0.0,0,21.0,4,0
+CL-0321,Laboratoire Lemaire SASU,Santé,Auvergne-Rhône-Alpes,622596.0,-5.1,8.4,111423.0,17.9,37.0,64.7,3,29.7,0,1.0,7,0
+CL-0322,Ambulances Nicolas EURL,Transport,Hauts-de-France,1583214.0,-3.3,-1.8,1782076.0,112.6,9.0,86.4,6,70.8,4,5.0,17,0
+CL-0323,Maison Morin SARL,Commerce,Normandie,769144.0,1.6,9.3,589749.0,76.7,17.0,68.2,5,42.4,1,2.9,6,0
+CL-0324,Express Laurent SASU,Transport,Pays de la Loire,458760.0,-1.5,8.3,108516.0,23.7,40.0,23.6,1,9.0,0,2.5,4,0
+CL-0325,Conseil Chevalier SAS,Services,Provence-Alpes-Côte d'Azur,1632585.0,0.2,12.6,274149.0,16.8,59.0,10.1,0,0.0,0,16.9,14,0
+CL-0326,Ateliers Moreau SASU,Industrie,Île-de-France,2398690.0,-3.7,8.9,366164.0,15.3,69.0,16.8,0,0.0,0,12.3,15,0
+CL-0327,Conseil Meunier EURL,Services,Nouvelle-Aquitaine,547470.0,17.4,8.3,165136.0,30.2,78.0,1.6,0,0.0,0,7.0,5,0
+CL-0328,Fret Lefèvre EURL,Transport,Occitanie,3219892.0,0.4,10.3,2918521.0,90.6,41.0,18.6,1,21.0,0,15.7,21,0
+CL-0329,Plasturgie Lefebvre SARL,Industrie,Île-de-France,1103477.0,-7.0,14.4,119991.0,10.9,29.0,59.9,2,28.5,0,14.0,10,0
+CL-0330,Comptoir Lemaire SARL,Commerce,Auvergne-Rhône-Alpes,1131144.0,6.5,8.1,307711.0,27.2,52.0,12.3,0,0.0,0,1.9,7,0
+CL-0331,Conseil Muller SASU,Services,Auvergne-Rhône-Alpes,218002.0,0.0,7.2,39453.0,18.1,38.0,57.9,1,19.0,1,1.8,3,0
+CL-0332,Comptoir André SAS,Commerce,Île-de-France,668148.0,4.1,8.5,209984.0,31.4,36.0,29.6,1,17.0,0,13.8,4,0
+CL-0333,Conseil Thomas SARL,Services,Hauts-de-France,942483.0,9.5,12.1,238027.0,25.3,50.0,13.2,0,0.0,0,1.9,12,0
+CL-0334,Clinique vétérinaire Lemaire SASU,Santé,Provence-Alpes-Côte d'Azur,1349727.0,10.5,17.9,793934.0,58.8,53.0,15.4,1,12.0,0,18.0,9,0
+CL-0335,Bâtiments André SA,BTP,Île-de-France,600675.0,14.4,14.0,153098.0,25.5,75.0,2.8,0,0.0,0,10.3,5,0
+CL-0336,Mécanique Garnier SASU,Industrie,Occitanie,870389.0,-6.1,4.6,429261.0,49.3,28.0,33.3,0,0.0,0,12.5,5,0
+CL-0337,Maçonnerie Mercier SASU,BTP,Pays de la Loire,182493.0,0.5,0.6,53419.0,29.3,32.0,31.3,1,12.0,0,5.8,2,0
+CL-0338,Studio Marchand SASU,Services,Pays de la Loire,1189715.0,-8.8,6.8,528206.0,44.4,19.0,69.5,0,0.0,0,3.8,10,1
+CL-0339,Bâtiments Martin SASU,BTP,Bretagne,189837.0,10.7,8.8,86850.0,45.7,39.0,31.4,1,58.0,1,4.7,2,0
+CL-0340,Vergers Thomas SARL,Agriculture,Occitanie,499636.0,-2.2,9.2,534598.0,107.0,42.0,47.0,1,10.0,0,2.1,3,0
+CL-0341,Rénovation Blanc SAS,BTP,Bretagne,475376.0,4.2,10.9,163263.0,34.3,43.0,29.8,1,18.0,0,4.8,6,0
+CL-0342,GAEC Roussel SASU,Agriculture,Auvergne-Rhône-Alpes,151831.0,6.2,6.2,62312.0,41.0,33.0,26.8,1,15.0,0,11.6,2,0
+CL-0343,Solutions Girard SASU,Services,Nouvelle-Aquitaine,219150.0,9.6,12.1,154645.0,70.6,46.0,40.8,1,26.0,2,19.6,2,0
+CL-0344,Métallerie Lambert SAS,Industrie,Île-de-France,1851266.0,1.9,18.6,492496.0,26.6,40.0,46.4,1,21.0,0,1.6,22,0
+CL-0345,Conseil Nicolas SARL,Services,Occitanie,666076.0,8.0,9.4,105170.0,15.8,40.0,35.0,1,18.0,0,18.8,8,0
+CL-0346,Agence Masson SARL,Services,Nouvelle-Aquitaine,462192.0,-1.9,3.6,116346.0,25.2,41.0,33.8,0,0.0,0,28.5,4,0
+CL-0347,Vergers Faure SAS,Agriculture,Auvergne-Rhône-Alpes,300885.0,-2.9,6.8,118617.0,39.4,48.0,9.3,1,20.0,0,24.7,2,0
+CL-0348,Comptoir Nicolas SASU,Commerce,Pays de la Loire,233412.0,1.1,11.3,78250.0,33.5,43.0,28.8,0,0.0,0,8.1,2,0
+CL-0349,Métallerie Gaillard SAS,Industrie,Nouvelle-Aquitaine,5378484.0,4.7,3.5,1771881.0,32.9,35.0,17.0,1,11.0,0,18.7,39,0
+CL-0350,Rénovation Dupont SA,BTP,Auvergne-Rhône-Alpes,630486.0,4.6,-1.0,201216.0,31.9,25.0,51.5,2,18.5,0,13.9,7,0
+CL-0351,Mécanique Bonnet EURL,Industrie,Île-de-France,1466236.0,-1.9,4.8,493689.0,33.7,40.0,41.1,0,0.0,0,7.8,14,0
+CL-0352,Maison Laurent SASU,Commerce,Occitanie,1351443.0,11.2,17.4,245983.0,18.2,41.0,32.7,1,9.0,1,8.5,18,0
+CL-0353,Logistique Clément SASU,Transport,Auvergne-Rhône-Alpes,748160.0,7.8,15.5,376034.0,50.3,52.0,28.5,1,8.0,0,2.6,5,0
+CL-0354,Métallerie Lucas EURL 2,Industrie,Nouvelle-Aquitaine,2256593.0,-2.2,16.7,976059.0,43.3,62.0,29.8,0,0.0,0,16.6,21,0
+CL-0355,Boulangerie Giraud SARL,Restauration,Auvergne-Rhône-Alpes,681973.0,3.0,8.0,448245.0,65.7,39.0,15.0,0,0.0,0,1.7,6,0
+CL-0356,Fret Marie SARL,Transport,Pays de la Loire,1541392.0,-1.2,8.9,364856.0,23.7,31.0,48.0,2,37.5,0,11.4,18,1
+CL-0357,Services Gautier SAS,Services,Bourgogne-Franche-Comté,212595.0,11.7,16.4,188410.0,88.6,30.0,16.0,1,16.0,0,35.9,2,0
+CL-0358,Studio Garnier SA,Services,Hauts-de-France,203820.0,-1.0,5.5,67170.0,33.0,10.0,53.8,2,18.5,1,13.8,3,0
+CL-0359,Ambulances Noël EURL,Transport,Grand Est,1525088.0,6.8,5.0,179522.0,11.8,44.0,16.0,3,11.3,0,8.3,13,0
+CL-0360,Ateliers Rivière SARL,Industrie,Normandie,1400707.0,-6.7,5.6,1355061.0,96.7,11.0,78.6,8,35.6,1,5.3,9,0
+CL-0361,EARL Robert SA,Agriculture,Corse,617500.0,10.8,10.9,347246.0,56.2,53.0,25.8,1,8.0,1,18.0,4,0
+CL-0362,Charpentes Bertrand SARL,BTP,Grand Est,418153.0,-4.2,10.0,109136.0,26.1,54.0,34.4,1,41.0,0,1.9,3,0
+CL-0363,Charpentes Marchand SA,BTP,Normandie,1396324.0,-7.1,3.3,254384.0,18.2,37.0,20.2,0,0.0,0,7.1,9,0
+CL-0364,Charpentes Clément SA,BTP,Bourgogne-Franche-Comté,2312841.0,-1.5,23.9,147453.0,6.4,65.0,10.0,0,0.0,0,14.4,19,0
+CL-0365,Métallerie Girard SA,Industrie,Pays de la Loire,3346613.0,-5.0,6.6,832328.0,24.9,27.0,58.7,7,27.4,3,4.7,36,1
+CL-0366,Bistrot Lucas SARL,Restauration,Occitanie,604038.0,2.6,3.2,209322.0,34.7,29.0,70.2,8,40.1,5,5.4,4,0
+CL-0367,Conseil Blanchard EURL,Services,Île-de-France,149381.0,2.6,11.0,89106.0,59.6,44.0,39.1,1,30.0,1,1.8,2,0
+CL-0368,Conseil Giraud SARL,Services,Île-de-France,102475.0,-3.1,15.1,35926.0,35.1,51.0,22.7,0,0.0,0,2.5,1,0
+CL-0369,Maison Roux SARL,Commerce,Occitanie,422952.0,-7.6,-5.3,275147.0,65.1,1.0,86.8,7,43.9,4,1.3,3,1
+CL-0370,Optique Meunier SARL,Santé,Occitanie,309935.0,17.3,3.6,70037.0,22.6,55.0,7.8,0,0.0,0,4.9,3,0
+CL-0371,Conseil Morin SARL,Services,Occitanie,410703.0,5.8,14.5,126457.0,30.8,45.0,7.0,1,8.0,0,7.6,3,0
+CL-0372,Maison Rivière EURL,Commerce,Hauts-de-France,1435821.0,-14.1,12.5,1011022.0,70.4,30.0,71.9,4,21.2,4,4.6,12,0
+CL-0373,Restaurant Leroy EURL,Restauration,Hauts-de-France,73632.0,6.3,6.3,46921.0,63.7,26.0,75.1,5,30.6,3,4.1,1,1
+CL-0374,Boutique Legrand SASU,Commerce,Bretagne,837479.0,3.8,4.7,559693.0,66.8,8.0,89.4,7,64.0,2,11.4,7,0
+CL-0375,Rénovation Roux EURL,BTP,Île-de-France,881985.0,4.2,3.8,540529.0,61.3,30.0,25.7,3,18.0,1,25.9,7,0
+CL-0376,Rénovation Bertrand SAS,BTP,Auvergne-Rhône-Alpes,1143564.0,9.1,11.1,218115.0,19.1,40.0,26.3,1,26.0,0,7.8,15,0
+CL-0377,EARL Blanc SAS,Agriculture,Pays de la Loire,1468292.0,11.2,13.7,263966.0,18.0,52.0,14.8,3,16.7,0,8.1,13,0
+CL-0378,Brasserie Garcia SASU,Restauration,Bretagne,295441.0,-4.2,9.2,122294.0,41.4,49.0,9.4,2,21.0,1,4.0,2,0
+CL-0379,Brasserie Lefèvre SARL,Restauration,Corse,527094.0,8.8,13.8,153192.0,29.1,34.0,42.5,3,19.0,3,5.2,4,0
+CL-0380,Solutions Fontaine SARL,Services,Normandie,303104.0,-5.8,-6.9,119672.0,39.5,26.0,57.4,4,35.0,0,4.7,4,1
+CL-0381,Transports Barbier SAS,Transport,Normandie,3270407.0,-3.9,15.9,864123.0,26.4,35.0,39.2,2,12.5,0,28.6,43,0
+CL-0382,Ferme Guérin SARL,Agriculture,Nouvelle-Aquitaine,448981.0,1.1,4.4,120116.0,26.8,27.0,32.7,1,6.0,0,12.2,5,1
+CL-0383,Agence Martin EURL,Services,Nouvelle-Aquitaine,506427.0,2.0,7.9,94266.0,18.6,67.0,8.2,0,0.0,0,14.8,5,0
+CL-0384,Restaurant Garnier SARL,Restauration,Auvergne-Rhône-Alpes,307262.0,8.8,1.4,291869.0,95.0,33.0,55.7,2,21.0,1,2.9,3,0
+CL-0385,Traiteur David SASU,Restauration,Grand Est,435203.0,-1.3,10.0,213242.0,49.0,17.0,79.0,5,26.8,0,16.6,3,0
+CL-0386,Vergers Masson EURL,Agriculture,Bourgogne-Franche-Comté,738749.0,14.4,14.0,341697.0,46.3,31.0,30.2,2,34.0,0,6.2,6,0
+CL-0387,Services Lefèvre SA,Services,Nouvelle-Aquitaine,338495.0,-7.0,5.3,62591.0,18.5,28.0,64.9,5,22.4,0,2.3,3,0
+CL-0388,Domaine Faure SAS,Agriculture,Hauts-de-France,286618.0,4.7,0.9,58065.0,20.3,31.0,24.9,0,0.0,0,10.2,2,0
+CL-0389,Rénovation Barbier EURL,BTP,Auvergne-Rhône-Alpes,463721.0,-5.5,-2.5,153821.0,33.2,19.0,81.7,5,48.4,1,2.4,3,0
+CL-0390,Pharmacie Guérin EURL,Santé,Île-de-France,2320389.0,12.4,16.4,473800.0,20.4,85.0,1.3,0,0.0,0,6.4,22,0
+CL-0391,Mécanique Marie EURL,Industrie,Auvergne-Rhône-Alpes,2023297.0,2.3,4.5,568739.0,28.1,36.0,49.6,2,23.5,0,2.2,21,0
+CL-0392,Bâtiments Garcia SARL,BTP,Île-de-France,2773248.0,-10.9,-5.2,2375300.0,85.7,4.0,94.0,9,50.7,5,8.1,22,1
+CL-0393,Usinage Muller SA,Industrie,Centre-Val de Loire,3274377.0,19.0,10.6,368418.0,11.3,54.0,10.8,0,0.0,0,3.0,27,0
+CL-0394,Services Guérin SASU,Services,Occitanie,656694.0,-14.4,12.8,138105.0,21.0,38.0,57.4,1,20.0,0,3.2,5,0
+CL-0395,Rénovation Henry EURL,BTP,Bretagne,597611.0,-1.1,6.8,111421.0,18.6,24.0,63.3,4,34.8,0,2.5,7,0
+CL-0396,Boulangerie Barbier SA,Restauration,Provence-Alpes-Côte d'Azur,904486.0,8.5,13.5,342196.0,37.8,17.0,55.0,2,28.0,0,1.4,8,0
+CL-0397,Conseil Boyer SASU,Services,Auvergne-Rhône-Alpes,658847.0,6.5,3.9,169307.0,25.7,28.0,61.0,2,14.0,0,2.2,4,0
+CL-0398,Comptoir François EURL,Commerce,Île-de-France,2111185.0,-5.4,13.2,724924.0,34.3,29.0,30.9,0,0.0,0,14.4,15,0
+CL-0399,Bistrot Fournier SASU,Restauration,Bretagne,253153.0,-11.6,12.9,51285.0,20.3,23.0,56.1,2,32.5,0,5.2,2,0
+CL-0400,Traiteur Dupont SARL,Restauration,Auvergne-Rhône-Alpes,550533.0,-8.2,6.8,113117.0,20.5,19.0,72.1,2,51.5,1,17.1,4,1
+CL-0401,Bazar Leroy EURL,Commerce,Bourgogne-Franche-Comté,2039656.0,-5.6,8.9,488258.0,23.9,30.0,46.1,1,29.0,0,25.0,24,0
+CL-0402,Optique Girard SAS,Santé,Île-de-France,391873.0,-15.6,6.2,522355.0,133.3,-6.0,90.2,7,33.0,4,27.1,3,1
+CL-0403,Agence Simon SARL,Services,Provence-Alpes-Côte d'Azur,225753.0,2.0,12.7,40419.0,17.9,31.0,30.7,0,0.0,0,1.7,3,0
+CL-0404,Bâtiments Guérin SASU,BTP,Bretagne,1313692.0,8.1,5.2,449588.0,34.2,34.0,47.5,3,21.7,0,8.1,14,0
+CL-0405,EARL Meunier EURL,Agriculture,Auvergne-Rhône-Alpes,479448.0,10.5,6.8,153933.0,32.1,51.0,12.8,1,27.0,0,2.0,4,0
+CL-0406,Pharmacie Dufour SARL,Santé,Auvergne-Rhône-Alpes,784506.0,-0.9,13.6,231122.0,29.5,57.0,12.9,0,0.0,0,20.1,7,0
+CL-0407,Comptoir Guérin SASU,Commerce,Centre-Val de Loire,353743.0,11.3,0.6,98639.0,27.9,38.0,36.9,1,34.0,1,14.7,2,0
+CL-0408,Services Rivière SAS,Services,Auvergne-Rhône-Alpes,406571.0,-1.4,13.4,63528.0,15.6,59.0,9.3,0,0.0,0,5.0,4,0
+CL-0409,Charpentes Gaillard EURL,BTP,Occitanie,1663534.0,-1.3,12.1,409083.0,24.6,64.0,12.6,0,0.0,0,5.4,23,0
+CL-0410,Vergers Mercier SAS,Agriculture,Occitanie,524473.0,-1.4,5.7,318256.0,60.7,37.0,27.5,1,16.0,0,8.3,4,0
+CL-0411,Usinage Meyer SA,Industrie,Auvergne-Rhône-Alpes,5550023.0,-6.9,0.7,2193523.0,39.5,-5.0,88.1,2,34.5,1,11.5,50,0
+CL-0412,Plasturgie Masson SASU,Industrie,Pays de la Loire,704560.0,9.3,13.5,278194.0,39.5,51.0,37.2,1,18.0,0,17.7,8,0
+CL-0413,Maçonnerie André SASU,BTP,Pays de la Loire,1221139.0,9.8,5.6,438178.0,35.9,53.0,39.9,1,7.0,0,2.0,16,0
+CL-0414,Optique Gauthier EURL,Santé,Nouvelle-Aquitaine,866234.0,13.1,19.7,397486.0,45.9,74.0,2.5,0,0.0,0,8.4,5,0
+CL-0415,Bâtiments Denis SASU,BTP,Bretagne,840380.0,-4.5,11.2,204676.0,24.4,29.0,46.3,4,24.5,0,5.3,8,0
+CL-0416,Bazar Boyer SASU,Commerce,Auvergne-Rhône-Alpes,2213076.0,1.4,13.7,1557231.0,70.4,28.0,21.4,4,20.5,0,3.9,19,0
+CL-0417,Bâtiments Noël EURL,BTP,Île-de-France,955495.0,17.4,14.1,132753.0,13.9,73.0,4.1,0,0.0,0,12.1,7,0
+CL-0418,Services Durand SAS,Services,Hauts-de-France,271084.0,-1.6,3.1,100229.0,37.0,18.0,63.6,3,51.0,2,5.6,2,0
+CL-0419,Bazar Thomas SASU,Commerce,Corse,812865.0,-6.1,5.4,567700.0,69.8,28.0,42.1,1,16.0,1,13.7,10,1
+CL-0420,Laboratoire Lucas SA,Santé,Île-de-France,221638.0,13.2,18.7,128439.0,57.9,32.0,36.6,5,26.8,0,16.8,2,0
+CL-0421,Métallerie Bonnet SASU,Industrie,Auvergne-Rhône-Alpes,1785884.0,-16.7,8.9,390661.0,21.9,28.0,68.1,2,21.0,0,5.3,17,0
+CL-0422,Rénovation Gaillard SARL,BTP,Hauts-de-France,479585.0,-0.8,-1.2,232479.0,48.5,36.0,73.6,3,35.7,1,1.2,4,0
+CL-0423,Toitures Rousseau SARL,BTP,Bretagne,199992.0,-6.4,0.6,131463.0,65.7,29.0,43.5,0,0.0,0,32.7,2,0
+CL-0424,Rénovation Marie SARL,BTP,Île-de-France,526382.0,-0.9,10.1,320359.0,60.9,25.0,70.3,6,36.0,1,12.0,6,0
+CL-0425,Ateliers Giraud SA,Industrie,Nouvelle-Aquitaine,3524024.0,6.4,16.9,441997.0,12.5,66.0,4.1,0,0.0,0,21.4,29,0
+CL-0426,Conseil Joly SA,Services,Pays de la Loire,383565.0,2.7,18.1,90073.0,23.5,46.0,11.5,0,0.0,0,1.9,5,0
+CL-0427,Bazar David SASU,Commerce,Nouvelle-Aquitaine,1459081.0,1.6,19.0,591969.0,40.6,51.0,30.4,0,0.0,0,2.3,9,0
+CL-0428,Services Joly EURL,Services,Auvergne-Rhône-Alpes,272023.0,-1.4,5.2,83814.0,30.8,46.0,20.9,1,16.0,0,1.6,2,0
+CL-0429,Bâtiments Richard SAS,BTP,Auvergne-Rhône-Alpes,460490.0,-5.0,5.0,111743.0,24.3,26.0,71.1,8,35.4,0,3.2,5,0
+CL-0430,Conseil Leroy SARL,Services,Occitanie,453730.0,-3.2,12.0,191537.0,42.2,35.0,59.5,1,34.0,0,1.1,6,0
+CL-0431,Clinique vétérinaire Robin SASU,Santé,Occitanie,1177972.0,-0.2,3.6,1216462.0,103.3,25.0,48.5,2,13.0,0,19.9,9,0
+CL-0432,Services Faure SASU,Services,Normandie,460327.0,-1.9,5.5,210919.0,45.8,28.0,42.8,5,22.2,1,4.4,4,0
+CL-0433,Agence Blanc SARL,Services,Grand Est,346828.0,16.9,12.2,38006.0,11.0,60.0,12.4,0,0.0,0,15.4,2,0
+CL-0434,Studio Arnaud SASU,Services,Provence-Alpes-Côte d'Azur,622672.0,0.7,6.2,109158.0,17.5,42.0,20.9,0,0.0,0,17.1,9,1
+CL-0435,Maçonnerie Gautier SA,BTP,Centre-Val de Loire,708864.0,-0.4,13.7,340020.0,48.0,34.0,15.1,1,10.0,0,17.0,5,0
+CL-0436,Comptoir Morel EURL,Commerce,Occitanie,1071191.0,-3.5,7.7,472733.0,44.1,31.0,29.1,0,0.0,0,7.0,9,0
+CL-0437,Bâtiments Arnaud SAS,BTP,Occitanie,487847.0,7.5,4.3,214311.0,43.9,37.0,34.1,2,12.5,1,32.7,4,0
+CL-0438,Logistique Marchand SARL,Transport,Bourgogne-Franche-Comté,947618.0,-0.9,19.4,217461.0,22.9,66.0,5.6,0,0.0,0,20.9,7,0
+CL-0439,Agence Moreau SAS,Services,Auvergne-Rhône-Alpes,320522.0,-12.4,10.8,385236.0,120.2,11.0,79.2,9,49.7,3,29.7,2,0
+CL-0440,Usinage Lefèvre SAS,Industrie,Provence-Alpes-Côte d'Azur,7241701.0,11.7,11.2,3972118.0,54.9,26.0,51.3,0,0.0,0,9.0,85,0
+CL-0441,Clinique vétérinaire Lucas SARL,Santé,Pays de la Loire,929311.0,10.7,8.9,212516.0,22.9,55.0,9.3,2,13.5,0,19.4,6,0
+CL-0442,Rénovation Bernard SASU,BTP,Île-de-France,165615.0,-3.5,2.3,87634.0,52.9,23.0,83.7,10,42.8,4,6.5,1,1
+CL-0443,Services Lemaire SAS,Services,Occitanie,1292775.0,-7.0,15.9,480539.0,37.2,46.0,17.6,0,0.0,0,12.9,12,0
+CL-0444,Épicerie Marie SA,Commerce,Auvergne-Rhône-Alpes,1150140.0,2.5,10.0,147677.0,12.8,42.0,38.9,3,17.3,0,11.8,11,0
+CL-0445,Épicerie Martin SASU,Commerce,Île-de-France,1738554.0,-1.2,12.2,1735010.0,99.8,37.0,40.5,0,0.0,0,1.7,11,0
+CL-0446,Solutions Blanc SA,Services,Occitanie,820113.0,-6.4,5.7,369268.0,45.0,12.0,85.2,6,48.8,0,3.0,7,0
+CL-0447,Vergers Lemaire SARL,Agriculture,Auvergne-Rhône-Alpes,281919.0,3.8,19.3,55888.0,19.8,53.0,17.8,0,0.0,0,14.9,3,0
+CL-0448,Métallerie Denis SAS,Industrie,Pays de la Loire,1486440.0,-0.5,7.5,604658.0,40.7,36.0,66.2,0,0.0,1,1.2,13,0
+CL-0449,Charpentes Meyer SA,BTP,Bourgogne-Franche-Comté,411349.0,15.6,7.3,142409.0,34.6,28.0,51.5,3,37.7,1,14.2,3,0
+CL-0450,Usinage Thomas EURL,Industrie,Pays de la Loire,2648015.0,-5.8,10.1,2850127.0,107.6,35.0,43.1,2,10.5,0,8.9,18,0
+CL-0451,Rénovation Robert SA,BTP,Auvergne-Rhône-Alpes,243517.0,13.8,18.1,81578.0,33.5,47.0,17.3,2,12.5,0,43.3,3,0
+CL-0452,Cabinet Giraud SASU,Santé,Auvergne-Rhône-Alpes,833683.0,-3.1,0.8,431784.0,51.8,31.0,56.9,4,18.8,1,1.3,5,0
+CL-0453,Agence Robert SARL,Services,Auvergne-Rhône-Alpes,414653.0,-2.6,5.1,360390.0,86.9,5.0,88.6,7,35.1,6,7.5,4,0
+CL-0454,Maison Muller SA,Commerce,Île-de-France,368088.0,5.3,13.8,95479.0,25.9,44.0,18.9,0,0.0,0,29.6,3,0
+CL-0455,Maçonnerie Rivière SA,BTP,Bourgogne-Franche-Comté,3129809.0,0.2,4.7,1339655.0,42.8,19.0,76.1,3,28.3,2,1.1,37,0
+CL-0456,Boutique Henry SA,Commerce,Nouvelle-Aquitaine,1106611.0,12.6,10.6,450207.0,40.7,50.0,25.6,2,21.0,0,10.6,13,0
+CL-0457,GAEC Robert SA,Agriculture,Auvergne-Rhône-Alpes,60017.0,-7.2,12.0,38715.0,64.5,21.0,70.7,6,39.8,2,4.9,1,1
+CL-0458,Bistrot Bernard SA,Restauration,Bretagne,694444.0,-7.5,11.0,142657.0,20.5,46.0,41.3,3,25.7,0,3.6,8,0
+CL-0459,Solutions Robert SAS,Services,Nouvelle-Aquitaine,299432.0,-2.2,9.9,66604.0,22.2,41.0,28.0,2,31.0,0,13.2,3,1
+CL-0460,Ateliers Brunet SARL,Industrie,Île-de-France,2142794.0,-3.7,11.4,130947.0,6.1,60.0,5.2,0,0.0,0,6.6,19,0
+CL-0461,Plasturgie Chevalier SASU,Industrie,Île-de-France,4703718.0,8.2,19.9,924479.0,19.7,81.0,16.2,0,0.0,0,8.7,46,0
+CL-0462,Toitures Giraud SARL,BTP,Grand Est,855151.0,4.8,17.0,344015.0,40.2,49.0,22.4,1,45.0,1,1.0,6,0
+CL-0463,EARL Moreau EURL,Agriculture,Pays de la Loire,414462.0,-4.5,-1.3,238270.0,57.5,47.0,23.4,1,20.0,0,8.0,5,0
+CL-0464,Comptoir Richard SAS,Commerce,Auvergne-Rhône-Alpes,277462.0,8.2,5.4,219533.0,79.1,18.0,80.7,6,32.7,4,1.7,3,0
+CL-0465,Usinage Duval SAS,Industrie,Bourgogne-Franche-Comté,2556638.0,10.6,22.6,657122.0,25.7,47.0,21.1,0,0.0,1,6.9,22,0
+CL-0466,Services Arnaud EURL,Services,Bretagne,272949.0,-5.9,18.9,67735.0,24.8,54.0,17.0,1,9.0,0,1.8,2,0
+CL-0467,Usinage Blanchard EURL,Industrie,Bretagne,3542449.0,1.6,13.8,1683505.0,47.5,52.0,32.7,2,18.0,0,10.9,32,0
+CL-0468,Domaine Blanc SA,Agriculture,Auvergne-Rhône-Alpes,683626.0,4.9,4.6,283115.0,41.4,23.0,73.0,3,28.0,1,2.7,5,0
+CL-0469,Charpentes Lefèvre SA,BTP,Île-de-France,4087997.0,-9.4,8.8,1931541.0,47.2,2.0,68.8,2,62.0,4,1.2,36,1
+CL-0470,Transports Gautier EURL,Transport,Normandie,631169.0,9.9,8.4,433688.0,68.7,36.0,18.7,0,0.0,0,16.4,5,0
+CL-0471,Bistrot Petit SASU,Restauration,Auvergne-Rhône-Alpes,255330.0,-6.1,-4.6,150444.0,58.9,22.0,48.9,2,13.0,0,3.2,2,0
+CL-0472,Traiteur Bertrand EURL,Restauration,Grand Est,619923.0,7.3,0.1,215443.0,34.8,12.0,86.1,8,33.6,2,1.1,4,1
+CL-0473,Toitures Brunet SASU,BTP,Pays de la Loire,488665.0,0.1,5.1,108552.0,22.2,54.0,14.5,0,0.0,0,11.8,4,0
+CL-0474,Maçonnerie Gautier SASU,BTP,Île-de-France,445113.0,0.7,3.9,431653.0,97.0,33.0,38.1,1,9.0,0,7.7,3,0
+CL-0475,Maison Duval EURL,Commerce,Pays de la Loire,271571.0,3.3,15.4,184382.0,67.9,29.0,71.6,9,31.7,4,9.5,2,0
+CL-0476,Épicerie Denis SASU,Commerce,Bourgogne-Franche-Comté,1943296.0,16.2,6.4,1260373.0,64.9,43.0,31.1,0,0.0,0,19.5,13,0
+CL-0477,Traiteur Roussel SA,Restauration,Provence-Alpes-Côte d'Azur,299297.0,2.0,15.8,59838.0,20.0,50.0,32.3,1,25.0,0,2.8,2,0
+CL-0478,Métallerie Arnaud EURL,Industrie,Occitanie,2363627.0,2.5,1.4,1230632.0,52.1,31.0,36.3,2,16.5,0,3.5,15,0
+CL-0479,Usinage Moreau SAS,Industrie,Normandie,1240469.0,2.2,15.3,514800.0,41.5,61.0,14.7,2,8.5,0,13.4,9,0
+CL-0480,Bistrot Marie SASU,Restauration,Hauts-de-France,672795.0,13.3,3.3,363953.0,54.1,62.0,20.9,0,0.0,0,5.1,5,0
+CL-0481,Bistrot Simon EURL,Restauration,Pays de la Loire,551527.0,-14.5,-0.6,492355.0,89.3,26.0,55.3,5,16.4,0,3.6,4,0
+CL-0482,Comptoir Thomas SAS,Commerce,Bretagne,841595.0,9.4,9.4,300258.0,35.7,34.0,74.6,3,38.7,2,16.1,9,1
+CL-0483,Métallerie Moreau SASU,Industrie,Pays de la Loire,1626327.0,-3.9,7.6,654695.0,40.3,36.0,24.9,2,15.0,0,4.9,13,0
+CL-0484,Comptoir Richard SARL,Commerce,Auvergne-Rhône-Alpes,718868.0,-6.1,7.1,224680.0,31.3,31.0,33.3,1,18.0,0,4.8,9,0
+CL-0485,Toitures Robin SAS,BTP,Île-de-France,916877.0,13.5,13.4,362841.0,39.6,51.0,14.3,0,0.0,0,27.3,7,0
+CL-0486,Brasserie André EURL,Restauration,Auvergne-Rhône-Alpes,432685.0,-0.1,-5.2,84571.0,19.5,27.0,26.3,2,21.0,0,1.2,5,0
+CL-0487,Boulangerie Leroy EURL,Restauration,Hauts-de-France,826198.0,3.4,6.2,101387.0,12.3,43.0,20.4,1,13.0,0,28.0,7,0
+CL-0488,Bazar David SARL,Commerce,Hauts-de-France,545666.0,9.7,11.1,186094.0,34.1,59.0,15.2,1,8.0,0,4.6,6,0
+CL-0489,Métallerie François EURL,Industrie,Grand Est,3597241.0,5.1,7.4,1728154.0,48.0,22.0,55.2,4,47.2,1,30.4,24,0
+CL-0490,Logistique Bonnet SAS,Transport,Nouvelle-Aquitaine,648706.0,11.3,-2.6,313815.0,48.4,41.0,46.7,3,23.7,2,2.2,8,0
+CL-0491,Agence Boyer SARL,Services,Pays de la Loire,543430.0,1.3,12.8,179135.0,33.0,32.0,51.5,0,0.0,1,8.7,5,0
+CL-0492,Métallerie Chevalier SA,Industrie,Bourgogne-Franche-Comté,1292743.0,4.5,5.3,878575.0,68.0,44.0,17.8,0,0.0,0,13.1,9,0
+CL-0493,Usinage Dupont SASU,Industrie,Auvergne-Rhône-Alpes,30871590.0,6.9,9.6,16071229.0,52.1,46.0,50.7,2,25.0,1,13.5,288,0
+CL-0494,Boutique Meyer EURL,Commerce,Provence-Alpes-Côte d'Azur,1052039.0,15.9,11.1,299089.0,28.4,52.0,41.9,1,10.0,1,1.9,9,0
+CL-0495,Conseil Perrin SASU,Services,Provence-Alpes-Côte d'Azur,192769.0,1.4,8.9,71902.0,37.3,20.0,54.7,0,0.0,0,1.8,1,0
+CL-0496,Logistique Moreau EURL,Transport,Hauts-de-France,1113581.0,3.9,16.4,154194.0,13.8,47.0,24.6,2,12.5,0,9.7,10,0
+CL-0497,Restaurant François SAS,Restauration,Auvergne-Rhône-Alpes,402977.0,-5.2,5.4,595326.0,147.7,11.0,76.0,2,21.0,1,1.9,3,1
+CL-0498,Plasturgie Petit SAS,Industrie,Pays de la Loire,2648034.0,0.6,8.5,852514.0,32.2,47.0,20.8,1,24.0,1,15.5,31,0
+CL-0499,Bistrot Mercier EURL 2,Restauration,Centre-Val de Loire,239182.0,0.6,-0.0,110515.0,46.2,47.0,29.6,0,0.0,0,17.9,2,0
+CL-0500,Transports Mercier EURL,Transport,Provence-Alpes-Côte d'Azur,257569.0,11.8,6.1,88168.0,34.2,52.0,21.9,0,0.0,0,2.4,2,0
+CL-0501,Agence Simon SA,Services,Bourgogne-Franche-Comté,1151096.0,-0.3,5.1,378942.0,32.9,26.0,30.7,0,0.0,0,14.2,7,0
+CL-0502,Clinique vétérinaire Mathieu EURL,Santé,Centre-Val de Loire,625470.0,5.2,9.3,229135.0,36.6,45.0,25.1,1,32.0,0,1.4,4,0
+CL-0503,Clinique vétérinaire Denis SASU,Santé,Nouvelle-Aquitaine,1138932.0,16.2,14.2,79962.0,7.0,71.0,14.3,0,0.0,0,29.3,8,0
+CL-0504,Transports Robin SAS,Transport,Grand Est,478112.0,-4.3,4.1,290982.0,60.9,25.0,67.6,1,28.0,1,7.6,4,0
+CL-0505,Fret Guérin SA,Transport,Occitanie,1937237.0,1.2,5.2,666741.0,34.4,31.0,61.7,4,32.2,0,12.9,15,0
+CL-0506,Studio Gauthier SA,Services,Centre-Val de Loire,373037.0,4.2,13.3,306950.0,82.3,22.0,84.0,7,23.1,2,12.7,3,0
+CL-0507,Comptoir Muller SAS,Commerce,Île-de-France,585992.0,7.9,14.1,257369.0,43.9,53.0,15.0,0,0.0,0,10.6,5,0
+CL-0508,Services Denis SARL,Services,Occitanie,156322.0,-10.7,10.8,47481.0,30.4,28.0,39.1,1,7.0,0,9.0,1,0
+CL-0509,Express Vincent EURL,Transport,Normandie,1087910.0,8.5,12.4,616488.0,56.7,48.0,11.9,0,0.0,0,1.3,7,0
+CL-0510,Bâtiments Masson EURL,BTP,Auvergne-Rhône-Alpes,1549563.0,2.7,6.7,1537530.0,99.2,49.0,61.2,2,19.0,0,19.1,14,0
+CL-0511,Maçonnerie Simon EURL,BTP,Pays de la Loire,822964.0,-3.3,8.8,212524.0,25.8,42.0,47.8,1,25.0,0,9.3,8,0
+CL-0512,Agence Lucas EURL,Services,Nouvelle-Aquitaine,1411769.0,2.0,11.1,321103.0,22.7,50.0,11.3,2,10.0,0,3.6,12,0
+CL-0513,Toitures Legrand SA,BTP,Centre-Val de Loire,1228023.0,6.5,15.1,185191.0,15.1,32.0,38.5,5,16.6,1,4.8,9,0
+CL-0514,Boutique Bonnet SARL,Commerce,Normandie,2203965.0,6.0,9.6,500348.0,22.7,71.0,3.3,0,0.0,0,5.0,17,0
+CL-0515,Maison Chevalier SAS,Commerce,Auvergne-Rhône-Alpes,375276.0,-7.7,9.4,206458.0,55.0,26.0,48.4,1,14.0,0,1.6,5,0
+CL-0516,Épicerie Henry SARL,Commerce,Pays de la Loire,274648.0,-0.3,5.8,57303.0,20.9,63.0,21.0,0,0.0,0,2.9,2,0
+CL-0517,Comptoir Clément SAS,Commerce,Nouvelle-Aquitaine,432241.0,9.7,11.8,151709.0,35.1,35.0,46.4,1,19.0,0,1.2,3,0
+CL-0518,Agence Rousseau SASU,Services,Grand Est,223161.0,-5.9,14.9,148784.0,66.7,80.0,7.6,2,16.5,0,9.1,2,0
+CL-0519,Maçonnerie Muller SASU,BTP,Grand Est,602452.0,-5.9,7.0,252296.0,41.9,34.0,43.5,0,0.0,0,5.8,8,0
+CL-0520,Conseil Garcia SARL,Services,Bretagne,452741.0,-2.1,7.3,131233.0,29.0,41.0,33.8,0,0.0,0,29.8,3,0
+CL-0521,Pharmacie Bertrand SAS,Santé,Île-de-France,834980.0,9.0,6.3,332144.0,39.8,39.0,23.6,0,0.0,0,3.4,10,0
+CL-0522,Brasserie Gaillard SAS,Restauration,Auvergne-Rhône-Alpes,278500.0,-10.6,2.0,147383.0,52.9,37.0,66.2,3,14.0,1,8.7,3,0
+CL-0523,Toitures Joly SA 2,BTP,Provence-Alpes-Côte d'Azur,989396.0,-4.1,4.2,199934.0,20.2,11.0,85.0,8,36.8,3,1.6,7,0
+CL-0524,Métallerie Dubois SAS,Industrie,Hauts-de-France,1162469.0,0.7,-2.3,450419.0,38.7,41.0,34.7,1,22.0,0,4.2,10,0
+CL-0525,Rénovation Perrin SARL,BTP,Hauts-de-France,738681.0,13.8,7.2,270973.0,36.7,34.0,73.7,5,35.2,1,9.5,7,0
+CL-0526,Bistrot Noël SA 2,Restauration,Île-de-France,282799.0,-12.1,2.5,268946.0,95.1,20.0,76.3,8,27.0,1,28.3,3,0
+CL-0527,GAEC Bertrand SAS,Agriculture,Nouvelle-Aquitaine,312693.0,4.2,4.3,100298.0,32.1,52.0,46.9,0,0.0,0,30.4,2,0
+CL-0528,GAEC Rousseau SAS,Agriculture,Normandie,907199.0,-10.5,7.4,846276.0,93.3,28.0,57.8,0,0.0,1,1.4,12,1
+CL-0529,Studio Thomas SAS,Services,Île-de-France,289507.0,-2.4,13.1,190588.0,65.8,15.0,61.8,2,31.0,2,9.7,2,0
+CL-0530,Épicerie Simon SA,Commerce,Nouvelle-Aquitaine,796618.0,-6.0,10.2,799253.0,100.3,9.0,81.5,6,45.2,2,3.3,5,1
+CL-0531,Solutions Joly SASU,Services,Bourgogne-Franche-Comté,223368.0,-1.5,5.5,56504.0,25.3,60.0,27.3,0,0.0,0,19.8,2,0
+CL-0532,Conseil Joly SASU,Services,Île-de-France,404725.0,8.1,22.9,109606.0,27.1,54.0,13.2,0,0.0,0,13.0,4,0
+CL-0533,Boulangerie Muller SASU,Restauration,Pays de la Loire,580715.0,-5.9,7.2,545726.0,94.0,42.0,43.1,1,30.0,0,3.1,4,0
+CL-0534,Usinage Girard SASU,Industrie,Auvergne-Rhône-Alpes,5018093.0,-10.8,12.0,827955.0,16.5,42.0,31.5,1,9.0,0,5.4,36,0
+CL-0535,Rénovation Bernard SARL,BTP,Normandie,612725.0,-12.0,1.4,420565.0,68.6,6.0,87.5,4,37.5,1,1.1,5,1
+CL-0536,Bazar Garcia SA,Commerce,Pays de la Loire,280981.0,4.6,6.7,182581.0,65.0,38.0,22.9,1,10.0,0,5.7,3,0
+CL-0537,Fret Henry SA,Transport,Normandie,1057616.0,-1.2,-5.6,499096.0,47.2,20.0,84.3,4,46.8,0,8.1,11,0
+CL-0538,Rénovation Fontaine SASU,BTP,Auvergne-Rhône-Alpes,290084.0,-10.1,10.7,171567.0,59.1,27.0,79.6,7,39.0,3,6.8,2,1
+CL-0539,Maçonnerie Fontaine EURL,BTP,Hauts-de-France,1386539.0,-8.1,1.0,1356752.0,97.9,9.0,78.3,5,31.6,2,12.7,9,0
+CL-0540,Conseil Mathieu SASU,Services,Pays de la Loire,338707.0,-12.1,-0.2,384739.0,113.6,19.0,75.7,5,22.8,0,2.3,3,1
+CL-0541,GAEC Petit EURL,Agriculture,Auvergne-Rhône-Alpes,208001.0,-8.5,19.3,26014.0,12.5,47.0,13.6,1,13.0,0,16.8,1,0
+CL-0542,Ambulances Duval SASU,Transport,Auvergne-Rhône-Alpes,767441.0,7.1,2.5,587348.0,76.5,21.0,76.6,3,20.7,2,5.3,7,1
+CL-0543,Solutions André SAS,Services,Île-de-France,685761.0,4.1,4.3,118571.0,17.3,35.0,19.6,1,7.0,0,5.4,7,0
+CL-0544,GAEC Roux SA,Agriculture,Centre-Val de Loire,247926.0,-9.4,10.3,92821.0,37.4,60.0,13.3,0,0.0,0,4.2,2,0
+CL-0545,Rénovation Lefèvre SA,BTP,Provence-Alpes-Côte d'Azur,1317021.0,-2.7,5.2,205704.0,15.6,38.0,36.9,0,0.0,1,14.6,11,1
+CL-0546,Brasserie Robin SARL,Restauration,Grand Est,1290373.0,1.4,2.9,315111.0,24.4,17.0,60.1,4,22.8,2,5.6,12,0
+CL-0547,Restaurant Roussel SA,Restauration,Pays de la Loire,877604.0,-4.8,13.3,1255576.0,143.1,40.0,36.7,3,44.7,3,4.3,12,0
+CL-0548,Toitures Giraud SAS,BTP,Hauts-de-France,1119709.0,1.8,6.1,999957.0,89.3,9.0,72.3,7,53.1,3,10.0,10,0
+CL-0549,Conseil Joly SA 2,Services,Occitanie,369892.0,10.8,13.7,44054.0,11.9,31.0,38.5,2,17.0,0,10.1,5,0
+CL-0550,Restaurant Bernard EURL,Restauration,Occitanie,240183.0,0.2,4.3,100726.0,41.9,-13.0,97.3,10,57.3,5,4.6,2,1
+CL-0551,Brasserie Thomas SA,Restauration,Grand Est,803746.0,0.4,10.0,193228.0,24.0,44.0,26.2,0,0.0,0,18.3,6,0
+CL-0552,Charpentes Dubois EURL,BTP,Auvergne-Rhône-Alpes,1328198.0,-3.4,9.8,419257.0,31.6,40.0,40.6,1,10.0,0,5.3,9,0
+CL-0553,Épicerie Legrand SA,Commerce,Normandie,2013131.0,-5.1,16.8,354705.0,17.6,42.0,15.8,1,12.0,0,12.7,15,0
+CL-0554,Cabinet Henry SA,Santé,Bretagne,817043.0,9.4,9.6,157599.0,19.3,44.0,34.5,2,20.5,0,4.1,8,0
+CL-0555,Charpentes Gaillard SASU,BTP,Nouvelle-Aquitaine,938384.0,8.0,13.2,223230.0,23.8,46.0,31.3,0,0.0,0,14.7,8,0
+CL-0556,Comptoir Blanchard EURL,Commerce,Grand Est,1390832.0,6.2,9.4,365613.0,26.3,54.0,5.2,1,15.0,0,14.3,14,0
+CL-0557,Bazar Lemaire EURL,Commerce,Île-de-France,1357278.0,9.3,2.8,383333.0,28.2,33.0,47.2,5,23.0,1,12.4,9,0
+CL-0558,Logistique Lefebvre SA,Transport,Centre-Val de Loire,279325.0,3.0,6.6,206692.0,74.0,8.0,61.8,2,21.0,1,15.4,3,1
+CL-0559,Plasturgie Girard SAS,Industrie,Normandie,5816802.0,-3.3,7.4,1542089.0,26.5,14.0,71.3,7,28.9,1,8.7,40,0
+CL-0560,Fret Lefèvre SARL,Transport,Bourgogne-Franche-Comté,1935340.0,-7.5,5.5,926816.0,47.9,29.0,33.7,0,0.0,0,2.8,18,0
+CL-0561,Rénovation Bonnet EURL,BTP,Nouvelle-Aquitaine,638935.0,6.4,6.4,289106.0,45.2,32.0,39.0,2,9.0,0,7.4,4,0
+CL-0562,Comptoir Arnaud SASU,Commerce,Île-de-France,724572.0,5.4,2.5,218976.0,30.2,39.0,50.8,5,16.2,0,3.1,8,0
+CL-0563,Services Meunier SAS,Services,Auvergne-Rhône-Alpes,752246.0,4.1,13.9,217989.0,29.0,39.0,35.7,1,14.0,0,9.6,11,0
+CL-0564,Métallerie Denis SARL,Industrie,Île-de-France,5793519.0,3.6,0.9,5127553.0,88.5,6.0,90.6,7,24.7,2,2.1,43,0
+CL-0565,Ateliers Fournier SARL,Industrie,Île-de-France,3894316.0,3.3,3.8,989383.0,25.4,30.0,24.1,2,28.0,1,8.6,33,0
+CL-0566,Agence Arnaud SASU,Services,Île-de-France,488414.0,13.2,-2.1,455175.0,93.2,19.0,83.5,3,39.3,3,2.4,5,1
+CL-0567,Conseil Garnier SAS,Services,Corse,601672.0,-0.0,0.4,251533.0,41.8,25.0,56.3,2,23.5,0,9.0,4,0
+CL-0568,Toitures Durand EURL,BTP,Île-de-France,1367219.0,5.6,3.8,816732.0,59.7,41.0,18.8,0,0.0,0,37.9,10,1
+CL-0569,Bistrot Bernard EURL,Restauration,Île-de-France,2266581.0,-10.5,5.1,481834.0,21.3,33.0,61.0,3,23.7,2,11.3,14,0
+CL-0570,Express Marie EURL,Transport,Bretagne,2926942.0,9.3,-0.9,1461330.0,49.9,21.0,80.3,8,44.2,1,4.3,42,0
+CL-0571,Maison Guérin SARL,Commerce,Grand Est,979877.0,-4.7,-3.1,398817.0,40.7,10.0,86.5,5,54.4,0,3.5,13,0
+CL-0572,Conseil Guérin SAS,Services,Pays de la Loire,211443.0,9.0,-1.9,196320.0,92.8,33.0,30.7,3,31.3,1,5.9,2,0
+CL-0573,Fret Faure SA,Transport,Grand Est,1870761.0,-1.8,4.0,752907.0,40.2,47.0,44.9,0,0.0,0,7.4,18,0
+CL-0574,Conseil Muller EURL,Services,Normandie,321233.0,-2.7,0.1,78833.0,24.5,47.0,20.8,0,0.0,0,9.4,4,0
+CL-0575,Pharmacie Lambert EURL,Santé,Grand Est,569605.0,3.6,1.2,120270.0,21.1,51.0,31.4,2,29.0,2,3.6,4,0
+CL-0576,Express Marie SASU,Transport,Hauts-de-France,592816.0,-18.6,1.9,210659.0,35.5,6.0,91.6,6,41.0,3,10.0,7,1
+CL-0577,Optique Blanchard SA,Santé,Provence-Alpes-Côte d'Azur,730241.0,4.7,5.6,345859.0,47.4,42.0,37.5,2,14.5,0,2.6,5,0
+CL-0578,Ateliers Robin SARL,Industrie,Occitanie,2698058.0,9.7,6.8,1338046.0,49.6,37.0,30.1,1,8.0,0,24.4,32,0
+CL-0579,Cabinet Dupont EURL,Santé,Nouvelle-Aquitaine,1945729.0,11.5,15.2,1376794.0,70.8,47.0,20.2,0,0.0,0,12.8,14,0
+CL-0580,Bistrot Brun SAS,Restauration,Occitanie,349430.0,2.4,8.4,130424.0,37.3,44.0,40.6,2,22.5,0,6.8,4,0
+CL-0581,Fret Dumont SA,Transport,Île-de-France,1437206.0,16.5,4.0,184421.0,12.8,44.0,34.1,2,21.0,0,11.3,18,0
+CL-0582,Logistique Duval SARL,Transport,Pays de la Loire,2140893.0,13.6,10.2,1088293.0,50.8,22.0,52.0,2,18.0,0,2.5,13,0
+CL-0583,Charpentes Faure SA,BTP,Auvergne-Rhône-Alpes,1274446.0,-7.7,3.9,884677.0,69.4,9.0,84.9,6,67.2,2,18.6,9,0
+CL-0584,Boulangerie Rivière SA,Restauration,Île-de-France,449358.0,5.3,2.3,127850.0,28.5,39.0,28.7,2,18.0,2,21.8,6,0
+CL-0585,Laboratoire Duval SARL,Santé,Auvergne-Rhône-Alpes,1784203.0,6.5,6.5,828673.0,46.4,44.0,43.0,0,0.0,0,2.9,14,0
+CL-0586,Usinage Petit EURL,Industrie,Bretagne,321495.0,-7.5,7.7,114132.0,35.5,40.0,24.9,0,0.0,0,1.3,2,0
+CL-0587,Bazar Mathieu SA,Commerce,Nouvelle-Aquitaine,1949624.0,-7.6,14.9,1126737.0,57.8,18.0,56.6,4,19.2,0,4.9,25,1
+CL-0588,Épicerie Arnaud SASU,Commerce,Provence-Alpes-Côte d'Azur,145101.0,-4.6,0.2,35330.0,24.3,11.0,76.6,5,19.2,2,11.0,1,0
+CL-0589,Maison Dumont EURL,Commerce,Normandie,1450668.0,3.9,3.9,858477.0,59.2,12.0,48.7,4,27.8,1,33.2,19,0
+CL-0590,Maçonnerie Clément EURL,BTP,Île-de-France,1477309.0,-4.7,0.1,311534.0,21.1,28.0,53.0,7,30.4,1,4.7,15,0
+CL-0591,Optique Boyer SASU,Santé,Pays de la Loire,796436.0,-2.1,3.9,178521.0,22.4,28.0,51.9,1,19.0,1,4.6,8,0
+CL-0592,Bistrot Moreau SARL,Restauration,Auvergne-Rhône-Alpes,1115666.0,8.2,6.6,478461.0,42.9,46.0,40.4,2,10.5,1,2.1,7,0
+CL-0593,Boutique Roussel SASU,Commerce,Auvergne-Rhône-Alpes,643916.0,5.8,15.9,185078.0,28.7,33.0,44.9,1,31.0,1,19.2,4,0
+CL-0594,Métallerie Masson SARL,Industrie,Provence-Alpes-Côte d'Azur,3222200.0,18.5,4.5,855998.0,26.6,45.0,33.2,2,30.5,0,29.0,45,0
+CL-0595,Bâtiments Vincent SA,BTP,Bourgogne-Franche-Comté,509741.0,7.2,-3.9,214007.0,42.0,44.0,31.8,2,20.0,0,1.6,5,0
+CL-0596,Boutique Leroy SARL,Commerce,Auvergne-Rhône-Alpes,655389.0,4.2,9.6,260714.0,39.8,43.0,42.9,1,9.0,0,1.9,4,0
+CL-0597,Studio Arnaud EURL,Services,Hauts-de-France,1033112.0,-5.0,-8.1,195100.0,18.9,37.0,57.6,2,21.0,1,3.7,8,0
+CL-0598,Usinage Simon SAS,Industrie,Auvergne-Rhône-Alpes,3775274.0,8.7,10.0,1027144.0,27.2,52.0,16.0,0,0.0,0,21.1,41,0
+CL-0599,Domaine Girard EURL,Agriculture,Hauts-de-France,950928.0,-1.5,10.0,449184.0,47.2,34.0,40.3,1,8.0,0,44.3,12,0
+CL-0600,Métallerie Roux SAS,Industrie,Grand Est,2541574.0,-7.5,-6.2,1579106.0,62.1,16.0,82.5,8,34.0,3,4.9,19,1
+CL-0601,Brasserie Marchand SASU 2,Restauration,Grand Est,422156.0,-2.2,1.5,805791.0,190.9,-1.0,93.0,9,46.2,7,13.6,3,0
+CL-0602,Agence David SARL,Services,Grand Est,231746.0,6.7,14.6,77972.0,33.6,58.0,13.0,3,11.0,0,9.1,2,0
+CL-0603,Laboratoire Mathieu SAS,Santé,Île-de-France,753256.0,13.7,3.2,416925.0,55.3,57.0,5.2,0,0.0,0,3.2,6,0
+CL-0604,Conseil Boyer EURL,Services,Provence-Alpes-Côte d'Azur,157051.0,1.3,6.5,22956.0,14.6,51.0,14.5,2,17.5,0,8.1,1,0
+CL-0605,GAEC Morel SARL,Agriculture,Provence-Alpes-Côte d'Azur,343845.0,17.0,11.3,101521.0,29.5,60.0,7.8,0,0.0,0,27.2,4,0
+CL-0606,Solutions Brun EURL,Services,Provence-Alpes-Côte d'Azur,211925.0,10.5,11.8,48300.0,22.8,31.0,35.6,1,13.0,0,13.9,3,0
+CL-0607,Laboratoire Marchand SAS,Santé,Île-de-France,1410838.0,12.4,6.1,332629.0,23.6,45.0,21.6,0,0.0,0,14.5,13,0
+CL-0608,Bâtiments Vincent EURL,BTP,Occitanie,1609445.0,-1.5,2.7,1520325.0,94.5,23.0,59.4,1,16.0,0,13.3,12,0
+CL-0609,Solutions Arnaud SA,Services,Occitanie,809339.0,10.2,3.0,132482.0,16.4,23.0,21.6,0,0.0,1,2.4,8,0
+CL-0610,Restaurant Martin SAS,Restauration,Île-de-France,490884.0,5.3,7.8,275625.0,56.1,43.0,29.7,0,0.0,0,7.4,4,0
+CL-0611,Ambulances Noël SARL,Transport,Auvergne-Rhône-Alpes,2275016.0,9.5,10.5,979916.0,43.1,47.0,20.2,0,0.0,0,11.5,22,0
+CL-0612,Ateliers Garcia EURL,Industrie,Occitanie,3962321.0,8.3,12.5,1942560.0,49.0,38.0,28.2,1,26.0,0,7.8,34,0
+CL-0613,Vergers Denis SAS,Agriculture,Pays de la Loire,272233.0,5.4,9.7,64021.0,23.5,63.0,9.2,0,0.0,0,1.1,2,0
+CL-0614,EARL Nicolas SASU,Agriculture,Auvergne-Rhône-Alpes,120484.0,2.4,8.0,73537.0,61.0,37.0,19.0,0,0.0,0,1.8,2,0
+CL-0615,Bazar Perrin SASU,Commerce,Bretagne,434347.0,22.7,16.2,121140.0,27.9,67.0,3.3,0,0.0,0,22.1,3,0
+CL-0616,Agence Durand SA,Services,Hauts-de-France,560792.0,7.8,7.9,287144.0,51.2,24.0,33.3,2,22.5,0,13.8,7,0
+CL-0617,Services Michel EURL,Services,Pays de la Loire,1348169.0,6.3,9.4,172881.0,12.8,19.0,49.7,0,0.0,0,13.2,17,0
+CL-0618,Restaurant Mercier SA,Restauration,Occitanie,721716.0,4.8,8.1,170434.0,23.6,36.0,50.7,3,27.3,1,20.4,5,0
+CL-0619,Toitures Leroy SAS,BTP,Hauts-de-France,441444.0,10.7,17.1,87100.0,19.7,69.0,4.3,0,0.0,0,11.9,4,0
+CL-0620,Toitures Rivière SARL,BTP,Grand Est,1028134.0,-4.5,10.2,352875.0,34.3,46.0,12.4,0,0.0,0,35.1,10,0
+CL-0621,Services Garnier SASU,Services,Bourgogne-Franche-Comté,642496.0,5.6,12.8,122998.0,19.1,38.0,39.2,1,7.0,1,22.2,4,0
+CL-0622,Transports Mathieu EURL,Transport,Occitanie,2017840.0,9.2,18.6,174716.0,8.7,61.0,2.8,0,0.0,0,3.9,18,0
+CL-0623,Ferme Lemaire SA,Agriculture,Hauts-de-France,490221.0,0.9,13.4,238080.0,48.6,22.0,56.7,3,12.7,0,4.7,3,0
+CL-0624,Traiteur Denis SA,Restauration,Grand Est,219783.0,0.8,17.6,34165.0,15.5,72.0,6.6,1,6.0,0,7.7,1,0
+CL-0625,Ferme Mathieu SASU,Agriculture,Provence-Alpes-Côte d'Azur,1097166.0,5.1,-6.8,567102.0,51.7,28.0,75.1,6,26.5,2,3.8,12,0
+CL-0626,Boulangerie Robert SASU,Restauration,Île-de-France,175276.0,4.3,4.4,43400.0,24.8,51.0,13.0,1,23.0,1,18.6,1,0
+CL-0627,Studio Joly SARL,Services,Hauts-de-France,584918.0,-20.8,8.6,377033.0,64.5,1.0,87.8,3,21.3,1,2.7,8,0
+CL-0628,Rénovation Lefèvre SA 2,BTP,Occitanie,490178.0,-12.5,-1.5,176159.0,35.9,-12.0,95.0,12,64.7,7,9.0,4,0
+CL-0629,Ambulances Bertrand SA,Transport,Bourgogne-Franche-Comté,184443.0,5.1,15.6,28931.0,15.7,66.0,2.9,0,0.0,0,13.3,2,0
+CL-0630,Studio Gaillard EURL,Services,Occitanie,368447.0,-10.9,15.3,123214.0,33.4,22.0,64.7,3,32.3,0,9.0,3,0
+CL-0631,Pharmacie Roux SASU,Santé,Occitanie,605420.0,5.7,2.9,217404.0,35.9,61.0,8.6,0,0.0,0,3.7,7,0
+CL-0632,Agence Laurent SA,Services,Centre-Val de Loire,224097.0,15.2,5.4,60748.0,27.1,47.0,22.6,1,16.0,0,7.2,2,0
+CL-0633,Toitures Mercier SAS 2,BTP,Occitanie,2013065.0,-5.1,4.7,797301.0,39.6,19.0,75.7,1,15.0,1,2.4,17,1
+CL-0634,Brasserie Rivière SAS 2,Restauration,Île-de-France,129562.0,-21.4,2.9,31616.0,24.4,14.0,60.3,4,21.8,1,7.6,1,0
+CL-0635,Bâtiments Lefebvre SASU,BTP,Auvergne-Rhône-Alpes,1235945.0,-4.9,14.7,484602.0,39.2,57.0,12.6,2,18.0,0,8.3,10,0
+CL-0636,Rénovation Fontaine SA,BTP,Île-de-France,1352020.0,2.9,15.9,830438.0,61.4,18.0,47.8,5,44.6,1,7.3,13,0
+CL-0637,Solutions Arnaud SAS,Services,Île-de-France,453169.0,-6.3,17.0,103655.0,22.9,51.0,5.6,0,0.0,0,8.1,5,0
+CL-0638,Solutions Vincent EURL,Services,Occitanie,336160.0,-1.2,-2.5,109643.0,32.6,36.0,64.1,6,22.7,1,3.5,3,1
+CL-0639,Solutions Lambert SA,Services,Pays de la Loire,187934.0,-3.2,21.7,38685.0,20.6,66.0,12.5,0,0.0,0,31.4,2,0
+CL-0640,Optique Giraud SAS,Santé,Provence-Alpes-Côte d'Azur,580477.0,9.3,16.0,109350.0,18.8,60.0,3.3,0,0.0,0,12.6,5,0
+CL-0641,Solutions Dubois SARL,Services,Île-de-France,635523.0,-3.3,1.0,381468.0,60.0,23.0,62.2,4,45.5,1,9.7,7,1
+CL-0642,Services Simon SA,Services,Hauts-de-France,175506.0,-0.7,-0.9,48530.0,27.7,36.0,28.3,2,12.5,0,10.8,2,0
+CL-0643,Charpentes Dupont SARL,BTP,Île-de-France,185048.0,-10.7,-0.1,193761.0,104.7,13.0,86.0,6,52.8,2,5.3,1,0
+CL-0644,Maison Marchand SASU,Commerce,Bourgogne-Franche-Comté,428120.0,-3.5,-2.4,165417.0,38.6,35.0,46.6,3,22.0,1,24.2,4,0
+CL-0645,Métallerie Lambert SASU,Industrie,Île-de-France,1690184.0,7.0,5.8,301453.0,17.8,48.0,22.8,0,0.0,0,2.4,17,0
+CL-0646,Cabinet Perrin SARL,Santé,Grand Est,171788.0,5.1,3.0,138171.0,80.4,41.0,22.0,2,35.5,0,1.4,2,0
+CL-0647,Charpentes Gauthier SASU,BTP,Nouvelle-Aquitaine,531198.0,7.8,11.9,137699.0,25.9,47.0,28.3,2,21.0,0,11.0,4,0
+CL-0648,Express Henry SASU,Transport,Grand Est,3639529.0,3.0,2.8,1156149.0,31.8,18.0,74.2,6,30.5,1,8.8,28,0
+CL-0649,Agence David EURL,Services,Occitanie,796219.0,5.7,0.3,248653.0,31.2,25.0,45.9,0,0.0,1,4.6,8,0
+CL-0650,Toitures Denis EURL 2,BTP,Pays de la Loire,1303098.0,-0.8,10.5,811425.0,62.3,49.0,37.8,0,0.0,1,36.7,11,0
+CL-0651,Traiteur Giraud SASU,Restauration,Auvergne-Rhône-Alpes,514385.0,8.1,15.7,278955.0,54.2,49.0,20.6,0,0.0,0,12.2,5,0
+CL-0652,Pharmacie Nicolas EURL,Santé,Normandie,125566.0,3.9,9.6,50688.0,40.4,58.0,16.2,0,0.0,0,7.5,2,0
+CL-0653,Agence Meunier SA,Services,Hauts-de-France,872263.0,-6.9,15.0,470840.0,54.0,23.0,70.6,3,22.0,0,15.1,8,1
+CL-0654,Épicerie Boyer SARL,Commerce,Pays de la Loire,228588.0,-0.4,3.8,104539.0,45.7,34.0,48.6,0,0.0,0,2.6,2,0
+CL-0655,Pharmacie Fournier SAS,Santé,Bretagne,386629.0,-2.6,9.5,130944.0,33.9,64.0,14.0,0,0.0,0,4.8,4,0
+CL-0656,Restaurant Simon SASU,Restauration,Corse,319699.0,5.5,14.8,140677.0,44.0,45.0,30.3,0,0.0,0,3.0,2,0
+CL-0657,Clinique vétérinaire Lambert SASU,Santé,Auvergne-Rhône-Alpes,711646.0,4.9,4.4,173726.0,24.4,36.0,14.5,1,6.0,0,3.1,7,0
+CL-0658,Épicerie Masson EURL,Commerce,Auvergne-Rhône-Alpes,291917.0,16.2,14.8,49140.0,16.8,59.0,11.4,0,0.0,0,14.6,2,0
+CL-0659,Métallerie Petit SA,Industrie,Auvergne-Rhône-Alpes,1211440.0,3.4,5.3,525732.0,43.4,47.0,26.5,2,11.5,0,6.7,12,0
+CL-0660,Restaurant Robert EURL 2,Restauration,Auvergne-Rhône-Alpes,814087.0,-5.2,-1.3,260416.0,32.0,30.0,80.6,5,29.6,3,8.4,10,0
+CL-0661,Boutique Lefèvre SA,Commerce,Grand Est,2427115.0,-7.9,10.2,846364.0,34.9,30.0,26.8,3,18.7,1,4.3,34,0
+CL-0662,Cabinet Gauthier SAS,Santé,Corse,543812.0,-4.6,2.9,152996.0,28.1,39.0,62.3,1,16.0,1,2.2,4,1
+CL-0663,Boutique Martin SARL,Commerce,Corse,1058134.0,9.8,12.5,150900.0,14.3,71.0,3.7,1,34.0,0,3.7,8,0
+CL-0664,Charpentes Mercier SARL,BTP,Hauts-de-France,740624.0,-5.0,-6.0,455273.0,61.5,19.0,83.9,4,26.0,1,3.8,6,0
+CL-0665,Restaurant Girard SASU,Restauration,Grand Est,800336.0,-17.0,16.4,345532.0,43.2,34.0,50.9,1,16.0,0,9.5,10,0
+CL-0666,Services Gautier SA,Services,Normandie,551164.0,-1.0,15.1,293525.0,53.3,46.0,16.9,1,15.0,0,12.7,7,0
+CL-0667,Conseil David EURL,Services,Bourgogne-Franche-Comté,564601.0,3.3,12.9,146366.0,25.9,49.0,24.7,0,0.0,1,38.6,5,0
+CL-0668,GAEC Meunier SASU,Agriculture,Auvergne-Rhône-Alpes,275164.0,0.4,6.1,107047.0,38.9,37.0,33.9,1,19.0,0,21.1,2,0
+CL-0669,Épicerie Meunier SASU,Commerce,Hauts-de-France,436962.0,15.3,6.4,60195.0,13.8,76.0,2.3,0,0.0,0,42.1,5,0
+CL-0670,Traiteur Blanc SARL,Restauration,Bretagne,427018.0,4.9,9.0,223417.0,52.3,38.0,40.6,4,21.5,1,14.9,5,0
+CL-0671,Rénovation Moreau EURL,BTP,Auvergne-Rhône-Alpes,679344.0,-7.7,4.8,167290.0,24.6,20.0,52.0,2,23.5,0,1.1,8,0
+CL-0672,Usinage Lemaire SA,Industrie,Occitanie,3610086.0,-2.6,-1.8,874743.0,24.2,35.0,38.8,2,13.5,0,2.0,25,0
+CL-0673,Domaine Blanchard SARL,Agriculture,Centre-Val de Loire,156093.0,1.8,5.2,52658.0,33.7,68.0,9.7,1,8.0,0,9.2,1,0
+CL-0674,Conseil Arnaud SASU,Services,Centre-Val de Loire,1157565.0,6.5,14.3,124739.0,10.8,58.0,11.8,1,12.0,1,7.2,13,0
+CL-0675,Usinage Simon SAS 2,Industrie,Normandie,6921909.0,5.4,12.1,4539066.0,65.6,54.0,18.6,1,13.0,0,3.2,76,0
+CL-0676,Boulangerie Meyer SA,Restauration,Pays de la Loire,598374.0,-2.6,-0.1,382270.0,63.9,6.0,90.0,9,76.9,4,3.3,5,0
+CL-0677,Laboratoire Blanc SARL,Santé,Auvergne-Rhône-Alpes,538598.0,1.7,-3.6,136394.0,25.3,44.0,24.6,0,0.0,1,13.2,4,0
+CL-0678,Transports Mercier SASU,Transport,Nouvelle-Aquitaine,884858.0,-7.7,13.3,286870.0,32.4,54.0,14.0,1,16.0,0,5.0,12,0
+CL-0679,Bâtiments Faure EURL,BTP,Hauts-de-France,627001.0,9.3,6.5,312635.0,49.9,31.0,22.7,0,0.0,0,13.5,6,0
+CL-0680,Traiteur Lucas SAS,Restauration,Hauts-de-France,559036.0,2.7,-1.0,560919.0,100.3,38.0,45.2,2,15.0,1,12.2,4,1
+CL-0681,Maçonnerie Blanchard EURL,BTP,Hauts-de-France,597009.0,5.1,3.5,135048.0,22.6,18.0,85.8,3,18.3,0,5.6,4,0
+CL-0682,Épicerie Mathieu SARL,Commerce,Grand Est,450654.0,3.8,2.4,133465.0,29.6,40.0,44.3,2,23.5,0,8.0,6,1
+CL-0683,Charpentes Dupont SA,BTP,Occitanie,268605.0,2.8,5.5,99007.0,36.9,71.0,8.3,0,0.0,0,4.4,2,0
+CL-0684,Brasserie Meunier SAS,Restauration,Pays de la Loire,443865.0,9.0,4.0,175658.0,39.6,29.0,68.7,6,32.7,0,9.6,3,0
+CL-0685,Ateliers Roussel EURL,Industrie,Nouvelle-Aquitaine,1926812.0,3.2,14.9,618290.0,32.1,54.0,13.5,1,13.0,0,24.6,17,0
+CL-0686,Brasserie Thomas SARL,Restauration,Nouvelle-Aquitaine,1400225.0,6.6,20.0,141808.0,10.1,80.0,8.3,0,0.0,0,14.5,9,0
+CL-0687,Bistrot Laurent EURL,Restauration,Île-de-France,435728.0,-0.2,10.0,199598.0,45.8,38.0,40.2,2,15.0,0,10.0,3,0
+CL-0688,EARL Lemaire SA,Agriculture,Auvergne-Rhône-Alpes,96996.0,8.6,9.6,34016.0,35.1,54.0,17.2,2,10.5,0,13.5,1,0
+CL-0689,Solutions Brunet SA,Services,Bretagne,508988.0,-0.2,8.3,126501.0,24.9,78.0,6.7,0,0.0,0,5.9,4,0
+CL-0690,Transports Fontaine EURL,Transport,Occitanie,1317263.0,-14.8,-4.5,673073.0,51.1,8.0,74.1,4,38.2,0,5.9,11,1
+CL-0691,Épicerie Duval EURL,Commerce,Auvergne-Rhône-Alpes,382290.0,-5.9,-10.3,104860.0,27.4,5.0,87.0,6,31.8,1,2.3,3,0
+CL-0692,Optique Fontaine SAS,Santé,Pays de la Loire,2690745.0,-6.5,11.2,574589.0,21.4,51.0,28.3,0,0.0,1,5.4,17,0
+CL-0693,Boutique Girard SAS,Commerce,Hauts-de-France,760858.0,-1.8,13.0,434962.0,57.2,45.0,16.7,0,0.0,0,8.1,6,0
+CL-0694,Comptoir André SA,Commerce,Île-de-France,347126.0,-0.9,8.8,86785.0,25.0,56.0,10.2,0,0.0,0,4.9,5,0
+CL-0695,Clinique vétérinaire Duval SARL,Santé,Nouvelle-Aquitaine,1697881.0,0.8,10.5,1968050.0,115.9,28.0,50.3,4,26.0,1,1.6,19,0
+CL-0696,Express Duval SAS,Transport,Île-de-France,1242391.0,5.0,17.4,630906.0,50.8,47.0,20.0,0,0.0,0,1.4,16,0
+CL-0697,Studio Marchand EURL,Services,Grand Est,347051.0,1.6,10.5,156436.0,45.1,38.0,45.2,1,66.0,1,4.2,2,0
+CL-0698,Métallerie Mercier SAS,Industrie,Auvergne-Rhône-Alpes,1546614.0,1.5,3.0,563281.0,36.4,36.0,43.3,2,20.5,0,3.1,13,0
+CL-0699,Mécanique Roussel SASU,Industrie,Île-de-France,1999955.0,4.5,15.7,644927.0,32.2,48.0,29.5,0,0.0,0,6.6,21,0
+CL-0700,Comptoir Michel SASU,Commerce,Île-de-France,217675.0,4.3,21.3,45791.0,21.0,63.0,7.6,0,0.0,0,9.2,2,0
+CL-0701,Épicerie François SA,Commerce,Grand Est,498117.0,-0.2,2.4,146416.0,29.4,55.0,19.8,0,0.0,1,9.0,5,0
+CL-0702,Maison Boyer SA,Commerce,Île-de-France,310758.0,-5.2,6.6,445760.0,143.4,28.0,83.6,3,34.7,0,2.9,2,1
+CL-0703,Toitures Blanc EURL,BTP,Bretagne,1883627.0,6.7,12.8,509281.0,27.0,50.0,17.3,0,0.0,0,14.5,12,0
+CL-0704,Cabinet Blanchard SAS,Santé,Île-de-France,669451.0,5.1,2.5,389798.0,58.2,49.0,14.3,2,9.5,0,22.5,7,0
+CL-0705,Épicerie Laurent SA,Commerce,Grand Est,1774067.0,6.6,13.7,511735.0,28.8,54.0,20.7,1,11.0,0,9.5,11,0
+CL-0706,Logistique Noël SARL,Transport,Occitanie,2926496.0,2.8,14.2,417044.0,14.3,36.0,25.5,0,0.0,0,8.2,21,0
+CL-0707,Studio André SASU,Services,Occitanie,197297.0,-0.1,0.2,58221.0,29.5,21.0,44.3,2,26.5,1,2.9,3,0
+CL-0708,Conseil Richard SAS,Services,Île-de-France,412386.0,-2.0,11.3,90135.0,21.9,47.0,7.5,0,0.0,0,1.3,4,0
+CL-0709,Bistrot Lemaire SASU,Restauration,Pays de la Loire,429855.0,0.6,11.7,162370.0,37.8,33.0,56.8,5,37.8,1,13.1,4,0
+CL-0710,Restaurant Fournier EURL,Restauration,Normandie,466906.0,3.0,7.6,281829.0,60.4,15.0,72.4,5,32.0,0,24.2,6,0
+CL-0711,Domaine Joly SASU,Agriculture,Île-de-France,1151978.0,3.6,9.8,440754.0,38.3,23.0,45.0,5,55.8,0,28.1,9,0
+CL-0712,Studio Robert SARL,Services,Île-de-France,359306.0,5.7,1.8,59566.0,16.6,26.0,46.4,3,12.3,2,1.5,4,1
+CL-0713,Services Rousseau SASU,Services,Normandie,411233.0,1.3,9.4,174091.0,42.3,49.0,37.6,0,0.0,0,11.0,4,1
+CL-0714,Laboratoire Robert SASU,Santé,Hauts-de-France,673046.0,-6.1,11.7,179332.0,26.6,30.0,37.7,0,0.0,0,6.7,6,0
+CL-0715,Agence Simon SASU,Services,Île-de-France,388963.0,3.2,12.8,114166.0,29.4,42.0,21.7,2,11.5,0,1.2,3,0
+CL-0716,Comptoir Leroy SASU,Commerce,Auvergne-Rhône-Alpes,316541.0,-4.9,8.2,144131.0,45.5,35.0,55.8,2,21.5,1,5.6,4,0
+CL-0717,Fret Fournier SA,Transport,Provence-Alpes-Côte d'Azur,740118.0,-7.8,2.5,364518.0,49.3,38.0,40.1,1,29.0,0,3.5,8,0
+CL-0718,Rénovation Marie SARL 2,BTP,Provence-Alpes-Côte d'Azur,172685.0,1.2,7.4,103903.0,60.2,30.0,43.5,0,0.0,1,7.7,1,0
+CL-0719,Plasturgie Fontaine EURL,Industrie,Grand Est,3153856.0,8.5,2.1,1878032.0,59.5,19.0,91.9,10,43.8,4,11.1,26,1
+CL-0720,Vergers Morel SAS,Agriculture,Centre-Val de Loire,583466.0,14.9,5.8,333253.0,57.1,43.0,20.5,2,13.5,0,7.6,8,0
+CL-0721,Transports Clément EURL,Transport,Occitanie,1303685.0,-5.0,16.5,495754.0,38.0,61.0,19.1,0,0.0,0,9.5,8,0
+CL-0722,Bistrot Michel SAS,Restauration,Auvergne-Rhône-Alpes,1180078.0,9.4,19.5,208165.0,17.6,53.0,7.4,0,0.0,0,9.2,11,0
+CL-0723,Charpentes Rivière SARL,BTP,Occitanie,1334084.0,-3.4,4.1,522342.0,39.2,3.0,86.1,5,60.6,0,1.0,12,1
+CL-0724,GAEC Nicolas SAS,Agriculture,Nouvelle-Aquitaine,1200839.0,8.4,14.3,340436.0,28.3,38.0,21.7,3,18.0,0,31.5,8,0
+CL-0725,Toitures Joly SAS,BTP,Auvergne-Rhône-Alpes,1808515.0,2.8,0.5,1932296.0,106.8,39.0,57.9,2,30.5,0,15.0,26,0
+CL-0726,Rénovation Denis EURL,BTP,Île-de-France,2806494.0,-11.2,12.1,1101651.0,39.3,34.0,56.7,1,25.0,0,1.3,31,0
+CL-0727,Boutique Petit SAS,Commerce,Nouvelle-Aquitaine,1531316.0,-9.3,10.6,404733.0,26.4,19.0,65.5,3,19.0,1,3.3,13,1
+CL-0728,Bâtiments Bonnet EURL,BTP,Provence-Alpes-Côte d'Azur,472556.0,-1.3,10.3,295760.0,62.6,38.0,47.1,2,14.5,0,3.4,5,0
+CL-0729,Bistrot Roux SARL,Restauration,Île-de-France,660037.0,12.3,-1.0,170863.0,25.9,48.0,33.1,0,0.0,0,2.1,6,0
+CL-0730,Logistique Blanc EURL 2,Transport,Occitanie,1800266.0,10.2,5.1,2083813.0,115.8,37.0,43.1,2,20.5,0,1.7,14,0
+CL-0731,Épicerie Bonnet SASU 2,Commerce,Grand Est,845870.0,1.9,8.7,285700.0,33.8,50.0,15.2,0,0.0,0,7.2,6,0
+CL-0732,Bâtiments David SARL,BTP,Grand Est,3521971.0,7.5,-11.8,833590.0,23.7,5.0,92.0,11,52.1,3,2.0,27,0
+CL-0733,Charpentes Blanc SASU,BTP,Pays de la Loire,1029533.0,-3.7,11.3,324492.0,31.5,49.0,30.5,0,0.0,2,13.6,8,0
+CL-0734,Boulangerie Lefebvre SA,Restauration,Bretagne,634822.0,7.7,-3.4,257510.0,40.6,35.0,45.5,5,21.2,0,7.3,4,0
+CL-0735,Toitures Dubois SA,BTP,Provence-Alpes-Côte d'Azur,825564.0,-15.5,6.3,252567.0,30.6,51.0,40.1,3,19.7,0,3.3,7,0
+CL-0736,Conseil Morel SASU,Services,Île-de-France,339413.0,-3.0,10.6,134589.0,39.7,66.0,6.9,1,15.0,0,12.7,5,0
+CL-0737,Boutique Vincent SARL,Commerce,Occitanie,493995.0,0.4,6.8,206930.0,41.9,48.0,14.3,1,18.0,0,11.2,6,0
+CL-0738,Comptoir Meyer SA,Commerce,Grand Est,334205.0,-8.6,2.8,252890.0,75.7,26.0,68.2,3,32.3,1,26.7,3,1
+CL-0739,Restaurant Gauthier SASU,Restauration,Auvergne-Rhône-Alpes,575012.0,7.5,-0.8,273561.0,47.6,47.0,33.0,3,22.7,1,2.6,7,0
+CL-0740,Bistrot Nicolas SA,Restauration,Île-de-France,1400686.0,2.2,9.5,585914.0,41.8,46.0,24.1,0,0.0,0,2.3,10,0
+CL-0741,Charpentes Robert SA,BTP,Auvergne-Rhône-Alpes,762399.0,-6.9,6.2,171983.0,22.6,24.0,43.2,3,15.7,0,2.4,11,1
+CL-0742,Toitures Lambert SASU,BTP,Occitanie,1073646.0,-2.9,5.5,545418.0,50.8,28.0,66.8,1,15.0,1,5.0,7,0
+CL-0743,Optique Chevalier SASU,Santé,Occitanie,365830.0,-4.1,11.9,209369.0,57.2,30.0,56.1,2,35.0,0,17.6,4,0
+CL-0744,Toitures Dufour SASU,BTP,Île-de-France,246895.0,-6.6,11.3,114209.0,46.3,33.0,28.7,1,17.0,0,29.6,2,0
+CL-0745,Transports Mercier EURL 2,Transport,Bretagne,1112222.0,7.6,7.2,589097.0,53.0,39.0,48.4,4,29.0,1,9.1,11,0
+CL-0746,Logistique Legrand EURL,Transport,Bourgogne-Franche-Comté,702619.0,-0.9,3.1,139112.0,19.8,23.0,65.0,6,24.8,1,16.0,6,1
+CL-0747,Boutique Garcia EURL,Commerce,Auvergne-Rhône-Alpes,313666.0,6.9,13.8,92288.0,29.4,66.0,14.7,0,0.0,0,38.5,2,0
+CL-0748,Restaurant Gauthier EURL,Restauration,Bourgogne-Franche-Comté,129993.0,5.9,1.6,36586.0,28.1,33.0,38.0,0,0.0,0,1.3,1,1
+CL-0749,Conseil Henry SAS,Services,Île-de-France,130702.0,0.7,16.3,42023.0,32.2,60.0,8.7,0,0.0,0,22.7,1,0
+CL-0750,Agence Henry SARL,Services,Bourgogne-Franche-Comté,424626.0,7.6,9.8,187386.0,44.1,51.0,5.0,2,15.5,0,4.4,3,0
+CL-0751,Boutique Blanc SA,Commerce,Centre-Val de Loire,2333620.0,10.2,-3.3,1582709.0,67.8,47.0,57.9,5,24.0,2,1.1,33,1
+CL-0752,Boutique Lemaire SARL,Commerce,Île-de-France,424431.0,6.0,3.8,146917.0,34.6,49.0,38.6,0,0.0,0,5.5,5,0
+CL-0753,Comptoir Mercier SASU,Commerce,Pays de la Loire,902624.0,-5.9,9.0,208101.0,23.1,25.0,40.7,1,20.0,0,26.7,8,0
+CL-0754,Brasserie Denis SAS,Restauration,Centre-Val de Loire,216579.0,11.2,16.3,50631.0,23.4,54.0,13.3,0,0.0,0,5.7,2,0
+CL-0755,Solutions Henry SASU,Services,Normandie,232578.0,-10.7,-3.1,119734.0,51.5,9.0,83.7,4,69.8,3,7.4,1,0
+CL-0756,Épicerie Henry SA,Commerce,Centre-Val de Loire,218003.0,0.6,15.4,105723.0,48.5,46.0,24.0,1,14.0,0,3.5,3,0
+CL-0757,Bazar Rivière SAS,Commerce,Hauts-de-France,489529.0,-2.6,0.3,491867.0,100.5,10.0,90.6,11,57.2,6,1.0,4,0
+CL-0758,Domaine Lefebvre SA,Agriculture,Île-de-France,105874.0,12.2,13.5,35854.0,33.9,70.0,2.2,0,0.0,0,22.5,1,0
+CL-0759,Toitures Brun SARL,BTP,Bretagne,418201.0,3.7,9.6,105787.0,25.3,48.0,15.6,2,16.0,0,8.7,3,0
+CL-0760,Restaurant Masson EURL,Restauration,Grand Est,312466.0,-1.3,11.3,125130.0,40.0,67.0,8.9,0,0.0,0,1.6,3,0
+CL-0761,Agence Laurent SARL 2,Services,Grand Est,259602.0,-5.5,1.5,120169.0,46.3,26.0,61.4,1,12.0,0,10.0,2,0
+CL-0762,Rénovation Blanc SASU,BTP,Occitanie,1138969.0,5.1,5.1,164136.0,14.4,57.0,19.9,1,10.0,0,3.5,8,0
+CL-0763,Toitures Bernard EURL,BTP,Hauts-de-France,1384177.0,-8.7,9.9,256698.0,18.5,61.0,21.6,0,0.0,0,1.5,15,0
+CL-0764,Maçonnerie Lucas SA,BTP,Île-de-France,760676.0,6.6,12.0,120966.0,15.9,38.0,6.8,0,0.0,0,5.2,5,0
+CL-0765,Laboratoire Lambert SAS,Santé,Provence-Alpes-Côte d'Azur,1381063.0,-0.7,10.4,365795.0,26.5,33.0,24.8,0,0.0,0,16.9,17,0
+CL-0766,Bâtiments Arnaud SARL,BTP,Île-de-France,241102.0,-5.0,17.0,149447.0,62.0,37.0,53.3,1,32.0,1,19.8,3,0
+CL-0767,Comptoir Boyer EURL,Commerce,Provence-Alpes-Côte d'Azur,1031488.0,-2.2,6.2,1001722.0,97.1,18.0,65.1,7,41.7,4,12.2,12,1
+CL-0768,Toitures Garcia EURL,BTP,Bretagne,761942.0,-8.8,5.0,211021.0,27.7,47.0,16.4,3,21.0,0,10.4,7,0
+CL-0769,Charpentes Mercier SARL 2,BTP,Occitanie,281095.0,1.4,1.9,111533.0,39.7,28.0,45.0,1,15.0,2,3.3,2,0
+CL-0770,Mécanique Mercier SARL,Industrie,Hauts-de-France,4214389.0,7.7,26.5,872732.0,20.7,48.0,9.0,0,0.0,0,2.4,40,0
+CL-0771,Épicerie Guérin SASU,Commerce,Nouvelle-Aquitaine,759460.0,6.1,21.4,267637.0,35.2,49.0,22.2,0,0.0,0,16.1,10,0
+CL-0772,Ambulances Gaillard EURL,Transport,Centre-Val de Loire,754610.0,-6.7,11.2,188395.0,25.0,45.0,30.1,1,13.0,0,5.1,10,0
+CL-0773,Ateliers Faure EURL,Industrie,Provence-Alpes-Côte d'Azur,4978352.0,4.0,18.1,2077714.0,41.7,47.0,28.9,0,0.0,0,24.6,62,0
+CL-0774,Studio Guérin SASU,Services,Nouvelle-Aquitaine,390288.0,-7.7,10.8,302249.0,77.4,32.0,65.4,1,43.0,2,8.2,4,0
+CL-0775,Charpentes Perrin SARL 2,BTP,Île-de-France,1542960.0,4.7,7.9,640635.0,41.5,27.0,57.8,3,34.7,0,12.5,14,0
+CL-0776,Laboratoire Roux EURL,Santé,Auvergne-Rhône-Alpes,834966.0,15.0,17.8,173648.0,20.8,71.0,10.3,0,0.0,0,10.4,6,0
+CL-0777,Métallerie Chevalier SAS,Industrie,Occitanie,1105212.0,2.0,6.9,498015.0,45.1,12.0,85.6,4,23.5,1,6.9,8,1
+CL-0778,Toitures Roussel SASU,BTP,Bourgogne-Franche-Comté,266894.0,13.9,13.0,91076.0,34.1,28.0,45.1,2,19.5,1,1.1,2,0
+CL-0779,Conseil Bernard SAS,Services,Provence-Alpes-Côte d'Azur,176196.0,-14.7,2.5,68245.0,38.7,49.0,18.0,1,9.0,0,2.3,2,0
+CL-0780,Cabinet Marchand SASU,Santé,Auvergne-Rhône-Alpes,798336.0,4.2,9.1,354904.0,44.5,59.0,10.6,0,0.0,0,3.1,8,0
+CL-0781,Bazar Legrand SA,Commerce,Normandie,422109.0,7.6,6.5,84913.0,20.1,54.0,24.4,1,21.0,0,1.6,4,0
+CL-0782,Laboratoire Vincent EURL,Santé,Nouvelle-Aquitaine,829146.0,-11.8,0.4,222737.0,26.9,10.0,84.8,5,48.6,1,2.2,6,1
+CL-0783,Bistrot Girard SASU,Restauration,Bretagne,282324.0,5.9,-0.2,85962.0,30.4,35.0,60.8,1,23.0,0,8.3,2,0
+CL-0784,Plasturgie Muller EURL,Industrie,Auvergne-Rhône-Alpes,704886.0,-3.0,-4.0,329559.0,46.8,36.0,49.2,5,28.4,1,9.1,5,0
+CL-0785,Vergers Faure SAS 2,Agriculture,Grand Est,703357.0,5.2,7.4,307132.0,43.7,49.0,27.3,0,0.0,0,12.1,7,0
+CL-0786,Bistrot Dufour SARL,Restauration,Bourgogne-Franche-Comté,790044.0,-12.1,-4.1,1346427.0,170.4,12.0,93.4,9,87.7,10,2.8,6,1
+CL-0787,Services Faure SA,Services,Auvergne-Rhône-Alpes,337474.0,9.5,11.7,196601.0,58.3,23.0,35.6,0,0.0,0,15.1,3,0
+CL-0788,Maison Marie SA,Commerce,Provence-Alpes-Côte d'Azur,515494.0,3.9,15.4,158395.0,30.7,39.0,18.3,1,12.0,0,3.1,7,0
+CL-0789,Conseil Robin SARL,Services,Centre-Val de Loire,737310.0,8.9,8.4,145867.0,19.8,34.0,28.1,4,13.8,0,1.2,8,0
+CL-0790,Mécanique Thomas EURL,Industrie,Île-de-France,3587387.0,-8.4,13.3,1245764.0,34.7,46.0,13.9,1,13.0,0,5.4,32,0
+CL-0791,Maison Duval SARL,Commerce,Île-de-France,1499668.0,-3.1,5.0,652989.0,43.5,32.0,39.4,1,74.0,0,2.8,11,0
+CL-0792,Restaurant Mathieu SA,Restauration,Provence-Alpes-Côte d'Azur,825476.0,-11.8,19.3,258044.0,31.3,49.0,24.7,1,19.0,0,9.0,6,0
+CL-0793,Bazar Richard SASU,Commerce,Nouvelle-Aquitaine,393598.0,5.5,9.8,128405.0,32.6,36.0,30.0,2,39.0,1,23.9,3,0
+CL-0794,Bâtiments Meyer SARL,BTP,Île-de-France,652161.0,5.2,8.7,411891.0,63.2,21.0,86.6,6,38.0,1,6.2,5,0
+CL-0795,Toitures Simon SARL,BTP,Occitanie,865759.0,7.8,16.3,245670.0,28.4,52.0,4.2,0,0.0,1,23.3,7,0
+CL-0796,Traiteur Mercier SASU,Restauration,Pays de la Loire,356930.0,1.6,17.9,247443.0,69.3,51.0,15.3,1,25.0,0,5.2,4,0
+CL-0797,Rénovation Girard EURL,BTP,Auvergne-Rhône-Alpes,605478.0,-5.6,13.0,181442.0,30.0,8.0,52.1,1,35.0,1,1.2,4,0
+CL-0798,Charpentes Girard SAS,BTP,Nouvelle-Aquitaine,1201399.0,15.1,3.2,472389.0,39.3,60.0,14.9,0,0.0,0,22.5,10,0
+CL-0799,Conseil Dupont SASU 2,Services,Bretagne,432356.0,-2.0,7.9,196935.0,45.5,15.0,83.9,7,37.7,0,6.7,4,0
+CL-0800,Conseil Moreau EURL,Services,Hauts-de-France,264333.0,1.1,12.4,87850.0,33.2,35.0,43.1,2,15.0,0,18.4,3,0
+CL-0801,Studio Laurent EURL,Services,Bretagne,177452.0,-6.1,-5.9,84649.0,47.7,20.0,86.8,4,43.8,0,3.1,1,1
+CL-0802,Maison Thomas SAS,Commerce,Occitanie,707457.0,4.4,8.4,466234.0,65.9,46.0,25.8,3,11.0,0,8.1,5,0
+CL-0803,Cabinet Duval SARL,Santé,Centre-Val de Loire,421405.0,0.5,2.0,222491.0,52.8,29.0,26.4,0,0.0,0,1.7,3,0
+CL-0804,Métallerie Lambert SARL,Industrie,Grand Est,1635803.0,-8.7,15.2,251423.0,15.4,51.0,13.4,0,0.0,0,9.4,19,0
+CL-0805,Toitures Durand SARL,BTP,Île-de-France,475444.0,-1.0,2.5,242965.0,51.1,23.0,65.9,1,52.0,3,5.5,5,0
+CL-0806,Toitures François SASU,BTP,Normandie,648806.0,-9.7,11.5,110731.0,17.1,30.0,54.1,3,27.7,1,15.8,5,0
+CL-0807,Solutions Nicolas EURL,Services,Occitanie,253646.0,0.3,3.0,90383.0,35.6,36.0,34.6,3,30.7,1,9.4,2,0
+CL-0808,Boutique Gauthier SAS,Commerce,Île-de-France,1314928.0,-2.6,-1.1,795223.0,60.5,30.0,40.4,0,0.0,0,9.8,18,0
+CL-0809,Ambulances Chevalier SARL,Transport,Île-de-France,918957.0,-1.8,0.9,274497.0,29.9,27.0,43.9,3,17.3,0,5.0,12,0
+CL-0810,Vergers Girard SAS,Agriculture,Provence-Alpes-Côte d'Azur,189440.0,3.6,17.5,54094.0,28.6,40.0,26.6,1,28.0,0,10.5,2,1
+CL-0811,Toitures Marie SA,BTP,Île-de-France,902398.0,-16.0,9.0,1040019.0,115.3,9.0,69.2,2,39.0,1,13.3,10,0
+CL-0812,Rénovation Joly SARL,BTP,Auvergne-Rhône-Alpes,1968290.0,13.2,16.2,641979.0,32.6,53.0,5.8,0,0.0,0,7.7,25,0
+CL-0813,Domaine Bonnet SAS,Agriculture,Île-de-France,490291.0,1.3,10.1,333098.0,67.9,25.0,39.2,0,0.0,1,16.9,3,0
+CL-0814,Mécanique Roux SASU,Industrie,Occitanie,2106010.0,-0.7,18.3,1464175.0,69.5,37.0,24.6,1,38.0,0,3.4,28,0
+CL-0815,Toitures Nicolas SAS,BTP,Occitanie,270906.0,2.9,11.5,79202.0,29.2,47.0,17.5,1,18.0,0,7.2,2,1
+CL-0816,Laboratoire Legrand SAS,Santé,Hauts-de-France,572343.0,9.6,24.0,181110.0,31.6,81.0,3.5,0,0.0,0,9.7,5,0
+CL-0817,Laboratoire Gautier SAS,Santé,Auvergne-Rhône-Alpes,402402.0,11.5,11.9,119139.0,29.6,53.0,4.7,0,0.0,0,4.9,3,0
+CL-0818,Express Masson SASU,Transport,Île-de-France,311083.0,4.2,3.7,158907.0,51.1,33.0,79.6,5,37.8,2,3.0,2,1
+CL-0819,Mécanique Gauthier EURL,Industrie,Grand Est,1157375.0,9.7,2.4,745483.0,64.4,16.0,47.6,6,21.0,0,1.9,14,0
+CL-0820,Épicerie Perrin EURL,Commerce,Nouvelle-Aquitaine,1449169.0,-10.7,7.4,949326.0,65.5,30.0,47.3,1,9.0,0,8.8,10,0
+CL-0821,Maçonnerie Lefebvre SA,BTP,Grand Est,1633276.0,2.8,7.8,910379.0,55.7,13.0,85.9,7,37.3,1,3.5,16,1
+CL-0822,Mécanique Robin SARL,Industrie,Île-de-France,5789214.0,-3.9,10.1,3157782.0,54.5,34.0,39.0,1,13.0,1,1.6,78,0
+CL-0823,Bazar Robin EURL,Commerce,Île-de-France,637893.0,-4.7,0.2,185754.0,29.1,26.0,61.7,3,27.3,0,8.5,5,0
+CL-0824,Plasturgie Rousseau SAS,Industrie,Auvergne-Rhône-Alpes,558992.0,-2.0,13.5,241162.0,43.1,31.0,46.4,2,23.0,0,2.0,5,0
+CL-0825,Solutions Brun SARL,Services,Occitanie,465203.0,7.3,20.8,54358.0,11.7,54.0,16.1,0,0.0,0,19.7,5,0
+CL-0826,Toitures Dufour SARL,BTP,Nouvelle-Aquitaine,4434498.0,-5.2,12.9,1724096.0,38.9,35.0,21.1,3,11.7,0,1.8,33,0
+CL-0827,Ateliers Gautier SA,Industrie,Bretagne,1019744.0,7.4,22.0,108893.0,10.7,72.0,3.4,0,0.0,0,13.2,10,0
+CL-0828,Épicerie Nicolas SA,Commerce,Nouvelle-Aquitaine,189443.0,0.3,-2.5,149340.0,78.8,18.0,63.7,3,14.7,2,10.0,2,1
+CL-0829,Cabinet David SA,Santé,Hauts-de-France,314464.0,6.9,5.5,90786.0,28.9,46.0,30.9,1,12.0,0,1.5,2,0
+CL-0830,Épicerie Boyer SASU,Commerce,Grand Est,949338.0,-1.9,15.7,284135.0,29.9,40.0,21.8,1,8.0,0,4.9,8,0
+CL-0831,Usinage Fournier EURL,Industrie,Île-de-France,533247.0,6.8,19.2,156358.0,29.3,57.0,12.1,0,0.0,0,16.2,4,0
+CL-0832,Fret Roux SASU,Transport,Hauts-de-France,1579982.0,-6.5,8.8,497413.0,31.5,32.0,41.4,6,18.8,0,2.5,11,0
+CL-0833,Brasserie David SA,Restauration,Nouvelle-Aquitaine,309094.0,-9.1,-1.6,152586.0,49.4,-5.0,92.7,10,53.1,2,6.6,2,0
+CL-0834,Studio Morin SA,Services,Occitanie,356588.0,5.0,6.7,165327.0,46.4,26.0,64.3,3,37.3,1,16.4,3,0
+CL-0835,Solutions Lemaire EURL,Services,Île-de-France,523335.0,-4.3,14.7,80717.0,15.4,49.0,7.9,0,0.0,0,2.7,3,0
+CL-0836,Express Nicolas SAS,Transport,Pays de la Loire,841416.0,2.5,13.2,130436.0,15.5,34.0,37.0,2,16.0,0,3.5,5,0
+CL-0837,Services Lefèvre SA 2,Services,Bourgogne-Franche-Comté,345112.0,-6.8,13.3,76044.0,22.0,59.0,12.1,0,0.0,0,1.9,2,0
+CL-0838,Vergers Laurent EURL,Agriculture,Île-de-France,535666.0,2.0,-0.6,169704.0,31.7,29.0,71.1,2,19.0,0,22.3,3,0
+CL-0839,Traiteur Perrin SAS,Restauration,Grand Est,859345.0,-0.5,5.7,158774.0,18.5,32.0,68.9,5,27.4,0,1.8,8,0
+CL-0840,Ambulances Chevalier SARL 2,Transport,Pays de la Loire,1015336.0,8.8,4.3,359897.0,35.4,60.0,9.0,0,0.0,0,27.6,12,0
+CL-0841,Maçonnerie Mathieu SASU,BTP,Auvergne-Rhône-Alpes,271172.0,4.7,16.9,93503.0,34.5,41.0,33.3,0,0.0,0,5.3,3,0
+CL-0842,Agence Lemaire SARL,Services,Pays de la Loire,460339.0,-0.8,14.8,196041.0,42.6,45.0,22.2,0,0.0,0,14.7,6,0
+CL-0843,Logistique Guérin SARL,Transport,Grand Est,1649047.0,0.7,10.6,842414.0,51.1,27.0,78.6,5,50.0,2,12.9,15,1
+CL-0844,Restaurant Joly SA,Restauration,Bourgogne-Franche-Comté,2277017.0,-8.0,8.6,883609.0,38.8,25.0,74.2,3,35.3,1,9.4,29,0
+CL-0845,Toitures Lambert SARL 2,BTP,Centre-Val de Loire,954379.0,3.2,10.2,426749.0,44.7,45.0,49.1,4,33.0,0,5.9,7,0
+CL-0846,Optique Muller EURL,Santé,Île-de-France,1218658.0,11.0,12.1,96464.0,7.9,69.0,0.7,0,0.0,0,8.9,14,0
+CL-0847,Brasserie Roussel SASU,Restauration,Occitanie,442414.0,-3.8,5.9,146336.0,33.1,25.0,65.3,4,16.8,0,4.3,3,1
+CL-0848,Services Dubois SASU,Services,Hauts-de-France,432609.0,7.3,-1.8,331694.0,76.7,24.0,67.8,5,43.2,1,10.4,3,1
+CL-0849,Toitures Lefebvre EURL,BTP,Île-de-France,2068631.0,-3.8,2.5,3419256.0,165.3,7.0,82.7,7,33.0,1,1.1,20,1
+CL-0850,EARL Marchand SAS,Agriculture,Nouvelle-Aquitaine,2149093.0,-2.3,10.1,395692.0,18.4,43.0,21.6,2,16.5,0,1.6,15,0
+CL-0851,Comptoir Blanchard EURL 2,Commerce,Centre-Val de Loire,907579.0,17.2,7.4,432463.0,47.7,49.0,20.6,1,11.0,0,2.0,8,0
+CL-0852,Comptoir Leroy SAS,Commerce,Île-de-France,1537065.0,8.8,6.2,366786.0,23.9,50.0,13.3,0,0.0,0,2.5,18,0
+CL-0853,Optique David EURL,Santé,Occitanie,105947.0,-9.4,-8.0,72165.0,68.1,17.0,80.8,6,27.7,0,3.4,1,1
+CL-0854,Laboratoire Lambert EURL,Santé,Bretagne,296980.0,-2.8,3.8,110751.0,37.3,46.0,16.2,2,17.0,0,16.5,3,0
+CL-0855,Épicerie Bonnet SASU 3,Commerce,Nouvelle-Aquitaine,401473.0,6.5,17.5,54008.0,13.5,65.0,9.7,0,0.0,0,33.1,3,0
+CL-0856,Boulangerie Brun EURL,Restauration,Occitanie,548577.0,-2.9,7.1,242841.0,44.3,31.0,54.8,4,37.0,0,2.8,4,0
+CL-0857,Solutions Lemaire SAS,Services,Centre-Val de Loire,178153.0,8.1,21.2,39989.0,22.4,76.0,1.3,0,0.0,0,1.6,2,0
+CL-0858,Cabinet Boyer EURL,Santé,Occitanie,473491.0,0.5,7.6,127946.0,27.0,46.0,25.9,0,0.0,0,3.0,3,0
+CL-0859,Boulangerie Simon EURL,Restauration,Île-de-France,452817.0,-19.0,1.9,83794.0,18.5,40.0,60.1,3,20.0,0,11.2,6,0
+CL-0860,Logistique Blanchard EURL,Transport,Île-de-France,2235287.0,13.7,8.4,916050.0,41.0,34.0,42.5,2,39.5,0,16.3,16,0
+CL-0861,Services Nicolas SASU,Services,Bourgogne-Franche-Comté,419745.0,10.6,17.0,81899.0,19.5,82.0,2.1,0,0.0,0,5.5,4,0
+CL-0862,Conseil Lefebvre SA,Services,Auvergne-Rhône-Alpes,601479.0,-0.2,14.5,186263.0,31.0,52.0,19.5,0,0.0,0,5.2,6,0
+CL-0863,Agence Petit SAS,Services,Hauts-de-France,326929.0,-2.8,5.7,192066.0,58.7,29.0,65.2,3,32.0,0,8.8,3,0
+CL-0864,Express Nicolas SA,Transport,Île-de-France,724922.0,15.0,13.6,138888.0,19.2,60.0,7.0,0,0.0,0,11.9,5,0
+CL-0865,Toitures Legrand SASU,BTP,Occitanie,2415103.0,12.2,-2.6,1029618.0,42.6,38.0,42.6,1,14.0,0,7.9,21,0
+CL-0866,Optique Petit SASU,Santé,Bourgogne-Franche-Comté,734756.0,-2.5,7.3,278734.0,37.9,38.0,39.3,0,0.0,0,1.2,7,0
+CL-0867,Laboratoire Marie SA,Santé,Hauts-de-France,284480.0,6.2,5.6,65841.0,23.1,37.0,35.8,1,10.0,2,34.7,2,0
+CL-0868,Solutions Roussel EURL,Services,Centre-Val de Loire,330049.0,-1.2,11.5,44435.0,13.5,50.0,42.6,0,0.0,0,5.3,2,0
+CL-0869,Charpentes David SAS 2,BTP,Auvergne-Rhône-Alpes,1714394.0,-3.7,7.2,585403.0,34.1,52.0,31.4,0,0.0,0,6.3,14,0
+CL-0870,Maison Morin SAS,Commerce,Hauts-de-France,244828.0,-1.9,-1.9,101214.0,41.3,27.0,69.4,5,31.0,0,1.8,2,0
+CL-0871,Services Barbier EURL,Services,Normandie,194630.0,-0.5,5.3,40354.0,20.7,59.0,10.1,1,16.0,0,1.5,2,0
+CL-0872,Maçonnerie Lucas SAS,BTP,Occitanie,412237.0,17.0,11.2,185117.0,44.9,31.0,33.7,1,19.0,0,1.6,4,0
+CL-0873,Domaine Brun SASU,Agriculture,Auvergne-Rhône-Alpes,653678.0,1.5,9.9,242763.0,37.1,50.0,16.8,0,0.0,0,7.4,8,0
+CL-0874,Restaurant Richard SAS,Restauration,Bretagne,283225.0,-0.6,6.2,89121.0,31.5,10.0,45.1,3,37.7,1,1.5,2,0
+CL-0875,Solutions Marchand SAS,Services,Nouvelle-Aquitaine,152648.0,7.6,9.6,106579.0,69.8,49.0,21.3,1,26.0,1,28.1,1,0
+CL-0876,Pharmacie Masson SARL,Santé,Hauts-de-France,272868.0,6.3,-0.3,70753.0,25.9,42.0,39.4,0,0.0,0,6.6,2,0
+CL-0877,Brasserie Garnier SASU,Restauration,Centre-Val de Loire,893766.0,7.6,-2.3,728786.0,81.5,45.0,20.0,0,0.0,0,6.5,9,0
+CL-0878,Épicerie Roux SAS,Commerce,Auvergne-Rhône-Alpes,608423.0,0.6,10.4,303653.0,49.9,48.0,17.9,0,0.0,0,17.1,4,0
+CL-0879,Mécanique Martin SARL,Industrie,Auvergne-Rhône-Alpes,3101940.0,3.0,-1.5,1574486.0,50.8,3.0,70.9,6,24.8,1,6.3,28,1
+CL-0880,Mécanique Bernard SAS,Industrie,Île-de-France,2051770.0,-4.2,13.4,311631.0,15.2,48.0,34.4,0,0.0,2,2.8,14,0
+CL-0881,Bistrot Thomas EURL,Restauration,Nouvelle-Aquitaine,155766.0,0.0,1.5,33060.0,21.2,22.0,41.8,3,26.7,0,10.4,1,0
+CL-0882,Plasturgie Perrin EURL,Industrie,Auvergne-Rhône-Alpes,4010580.0,13.5,-3.1,1610356.0,40.2,54.0,16.8,1,6.0,0,1.3,52,0
+CL-0883,Vergers Robert SARL,Agriculture,Provence-Alpes-Côte d'Azur,345368.0,-5.4,11.9,120234.0,34.8,38.0,38.7,1,33.0,0,2.1,4,0
+CL-0884,Restaurant Gautier SA,Restauration,Île-de-France,574970.0,9.5,16.9,110046.0,19.1,45.0,8.5,0,0.0,0,8.6,4,0
+CL-0885,Bazar Perrin SASU 2,Commerce,Provence-Alpes-Côte d'Azur,453548.0,-4.2,-0.5,313817.0,69.2,21.0,79.5,8,40.0,2,1.1,6,0
+CL-0886,Bistrot Robert SASU,Restauration,Auvergne-Rhône-Alpes,243799.0,12.1,8.9,81338.0,33.4,38.0,25.6,1,6.0,0,7.8,2,0
+CL-0887,Bistrot Roux EURL,Restauration,Nouvelle-Aquitaine,554466.0,8.1,1.3,150028.0,27.1,18.0,53.0,4,37.8,0,18.3,4,0
+CL-0888,Toitures Dupont SA,BTP,Nouvelle-Aquitaine,608354.0,2.8,10.9,150142.0,24.7,69.0,15.9,1,6.0,0,39.4,4,0
+CL-0889,Bâtiments Joly EURL,BTP,Provence-Alpes-Côte d'Azur,3171657.0,13.9,11.9,887635.0,28.0,41.0,14.7,0,0.0,0,14.0,22,0
+CL-0890,Agence Henry SAS,Services,Occitanie,859545.0,-5.5,1.7,551751.0,64.2,27.0,69.8,6,35.2,4,2.9,7,0
+CL-0891,Maison Michel SAS,Commerce,Nouvelle-Aquitaine,241964.0,0.9,11.0,106541.0,44.0,30.0,30.5,5,20.4,0,4.6,3,0
+CL-0892,GAEC Leroy SAS,Agriculture,Bretagne,552596.0,9.0,1.9,216268.0,39.1,26.0,39.9,3,16.0,0,3.7,5,0
+CL-0893,Maison Nicolas SASU,Commerce,Hauts-de-France,519796.0,-5.6,-4.0,398335.0,76.6,29.0,56.0,3,31.3,0,3.9,4,0
+CL-0894,Bâtiments Roux SA,BTP,Auvergne-Rhône-Alpes,516000.0,7.4,15.9,75326.0,14.6,58.0,17.4,2,12.0,0,10.7,6,0
+CL-0895,Agence Dubois SASU,Services,Normandie,201283.0,0.3,11.2,154372.0,76.7,40.0,19.5,0,0.0,0,17.3,1,0
+CL-0896,Pharmacie Fontaine SA,Santé,Nouvelle-Aquitaine,473367.0,16.7,14.7,61403.0,13.0,66.0,5.0,0,0.0,0,4.8,3,0
+CL-0897,Épicerie Masson SASU,Commerce,Île-de-France,1722064.0,3.8,13.4,398315.0,23.1,34.0,52.8,3,39.0,0,1.1,13,0
+CL-0898,Épicerie Roussel SASU,Commerce,Occitanie,845838.0,6.3,18.1,233514.0,27.6,50.0,28.3,0,0.0,1,3.9,7,0
+CL-0899,Épicerie David SA,Commerce,Île-de-France,658113.0,-0.1,7.0,231442.0,35.2,39.0,61.9,9,39.6,3,7.4,4,0
+CL-0900,Transports Gaillard SASU,Transport,Auvergne-Rhône-Alpes,428387.0,10.2,5.8,402832.0,94.0,32.0,42.9,2,32.5,1,3.1,5,0
+CL-0901,Traiteur Rousseau SASU,Restauration,Pays de la Loire,33473.0,5.9,4.7,8592.0,25.7,38.0,63.8,3,26.0,1,4.8,1,0
+CL-0902,Maison Fontaine SAS,Commerce,Île-de-France,294910.0,9.6,1.8,82621.0,28.0,28.0,32.3,3,42.0,0,16.2,3,0
+CL-0903,Charpentes Roussel SAS,BTP,Bretagne,2274349.0,1.1,8.9,841981.0,37.0,32.0,29.6,3,16.3,0,3.5,31,0
+CL-0904,Fret Nicolas SARL,Transport,Bourgogne-Franche-Comté,810874.0,11.5,11.0,621904.0,76.7,46.0,28.6,2,8.0,0,6.6,11,0
+CL-0905,Vergers Petit EURL,Agriculture,Grand Est,346718.0,-0.2,15.4,216652.0,62.5,43.0,26.4,0,0.0,0,7.2,2,0
+CL-0906,Usinage Henry EURL,Industrie,Provence-Alpes-Côte d'Azur,3983449.0,-9.1,8.6,1804300.0,45.3,41.0,45.3,5,26.4,0,17.1,34,1
+CL-0907,Fret Henry SA 2,Transport,Provence-Alpes-Côte d'Azur,1123891.0,-2.4,12.3,199162.0,17.7,45.0,12.8,0,0.0,0,5.3,8,0
+CL-0908,Rénovation Noël SASU,BTP,Corse,501855.0,4.0,12.2,73749.0,14.7,36.0,16.1,2,25.5,1,8.2,4,0
+CL-0909,Épicerie Bertrand EURL,Commerce,Nouvelle-Aquitaine,850510.0,-5.5,13.4,191176.0,22.5,37.0,31.7,1,22.0,0,4.6,11,0
+CL-0910,Comptoir Richard SAS 2,Commerce,Île-de-France,902216.0,10.0,-5.5,154932.0,17.2,25.0,71.8,4,22.5,1,4.9,6,1
+CL-0911,Services Marchand EURL,Services,Hauts-de-France,1876037.0,-2.4,18.8,302189.0,16.1,46.0,16.1,0,0.0,0,41.6,17,0
+CL-0912,Pharmacie Robert SAS,Santé,Hauts-de-France,1623413.0,-1.4,5.7,305089.0,18.8,3.0,81.9,4,44.2,0,6.9,15,1
+CL-0913,Optique Chevalier EURL,Santé,Île-de-France,508602.0,-1.9,7.0,172982.0,34.0,57.0,13.8,0,0.0,0,34.0,3,0
+CL-0914,Domaine Garnier EURL,Agriculture,Grand Est,515927.0,11.1,4.2,92618.0,18.0,45.0,24.5,0,0.0,0,6.0,3,0
+CL-0915,Vergers Mercier SASU,Agriculture,Île-de-France,207302.0,0.2,-0.5,128402.0,61.9,46.0,41.9,0,0.0,0,1.4,1,0
+CL-0916,Vergers Muller SA,Agriculture,Bourgogne-Franche-Comté,449696.0,11.6,15.8,136109.0,30.3,66.0,17.9,0,0.0,0,1.9,4,0
+CL-0917,Charpentes Blanchard SASU,BTP,Auvergne-Rhône-Alpes,1191900.0,9.3,16.7,375681.0,31.5,32.0,20.9,0,0.0,0,1.3,11,0
+CL-0918,Rénovation Lambert EURL,BTP,Île-de-France,828877.0,0.7,14.3,377254.0,45.5,47.0,16.3,0,0.0,0,10.0,10,0
+CL-0919,Épicerie Clément EURL,Commerce,Île-de-France,273332.0,6.5,11.0,103502.0,37.9,29.0,68.9,2,14.5,2,8.1,2,0
+CL-0920,Express Mercier SAS,Transport,Auvergne-Rhône-Alpes,699887.0,2.3,9.4,284441.0,40.6,39.0,42.7,0,0.0,0,3.1,10,0
+CL-0921,Rénovation Robin SASU,BTP,Auvergne-Rhône-Alpes,516596.0,-19.1,-0.9,114645.0,22.2,22.0,60.3,1,15.0,0,12.0,4,0
+CL-0922,Conseil Dubois SARL,Services,Île-de-France,578184.0,-5.3,2.8,399817.0,69.2,32.0,38.2,1,19.0,1,15.4,6,1
+CL-0923,Métallerie Meunier SARL,Industrie,Auvergne-Rhône-Alpes,3552529.0,7.7,5.5,3487125.0,98.2,9.0,75.1,5,45.0,1,8.1,44,0
+CL-0924,Transports Marie SASU,Transport,Auvergne-Rhône-Alpes,1166104.0,-9.1,-6.2,497872.0,42.7,9.0,86.4,5,28.8,3,5.8,16,1
+CL-0925,Maçonnerie Morin SAS,BTP,Nouvelle-Aquitaine,1189760.0,-4.3,2.4,742868.0,62.4,42.0,20.2,0,0.0,0,4.6,14,0
+CL-0926,Boutique Vincent SA,Commerce,Nouvelle-Aquitaine,500841.0,-1.9,14.8,172523.0,34.4,49.0,43.2,1,26.0,0,3.0,6,0
+CL-0927,Rénovation Leroy SASU,BTP,Nouvelle-Aquitaine,461193.0,1.6,6.2,372790.0,80.8,12.0,87.3,9,39.2,1,6.8,4,1
+CL-0928,Optique Brunet EURL,Santé,Nouvelle-Aquitaine,546148.0,9.2,-3.5,173710.0,31.8,46.0,17.6,1,21.0,1,9.2,4,0
+CL-0929,Ateliers Bertrand SAS,Industrie,Île-de-France,2556061.0,14.9,6.4,750717.0,29.4,30.0,14.5,1,32.0,0,6.6,34,0
+CL-0930,Conseil Lefèvre SAS,Services,Île-de-France,451938.0,0.8,3.0,139565.0,30.9,42.0,55.3,5,26.6,0,7.4,4,1
+CL-0931,Comptoir Lefebvre SASU,Commerce,Auvergne-Rhône-Alpes,409219.0,11.2,-0.7,222775.0,54.4,27.0,60.4,2,24.0,3,31.8,5,0
+CL-0932,Restaurant Simon SA,Restauration,Pays de la Loire,125626.0,8.3,13.9,21753.0,17.3,39.0,15.4,0,0.0,0,24.8,1,0
+CL-0933,Bistrot Bertrand SA,Restauration,Corse,478757.0,-1.0,-0.3,225487.0,47.1,26.0,58.2,1,22.0,0,5.3,4,0
+CL-0934,Services Gaillard SARL,Services,Bourgogne-Franche-Comté,102884.0,7.8,6.4,73643.0,71.6,29.0,55.3,4,29.2,0,3.6,1,0
+CL-0935,Solutions Barbier SA,Services,Hauts-de-France,289935.0,4.0,14.1,41096.0,14.2,72.0,9.5,1,14.0,0,60.0,4,0
+CL-0936,Épicerie Giraud SASU,Commerce,Hauts-de-France,199434.0,-1.6,12.6,116217.0,58.3,35.0,42.0,2,12.5,1,2.1,2,1
+CL-0937,Domaine Garcia EURL,Agriculture,Nouvelle-Aquitaine,1107489.0,3.7,4.0,553481.0,50.0,55.0,24.6,0,0.0,0,11.1,16,0
+CL-0938,Bâtiments Legrand SA,BTP,Pays de la Loire,1444273.0,11.1,1.5,272526.0,18.9,50.0,14.7,0,0.0,0,16.2,15,0
+CL-0939,Laboratoire Girard SARL,Santé,Pays de la Loire,1166133.0,12.0,14.3,301746.0,25.9,76.0,15.5,0,0.0,0,1.2,8,0
+CL-0940,Charpentes Masson SASU 2,BTP,Bretagne,353765.0,14.3,4.3,93031.0,26.3,35.0,29.9,1,14.0,0,27.1,3,0
+CL-0941,Bazar Clément SASU,Commerce,Normandie,218913.0,8.8,13.2,79923.0,36.5,40.0,30.1,1,13.0,0,6.3,2,0
+CL-0942,Conseil Garcia SARL 2,Services,Occitanie,1652803.0,12.4,7.7,273894.0,16.6,39.0,16.2,0,0.0,0,10.5,18,0
+CL-0943,Maison Michel SA,Commerce,Pays de la Loire,661635.0,4.9,10.6,390511.0,59.0,34.0,32.8,2,39.5,1,2.5,8,0
+CL-0944,Restaurant Mercier SARL,Restauration,Bretagne,109697.0,-1.9,14.1,21645.0,19.7,62.0,9.1,0,0.0,0,28.8,1,0
+CL-0945,Restaurant Rivière SAS,Restauration,Auvergne-Rhône-Alpes,308265.0,-4.4,7.2,74706.0,24.2,34.0,45.9,4,17.5,1,16.2,4,0
+CL-0946,Comptoir Barbier EURL,Commerce,Bourgogne-Franche-Comté,327152.0,-0.1,-9.4,189312.0,57.9,25.0,66.6,2,7.5,1,9.8,2,0
+CL-0947,Conseil Vincent SAS,Services,Île-de-France,621855.0,-8.1,11.4,130581.0,21.0,42.0,55.7,3,19.3,1,4.2,4,0
+CL-0948,Cabinet Bertrand SASU,Santé,Corse,291156.0,6.3,16.2,84959.0,29.2,44.0,13.3,0,0.0,0,10.7,3,0
+CL-0949,Cabinet Bonnet SASU,Santé,Pays de la Loire,450225.0,5.3,12.5,263387.0,58.5,38.0,22.3,0,0.0,0,12.1,3,1
+CL-0950,Épicerie Bertrand SASU,Commerce,Île-de-France,973995.0,1.9,13.8,312640.0,32.1,83.0,3.4,0,0.0,0,33.5,6,0
+CL-0951,Ambulances Chevalier SASU,Transport,Grand Est,1273393.0,1.6,3.0,971353.0,76.3,33.0,73.6,3,16.7,2,2.1,12,0
+CL-0952,Bazar Clément SAS,Commerce,Île-de-France,442627.0,1.1,-4.5,273123.0,61.7,8.0,92.2,10,55.0,5,6.5,5,1
+CL-0953,Épicerie Garnier SASU,Commerce,Pays de la Loire,286283.0,-12.6,2.9,107225.0,37.5,33.0,66.7,2,12.5,0,3.3,2,0
+CL-0954,Bâtiments Dubois SAS,BTP,Pays de la Loire,1000387.0,2.7,3.0,480189.0,48.0,32.0,48.8,0,0.0,0,3.9,8,0
+CL-0955,Vergers Marchand SA,Agriculture,Grand Est,136646.0,9.7,3.8,47082.0,34.5,40.0,62.2,1,27.0,1,26.0,2,0
+CL-0956,Pharmacie Faure SASU,Santé,Normandie,806354.0,4.2,5.3,513341.0,63.7,26.0,47.7,4,25.2,1,1.9,5,1
+CL-0957,Studio André SAS,Services,Île-de-France,380470.0,-5.6,-1.4,77877.0,20.5,41.0,51.4,1,20.0,1,15.3,3,0
+CL-0958,Transports Brun SA,Transport,Auvergne-Rhône-Alpes,856020.0,0.9,20.3,175431.0,20.5,69.0,3.6,0,0.0,0,30.5,8,0
+CL-0959,Transports Faure SASU,Transport,Occitanie,532468.0,3.7,22.5,442032.0,83.0,31.0,63.9,0,0.0,2,1.2,6,0
+CL-0960,Fret Arnaud SASU,Transport,Île-de-France,1379201.0,-7.9,1.5,793661.0,57.5,7.0,93.0,10,54.0,6,3.4,14,1
+CL-0961,Fret Lucas SA,Transport,Occitanie,1278468.0,4.1,9.6,569640.0,44.6,33.0,64.6,3,15.3,1,4.8,14,0
+CL-0962,Restaurant Meyer SASU,Restauration,Auvergne-Rhône-Alpes,224019.0,-1.2,20.1,221892.0,99.1,54.0,21.0,1,8.0,0,2.1,2,0
+CL-0963,Bâtiments Dumont SA,BTP,Nouvelle-Aquitaine,154862.0,-6.0,10.8,50884.0,32.9,18.0,71.5,4,43.8,0,1.7,1,0
+CL-0964,Maçonnerie Blanc SAS,BTP,Occitanie,864594.0,9.8,17.3,243090.0,28.1,42.0,14.6,0,0.0,0,3.4,11,0
+CL-0965,EARL Arnaud SARL,Agriculture,Normandie,1131136.0,-1.6,2.3,226908.0,20.1,12.0,77.3,4,23.8,4,2.8,7,0
+CL-0966,Express Bernard EURL,Transport,Auvergne-Rhône-Alpes,864561.0,12.0,8.3,308000.0,35.6,58.0,8.6,2,13.0,0,11.0,10,0
+CL-0967,Vergers Henry EURL,Agriculture,Normandie,401442.0,7.4,14.8,194737.0,48.5,50.0,28.0,2,16.0,1,11.0,4,0
+CL-0968,Toitures Barbier SA,BTP,Occitanie,982624.0,19.4,7.5,387526.0,39.4,63.0,13.7,1,24.0,0,11.5,14,0
+CL-0969,Logistique Garcia SA,Transport,Nouvelle-Aquitaine,601759.0,11.9,24.4,421564.0,70.1,61.0,8.3,0,0.0,0,25.7,8,0
+CL-0970,Épicerie Mathieu SARL 2,Commerce,Hauts-de-France,506310.0,-7.9,7.1,358100.0,70.7,17.0,69.9,5,40.6,4,1.8,7,0
+CL-0971,Bazar Morin EURL,Commerce,Occitanie,1240344.0,0.8,0.9,446909.0,36.0,30.0,48.0,0,0.0,0,7.0,16,0
+CL-0972,Toitures David SASU,BTP,Auvergne-Rhône-Alpes,969006.0,-1.5,7.4,493958.0,51.0,45.0,29.6,2,10.5,0,6.3,7,0
+CL-0973,Toitures Michel SA,BTP,Hauts-de-France,2749153.0,-0.4,18.9,587291.0,21.4,51.0,5.1,0,0.0,0,26.7,28,0
+CL-0974,Cabinet Perrin SASU,Santé,Île-de-France,728736.0,8.2,13.4,216261.0,29.7,82.0,4.2,0,0.0,0,3.1,8,0
+CL-0975,Maison Dufour SAS,Commerce,Nouvelle-Aquitaine,937577.0,7.7,12.6,1090826.0,116.3,48.0,23.7,1,18.0,0,13.3,8,0
+CL-0976,Ateliers André EURL,Industrie,Hauts-de-France,1649781.0,-3.8,6.8,1737644.0,105.3,31.0,29.0,1,12.0,0,2.8,18,1
+CL-0977,Boulangerie Denis SAS,Restauration,Occitanie,346618.0,1.8,8.4,398598.0,115.0,31.0,52.2,4,36.2,1,1.8,3,0
+CL-0978,Traiteur Richard SARL,Restauration,Bretagne,471540.0,-3.2,1.0,205706.0,43.6,37.0,59.1,0,0.0,0,9.5,4,0
+CL-0979,Transports Rivière SARL,Transport,Auvergne-Rhône-Alpes,2559809.0,-1.4,5.1,896739.0,35.0,6.0,82.3,2,44.0,1,9.4,30,0
+CL-0980,Maison Noël EURL,Commerce,Centre-Val de Loire,551864.0,9.0,13.7,129516.0,23.5,54.0,16.8,0,0.0,0,29.5,6,0
+CL-0981,Vergers Petit SASU,Agriculture,Pays de la Loire,966510.0,6.0,8.1,1081209.0,111.9,41.0,21.2,1,5.0,1,2.0,9,1
+CL-0982,Studio Gautier EURL,Services,Centre-Val de Loire,903244.0,10.9,4.4,224495.0,24.9,53.0,10.1,0,0.0,0,4.9,6,0
+CL-0983,Studio Dupont SARL,Services,Bretagne,1493487.0,-2.5,9.4,1071256.0,71.7,43.0,31.2,7,21.3,0,22.5,14,0
+CL-0984,Bistrot Fournier SASU 2,Restauration,Île-de-France,472875.0,-11.9,-5.9,193461.0,40.9,12.0,88.0,11,43.7,6,8.7,6,0
+CL-0985,Rénovation Gauthier SASU,BTP,Hauts-de-France,1117492.0,25.2,12.3,328823.0,29.4,77.0,2.1,1,17.0,0,13.9,16,0
+CL-0986,Pharmacie Henry SASU,Santé,Île-de-France,446392.0,5.5,5.5,192041.0,43.0,47.0,15.2,0,0.0,0,2.0,4,0
+CL-0987,Brasserie Roux EURL,Restauration,Bretagne,532077.0,-1.1,4.9,223396.0,42.0,4.0,89.2,6,29.5,4,1.2,3,1
+CL-0988,Toitures Chevalier SA,BTP,Grand Est,1207612.0,2.9,16.1,174354.0,14.4,64.0,5.2,0,0.0,0,6.9,10,0
+CL-0989,Brasserie Bonnet SA,Restauration,Auvergne-Rhône-Alpes,379809.0,7.4,9.7,126005.0,33.2,26.0,63.6,3,23.0,0,4.3,3,0
+CL-0990,Conseil Roussel SAS,Services,Bourgogne-Franche-Comté,151085.0,-6.1,2.0,104812.0,69.4,21.0,52.1,3,31.7,1,10.8,1,0
+CL-0991,Mécanique Boyer SAS,Industrie,Île-de-France,1867039.0,-6.2,7.3,1370270.0,73.4,35.0,35.6,2,37.5,0,15.6,20,0
+CL-0992,Services Barbier SASU,Services,Hauts-de-France,65253.0,-1.1,6.8,17028.0,26.1,33.0,19.7,1,14.0,0,23.4,1,0
+CL-0993,Studio Petit SAS,Services,Provence-Alpes-Côte d'Azur,351195.0,3.5,10.4,109915.0,31.3,35.0,46.9,2,10.0,1,24.1,3,0
+CL-0994,Boutique Meunier SAS,Commerce,Île-de-France,289274.0,-3.1,-1.0,94803.0,32.8,12.0,80.4,4,28.2,2,11.8,4,1
+CL-0995,Cabinet Dufour EURL,Santé,Grand Est,860636.0,5.7,2.8,553245.0,64.3,31.0,36.3,1,11.0,0,1.8,9,0
+CL-0996,Boulangerie Thomas SASU,Restauration,Bretagne,2050350.0,6.0,8.2,541365.0,26.4,41.0,34.7,2,21.5,0,4.4,20,0
+CL-0997,Usinage Lambert EURL,Industrie,Île-de-France,4622800.0,4.0,6.7,615036.0,13.3,58.0,8.4,0,0.0,0,8.1,61,0
+CL-0998,Toitures Fournier SAS,BTP,Hauts-de-France,514429.0,5.2,5.3,187550.0,36.5,41.0,31.7,2,11.5,0,26.2,5,0
+CL-0999,GAEC Dufour SARL,Agriculture,Auvergne-Rhône-Alpes,1132076.0,8.9,15.3,234877.0,20.7,48.0,15.6,0,0.0,0,1.1,8,0
+CL-1000,Bazar Marie SASU,Commerce,Provence-Alpes-Côte d'Azur,769147.0,16.5,3.1,499199.0,64.9,44.0,8.7,0,0.0,0,15.2,6,0
+CL-1001,Charpentes Giraud EURL,BTP,Île-de-France,1318167.0,-7.8,3.2,825679.0,62.6,33.0,68.1,1,21.0,0,3.8,14,1
+CL-1002,Restaurant Petit EURL,Restauration,Bourgogne-Franche-Comté,368570.0,-1.5,8.1,156534.0,42.5,47.0,28.5,4,11.0,0,2.4,5,0
+CL-1003,Bâtiments Durand SA 2,BTP,Normandie,1724311.0,4.0,2.6,1499260.0,86.9,31.0,44.9,3,24.0,0,2.1,16,0
+CL-1004,Charpentes Henry SAS,BTP,Auvergne-Rhône-Alpes,479558.0,-0.3,1.5,352268.0,73.5,9.0,80.8,9,41.2,4,5.7,4,1
+CL-1005,Ateliers Robert SAS,Industrie,Nouvelle-Aquitaine,666032.0,8.7,4.7,189938.0,28.5,38.0,23.3,0,0.0,0,23.2,9,0
+CL-1006,Brasserie André SAS 2,Restauration,Grand Est,274056.0,-1.0,9.0,64044.0,23.4,44.0,33.3,0,0.0,0,11.9,3,0
+CL-1007,Laboratoire Robin SAS,Santé,Provence-Alpes-Côte d'Azur,821573.0,0.8,3.0,268381.0,32.7,34.0,40.3,3,24.0,1,17.7,7,0
+CL-1008,Comptoir Richard SAS 3,Commerce,Occitanie,417150.0,0.7,15.6,74910.0,18.0,38.0,41.5,0,0.0,0,9.4,4,0
+CL-1009,Services Arnaud SASU,Services,Île-de-France,677039.0,0.6,9.5,607756.0,89.8,35.0,55.3,3,43.3,0,7.2,5,1
+CL-1010,Traiteur Chevalier SARL,Restauration,Île-de-France,482918.0,2.8,6.1,126815.0,26.3,45.0,34.3,1,21.0,0,48.9,3,1
+CL-1011,Métallerie André EURL,Industrie,Corse,1680410.0,2.5,8.9,254522.0,15.1,38.0,15.7,1,10.0,0,17.5,17,0
+CL-1012,Plasturgie Dupont EURL,Industrie,Occitanie,2492688.0,-6.5,9.0,966735.0,38.8,63.0,6.9,0,0.0,0,21.6,21,0
+CL-1013,Bistrot Vincent SAS,Restauration,Normandie,46743.0,18.2,7.4,13329.0,28.5,58.0,8.0,1,8.0,0,1.0,1,0
+CL-1014,Ferme Morel SARL,Agriculture,Occitanie,800559.0,14.8,13.6,82536.0,10.3,48.0,11.7,1,6.0,0,1.5,6,1
+CL-1015,Traiteur Fontaine EURL,Restauration,Bourgogne-Franche-Comté,496026.0,5.1,8.7,108147.0,21.8,36.0,59.8,2,18.5,2,9.7,3,0
+CL-1016,Maison Dufour EURL,Commerce,Île-de-France,351292.0,2.8,8.8,47561.0,13.5,63.0,6.7,0,0.0,0,22.0,3,0
+CL-1017,Solutions Dufour SA,Services,Île-de-France,744238.0,-2.3,10.8,143285.0,19.3,36.0,51.0,3,16.3,0,12.5,5,0
+CL-1018,Conseil Denis SARL,Services,Bourgogne-Franche-Comté,271321.0,14.6,1.0,82639.0,30.5,40.0,40.5,1,18.0,1,1.1,2,0
+CL-1019,Toitures Petit SAS,BTP,Bourgogne-Franche-Comté,949752.0,-2.4,14.1,507995.0,53.5,42.0,40.2,2,11.0,0,13.4,6,0
+CL-1020,Brasserie Clément SARL,Restauration,Nouvelle-Aquitaine,327222.0,12.7,12.7,112886.0,34.5,48.0,21.1,1,12.0,1,15.5,5,0
+CL-1021,Pharmacie Chevalier SA,Santé,Nouvelle-Aquitaine,191551.0,9.0,11.0,24567.0,12.8,51.0,18.9,1,23.0,0,40.0,1,0
+CL-1022,Studio Blanc EURL,Services,Occitanie,300797.0,14.3,10.7,67259.0,22.4,56.0,14.4,0,0.0,0,1.0,2,0
+CL-1023,Domaine Muller SASU,Agriculture,Occitanie,148202.0,-0.8,13.0,54234.0,36.6,56.0,14.1,1,13.0,0,1.9,2,0
+CL-1024,Transports Morel EURL,Transport,Auvergne-Rhône-Alpes,1131106.0,-3.8,3.4,475746.0,42.1,20.0,74.7,3,45.3,3,18.3,7,0
+CL-1025,Mécanique Petit SARL,Industrie,Normandie,2533439.0,6.5,15.5,1195138.0,47.2,28.0,37.6,1,31.0,0,11.4,30,0
+CL-1026,Bazar Fontaine SARL,Commerce,Auvergne-Rhône-Alpes,827121.0,-2.2,17.0,313067.0,37.9,48.0,42.7,0,0.0,1,5.4,5,0
+CL-1027,Ferme Legrand SASU,Agriculture,Provence-Alpes-Côte d'Azur,307283.0,-0.7,8.5,73924.0,24.1,21.0,54.1,2,14.5,0,7.2,3,0
+CL-1028,Traiteur Dupont SASU,Restauration,Île-de-France,202503.0,0.0,9.9,43090.0,21.3,24.0,59.4,2,20.0,0,8.2,2,0
+CL-1029,Solutions Clément SAS,Services,Île-de-France,485781.0,-4.9,10.8,151647.0,31.2,44.0,17.3,0,0.0,0,23.5,5,0
+CL-1030,Boulangerie Denis SARL,Restauration,Grand Est,86563.0,-7.7,10.2,20116.0,23.2,32.0,21.5,1,11.0,0,18.7,1,0
+CL-1031,Transports Mathieu SARL,Transport,Nouvelle-Aquitaine,1239736.0,0.6,-3.1,846313.0,68.3,-1.0,93.2,6,46.7,1,7.1,10,1
+CL-1032,Services Dubois SA,Services,Grand Est,844245.0,-4.6,6.8,427677.0,50.7,48.0,11.2,0,0.0,0,6.4,5,0
+CL-1033,Fret Blanc SAS,Transport,Île-de-France,804259.0,-3.4,15.4,748226.0,93.0,18.0,71.9,5,50.8,0,5.5,9,0
+CL-1034,Cabinet Denis EURL,Santé,Centre-Val de Loire,1406528.0,13.9,25.4,216015.0,15.4,57.0,9.9,0,0.0,0,8.9,13,0
+CL-1035,Restaurant Gauthier SA,Restauration,Pays de la Loire,528802.0,-4.1,12.5,186274.0,35.2,31.0,70.6,2,33.0,0,15.2,4,0
+CL-1036,Mécanique Gautier SARL,Industrie,Normandie,5819234.0,2.1,16.5,1372190.0,23.6,27.0,42.2,0,0.0,0,13.3,62,0
+CL-1037,Traiteur Michel SAS,Restauration,Île-de-France,614735.0,10.2,-0.0,397044.0,64.6,36.0,69.3,2,32.5,0,21.0,5,0
+CL-1038,Bistrot Vincent SARL,Restauration,Nouvelle-Aquitaine,335989.0,5.7,-2.8,129275.0,38.5,48.0,22.2,1,7.0,0,9.3,4,0
+CL-1039,Boulangerie Bernard SA,Restauration,Nouvelle-Aquitaine,399400.0,2.5,1.4,390375.0,97.7,19.0,69.6,6,34.2,4,10.6,6,0
+CL-1040,Bâtiments Fontaine SA,BTP,Hauts-de-France,551287.0,-4.3,-2.1,243337.0,44.1,30.0,78.2,8,42.5,2,6.7,8,1
+CL-1041,Bâtiments Richard EURL,BTP,Auvergne-Rhône-Alpes,477023.0,-2.0,8.0,134082.0,28.1,44.0,45.9,1,6.0,0,20.7,4,0
+CL-1042,Ateliers Giraud SASU,Industrie,Île-de-France,3290100.0,1.3,6.2,855215.0,26.0,49.0,26.2,2,18.0,0,42.4,25,0
+CL-1043,Métallerie Morel SARL,Industrie,Nouvelle-Aquitaine,2243914.0,10.0,14.1,906525.0,40.4,58.0,32.6,0,0.0,0,5.6,32,0
+CL-1044,Métallerie Dumont SA,Industrie,Auvergne-Rhône-Alpes,1418583.0,19.2,17.8,535532.0,37.8,57.0,15.0,1,27.0,0,12.2,13,1
+CL-1045,Maçonnerie Faure SASU,BTP,Nouvelle-Aquitaine,1910587.0,6.2,-8.1,589287.0,30.8,16.0,82.6,6,26.2,1,3.1,16,1
+CL-1046,Comptoir Bertrand SAS,Commerce,Auvergne-Rhône-Alpes,855430.0,-4.5,7.1,102506.0,12.0,45.0,27.7,1,9.0,1,9.2,9,0
+CL-1047,Maison Thomas SAS 2,Commerce,Auvergne-Rhône-Alpes,96496.0,-18.5,1.1,26073.0,27.0,49.0,33.9,0,0.0,0,13.9,1,0
+CL-1048,Agence Robert SARL 2,Services,Grand Est,567742.0,-2.2,-7.8,160488.0,28.3,26.0,73.8,4,29.8,0,4.2,5,0
+CL-1049,Laboratoire Dubois SAS,Santé,Nouvelle-Aquitaine,384283.0,8.5,11.8,116399.0,30.3,24.0,33.9,1,43.0,0,6.8,5,0
+CL-1050,Comptoir Blanchard SARL,Commerce,Nouvelle-Aquitaine,1261511.0,-5.2,-1.5,776102.0,61.5,28.0,55.6,5,29.8,1,31.0,11,0
+CL-1051,Usinage Dubois SASU,Industrie,Hauts-de-France,4335023.0,6.8,10.9,810421.0,18.7,37.0,20.7,1,27.0,0,1.0,30,0
+CL-1052,Charpentes Lemaire SASU,BTP,Pays de la Loire,1902318.0,-4.4,-0.1,418056.0,22.0,30.0,41.2,1,28.0,0,21.2,14,0
+CL-1053,Bazar Laurent SARL,Commerce,Nouvelle-Aquitaine,987137.0,8.1,8.6,256466.0,26.0,53.0,10.0,0,0.0,0,33.3,12,0
+CL-1054,Bâtiments Rousseau SARL,BTP,Grand Est,1976312.0,-2.2,7.5,2551638.0,129.1,32.0,40.0,1,27.0,0,11.1,13,0
+CL-1055,Boutique Bertrand SA,Commerce,Centre-Val de Loire,131631.0,9.2,12.6,23805.0,18.1,57.0,4.9,0,0.0,0,10.7,1,0
+CL-1056,Services Bernard SA,Services,Hauts-de-France,120710.0,-2.1,8.3,63104.0,52.3,46.0,30.0,2,25.5,1,5.9,1,0
+CL-1057,Cabinet Faure SAS,Santé,Bourgogne-Franche-Comté,1230222.0,5.3,8.6,198708.0,16.2,54.0,22.9,0,0.0,0,20.3,9,0
+CL-1058,Comptoir Dumont EURL,Commerce,Pays de la Loire,237923.0,2.4,11.8,170017.0,71.5,44.0,32.4,1,10.0,0,10.8,2,0
+CL-1059,Express Morin EURL,Transport,Île-de-France,852983.0,7.3,12.4,262420.0,30.8,38.0,26.4,1,23.0,0,9.0,6,0
+CL-1060,Conseil Lefebvre SARL,Services,Occitanie,702389.0,11.9,11.3,202308.0,28.8,59.0,9.5,1,10.0,0,7.2,6,0
+CL-1061,Ferme Mercier EURL,Agriculture,Provence-Alpes-Côte d'Azur,3071936.0,-1.9,6.0,912105.0,29.7,21.0,56.9,3,17.7,1,11.3,21,0
+CL-1062,Usinage Girard SARL,Industrie,Centre-Val de Loire,2972149.0,5.0,7.5,779573.0,26.2,37.0,35.5,2,17.5,0,1.0,25,0
+CL-1063,Bazar Bonnet SARL,Commerce,Occitanie,666030.0,-2.0,5.1,658969.0,98.9,30.0,56.1,0,0.0,1,4.6,8,0
+CL-1064,Mécanique Joly SAS,Industrie,Île-de-France,572758.0,-23.8,-1.2,230766.0,40.3,4.0,92.4,6,31.2,2,8.1,7,0
+CL-1065,Bazar Guérin SA,Commerce,Hauts-de-France,814840.0,-14.3,5.2,361577.0,44.4,6.0,84.8,7,31.4,1,8.8,11,1
+CL-1066,Ferme Petit SASU,Agriculture,Île-de-France,509688.0,0.4,12.4,138098.0,27.1,51.0,5.1,0,0.0,0,6.7,4,0
+CL-1067,Bistrot Roux SASU,Restauration,Pays de la Loire,794702.0,-1.7,12.0,259040.0,32.6,58.0,16.0,2,14.0,0,21.1,8,0
+CL-1068,Conseil Gautier SA,Services,Hauts-de-France,561770.0,-2.5,1.1,184795.0,32.9,42.0,44.5,0,0.0,0,11.6,6,0
+CL-1069,Bâtiments Boyer EURL,BTP,Provence-Alpes-Côte d'Azur,1665356.0,-1.0,5.9,567107.0,34.1,38.0,26.1,0,0.0,0,9.6,16,0
+CL-1070,Brasserie Lefebvre SAS,Restauration,Normandie,196776.0,6.7,5.9,92079.0,46.8,58.0,13.9,0,0.0,0,31.5,2,0
+CL-1071,Pharmacie Noël SASU,Santé,Grand Est,1135140.0,-0.0,9.8,524992.0,46.2,49.0,29.8,0,0.0,0,19.4,12,0
+CL-1072,Plasturgie Robin SA,Industrie,Grand Est,1580587.0,16.3,13.0,406492.0,25.7,41.0,22.8,0,0.0,0,22.8,17,0
+CL-1073,Traiteur Clément SAS,Restauration,Pays de la Loire,192786.0,2.2,-1.2,121375.0,63.0,-1.0,85.2,8,37.1,3,18.0,1,1
+CL-1074,Domaine Meyer SASU,Agriculture,Bretagne,409519.0,-7.1,2.2,200595.0,49.0,32.0,31.5,1,10.0,0,12.3,4,0
+CL-1075,Laboratoire Leroy SA,Santé,Normandie,656415.0,7.2,8.7,265990.0,40.5,38.0,51.8,2,24.5,0,14.9,6,0
+CL-1076,Maison Fontaine SASU,Commerce,Île-de-France,710596.0,8.9,20.8,91461.0,12.9,60.0,6.1,2,10.5,0,5.1,5,0
+CL-1077,Express Simon SA,Transport,Hauts-de-France,450051.0,-7.0,7.3,285210.0,63.4,41.0,19.0,1,6.0,0,2.7,5,1
+CL-1078,Ambulances Dufour SAS,Transport,Auvergne-Rhône-Alpes,2552176.0,-4.3,5.0,508069.0,19.9,20.0,59.2,3,44.0,1,13.1,21,0
+CL-1079,Mécanique Petit EURL,Industrie,Normandie,4219635.0,-3.0,-0.0,5820777.0,137.9,4.0,83.4,7,38.4,1,1.9,34,0
+CL-1080,Épicerie Giraud SA,Commerce,Grand Est,1355041.0,7.1,9.7,363167.0,26.8,53.0,25.0,0,0.0,0,10.4,11,0
+CL-1081,Boutique Rivière SARL 2,Commerce,Occitanie,1957962.0,-0.9,4.9,1691462.0,86.4,34.0,40.9,1,32.0,2,1.5,27,0
+CL-1082,Laboratoire Boyer SA,Santé,Auvergne-Rhône-Alpes,449134.0,6.1,19.4,83174.0,18.5,53.0,8.7,0,0.0,0,10.7,4,0
+CL-1083,Clinique vétérinaire Blanchard SASU,Santé,Nouvelle-Aquitaine,1723213.0,6.0,5.0,803943.0,46.7,47.0,21.8,1,9.0,0,2.5,22,0
+CL-1084,Services Meunier SA 2,Services,Provence-Alpes-Côte d'Azur,267275.0,-0.3,6.0,59428.0,22.2,32.0,46.8,3,18.7,2,6.2,2,0
+CL-1085,Domaine Muller SA,Agriculture,Auvergne-Rhône-Alpes,643572.0,-1.5,10.5,242972.0,37.8,38.0,24.4,1,11.0,0,3.9,6,0
+CL-1086,Solutions Rivière SASU,Services,Île-de-France,682209.0,4.3,14.8,130490.0,19.1,38.0,12.8,0,0.0,0,7.0,4,0
+CL-1087,Services Marchand EURL 2,Services,Normandie,373341.0,9.9,7.2,122363.0,32.8,50.0,19.3,0,0.0,0,5.6,2,0
+CL-1088,Conseil Garcia EURL,Services,Pays de la Loire,662247.0,2.9,11.2,558197.0,84.3,33.0,25.0,3,23.0,0,2.1,5,0
+CL-1089,Fret Gaillard SAS,Transport,Auvergne-Rhône-Alpes,628089.0,7.7,6.4,550160.0,87.6,7.0,84.8,9,34.4,1,2.0,4,0
+CL-1090,Restaurant Gaillard SA,Restauration,Auvergne-Rhône-Alpes,439331.0,6.7,3.9,258726.0,58.9,38.0,53.0,1,28.0,0,1.5,3,0
+CL-1091,Boutique Muller SA,Commerce,Centre-Val de Loire,967982.0,-0.4,1.9,282736.0,29.2,54.0,16.2,0,0.0,0,7.6,9,0
+CL-1092,Ateliers Marie SARL,Industrie,Provence-Alpes-Côte d'Azur,3001747.0,5.3,16.1,703310.0,23.4,39.0,47.3,1,12.0,1,1.8,33,0
+CL-1093,Boutique Marie EURL,Commerce,Grand Est,239745.0,8.8,14.7,195718.0,81.6,61.0,11.6,1,21.0,0,4.7,3,0
+CL-1094,Comptoir Meunier SAS,Commerce,Auvergne-Rhône-Alpes,419395.0,13.0,15.3,53201.0,12.7,45.0,13.7,0,0.0,0,4.5,5,0
+CL-1095,Usinage Clément EURL,Industrie,Auvergne-Rhône-Alpes,1775502.0,-12.5,6.8,1868187.0,105.2,2.0,92.3,5,34.6,1,5.0,17,0
+CL-1096,Restaurant Nicolas SASU,Restauration,Île-de-France,540723.0,-9.6,15.1,266268.0,49.2,56.0,25.8,6,19.3,1,8.4,4,0
+CL-1097,Comptoir Brun SAS,Commerce,Provence-Alpes-Côte d'Azur,2102418.0,-7.0,-2.2,1013827.0,48.2,18.0,87.4,6,30.3,4,3.4,13,0
+CL-1098,Solutions Lucas EURL,Services,Île-de-France,145740.0,-4.2,10.9,73283.0,50.3,47.0,32.7,2,11.5,0,5.4,1,0
+CL-1099,Optique Perrin SAS,Santé,Île-de-France,333229.0,20.3,5.3,108160.0,32.5,58.0,9.2,0,0.0,0,43.6,2,0
+CL-1100,Toitures Henry SAS,BTP,Provence-Alpes-Côte d'Azur,2556967.0,-11.6,5.8,1104459.0,43.2,28.0,30.7,3,18.0,1,17.6,18,0
+CL-1101,Maçonnerie Fournier SA,BTP,Centre-Val de Loire,1639975.0,21.1,16.0,257093.0,15.7,79.0,2.6,0,0.0,0,24.1,13,0
+CL-1102,Boutique Duval SASU,Commerce,Pays de la Loire,707413.0,3.7,0.5,135214.0,19.1,38.0,46.0,5,11.4,0,6.0,6,0
+CL-1103,Conseil Clément EURL,Services,Occitanie,513419.0,13.3,22.7,103922.0,20.2,44.0,18.3,1,16.0,0,3.6,7,0
+CL-1104,Solutions François SAS,Services,Occitanie,592872.0,10.2,3.4,374244.0,63.1,23.0,67.0,3,24.0,1,7.5,8,0
+CL-1105,Bâtiments Martin SAS,BTP,Occitanie,977238.0,9.7,2.9,385463.0,39.4,22.0,76.7,1,83.0,0,5.2,11,0
+CL-1106,Solutions Thomas SA,Services,Nouvelle-Aquitaine,407190.0,13.0,16.3,118927.0,29.2,67.0,8.9,0,0.0,0,19.0,4,0
+CL-1107,Charpentes Bonnet SA,BTP,Hauts-de-France,2188313.0,-1.8,2.7,574311.0,26.2,38.0,62.0,6,33.2,1,20.8,20,0
+CL-1108,Brasserie Gaillard SAS 2,Restauration,Occitanie,134677.0,5.9,4.3,29666.0,22.0,33.0,26.9,3,19.3,0,9.7,1,1
+CL-1109,GAEC André SA,Agriculture,Grand Est,1242105.0,8.9,10.5,270208.0,21.8,64.0,12.6,0,0.0,0,7.1,12,0
+CL-1110,Épicerie Barbier SAS,Commerce,Normandie,255158.0,7.2,12.9,247082.0,96.8,43.0,20.1,0,0.0,0,5.9,3,0
+CL-1111,Maçonnerie Nicolas EURL,BTP,Corse,2374118.0,8.2,4.8,658484.0,27.7,52.0,31.3,1,7.0,0,8.3,17,0
+CL-1112,Restaurant Laurent SAS,Restauration,Île-de-France,383043.0,-4.6,-1.8,136133.0,35.5,8.0,80.8,9,45.3,2,2.5,3,0
+CL-1113,Usinage Thomas SARL,Industrie,Nouvelle-Aquitaine,2024810.0,6.8,9.2,1444137.0,71.3,45.0,41.6,1,16.0,0,22.6,15,0
+CL-1114,Vergers Thomas SASU,Agriculture,Île-de-France,220840.0,-3.1,5.2,219691.0,99.5,23.0,45.8,1,23.0,0,4.3,2,0
+CL-1115,Ferme Lambert SASU,Agriculture,Nouvelle-Aquitaine,975499.0,2.3,5.6,207010.0,21.2,29.0,61.7,3,26.3,2,4.1,8,0
+CL-1116,Bâtiments Lemaire EURL,BTP,Auvergne-Rhône-Alpes,1141039.0,1.8,0.8,330973.0,29.0,30.0,53.9,1,17.0,2,31.7,9,0
+CL-1117,Toitures Brun SAS,BTP,Île-de-France,806103.0,-14.8,5.4,988528.0,122.6,35.0,52.6,2,22.5,0,24.4,10,0
+CL-1118,Conseil Rousseau SARL,Services,Pays de la Loire,204773.0,-17.9,6.5,89747.0,43.8,15.0,72.0,2,27.5,1,13.2,2,1
+CL-1119,Comptoir Simon SA,Commerce,Hauts-de-France,1266383.0,6.7,7.3,728491.0,57.5,34.0,42.7,2,23.5,1,3.0,10,1
+CL-1120,Clinique vétérinaire Morel SA 2,Santé,Bourgogne-Franche-Comté,556427.0,-5.4,16.2,163618.0,29.4,63.0,10.1,0,0.0,0,10.3,7,0
+CL-1121,Plasturgie Mercier SARL,Industrie,Île-de-France,1790032.0,0.2,6.8,1031119.0,57.6,35.0,72.2,5,31.0,0,10.2,21,0
+CL-1122,Maçonnerie Perrin EURL,BTP,Île-de-France,2000276.0,1.7,11.5,733260.0,36.7,43.0,36.3,2,17.0,0,2.6,20,0
+CL-1123,Agence Duval SAS,Services,Occitanie,568358.0,6.8,4.6,170722.0,30.0,33.0,33.6,2,13.0,0,2.3,7,0
+CL-1124,Épicerie Blanc SARL,Commerce,Île-de-France,3384308.0,6.3,0.9,1283827.0,37.9,4.0,85.6,7,24.6,3,2.8,23,0
+CL-1125,Bistrot Vincent SAS 2,Restauration,Auvergne-Rhône-Alpes,456681.0,-4.1,9.6,256237.0,56.1,24.0,60.8,7,73.4,5,8.5,5,0
+CL-1126,Fret Fontaine EURL,Transport,Centre-Val de Loire,5002449.0,8.8,5.0,2021647.0,40.4,30.0,38.2,1,17.0,0,2.3,62,1
+CL-1127,Fret Roussel SAS,Transport,Auvergne-Rhône-Alpes,1619330.0,16.6,17.2,823061.0,50.8,46.0,8.4,0,0.0,0,3.0,13,0
+CL-1128,Services Bertrand SAS,Services,Auvergne-Rhône-Alpes,656771.0,7.6,-0.7,286818.0,43.7,21.0,69.7,6,25.8,1,5.5,5,0
+CL-1129,Métallerie Fontaine EURL,Industrie,Hauts-de-France,2609421.0,6.7,5.7,734005.0,28.1,19.0,64.9,4,20.8,1,7.0,19,0
+CL-1130,EARL Morin SA,Agriculture,Hauts-de-France,798054.0,6.8,10.8,194359.0,24.4,43.0,37.0,3,23.0,0,11.6,8,0
+CL-1131,Ferme Perrin SA,Agriculture,Grand Est,1071623.0,1.6,-1.1,326945.0,30.5,41.0,22.0,0,0.0,0,2.9,14,0
+CL-1132,Logistique Muller SARL,Transport,Nouvelle-Aquitaine,1138591.0,8.8,15.0,184196.0,16.2,45.0,15.6,0,0.0,0,26.8,7,0
+CL-1133,Rénovation Marchand EURL,BTP,Bretagne,556819.0,2.1,10.4,311366.0,55.9,33.0,36.0,2,29.0,0,4.1,6,0
+CL-1134,Solutions Moreau EURL,Services,Île-de-France,265555.0,1.4,11.6,103922.0,39.1,52.0,23.4,2,10.5,0,12.8,3,0
+CL-1135,Ferme Roux SASU,Agriculture,Occitanie,656237.0,14.8,-1.0,684430.0,104.3,45.0,18.2,5,33.4,0,1.3,8,0
+CL-1136,Bazar André EURL,Commerce,Provence-Alpes-Côte d'Azur,516614.0,4.4,3.8,97957.0,19.0,34.0,37.3,1,11.0,0,6.7,6,1
+CL-1137,Bistrot Roussel EURL,Restauration,Normandie,478105.0,-11.6,12.4,147492.0,30.8,43.0,23.1,2,31.5,0,4.2,3,0
+CL-1138,Boulangerie Marie SA,Restauration,Nouvelle-Aquitaine,690520.0,12.0,6.9,211843.0,30.7,11.0,34.9,5,29.2,0,15.4,5,0
+CL-1139,Maçonnerie Rivière EURL 2,BTP,Hauts-de-France,1174398.0,-7.4,-3.6,1016607.0,86.6,7.0,92.0,7,50.1,2,21.4,8,1
+CL-1140,Studio Lambert SASU,Services,Île-de-France,780507.0,5.7,9.1,486437.0,62.3,37.0,56.2,0,0.0,0,10.9,8,0
+CL-1141,Boulangerie Vincent SAS,Restauration,Île-de-France,480225.0,9.2,7.7,170418.0,35.5,53.0,23.8,0,0.0,0,51.0,4,0
+CL-1142,Services André EURL 2,Services,Île-de-France,212558.0,-6.9,1.9,106720.0,50.2,23.0,56.7,4,30.0,2,2.1,2,0
+CL-1143,Conseil Richard SA,Services,Provence-Alpes-Côte d'Azur,291088.0,-5.9,23.5,177564.0,61.0,50.0,25.3,0,0.0,0,9.6,2,0
+CL-1144,Conseil Lemaire SA,Services,Auvergne-Rhône-Alpes,558321.0,-2.2,8.9,131003.0,23.5,52.0,15.9,0,0.0,0,5.4,7,0
+CL-1145,Bistrot Blanchard SASU,Restauration,Provence-Alpes-Côte d'Azur,991514.0,-0.3,-7.8,619240.0,62.5,32.0,50.7,3,29.0,1,8.8,6,0
+CL-1146,Bazar Bertrand SASU,Commerce,Île-de-France,701001.0,-3.3,7.3,356396.0,50.8,34.0,22.4,2,29.5,0,3.2,8,0
+CL-1147,Agence Marie SARL,Services,Normandie,239354.0,4.4,-9.2,94579.0,39.5,21.0,88.6,5,52.0,2,14.7,3,1
+CL-1148,Services Bernard SAS,Services,Bretagne,550628.0,-8.5,-1.1,167648.0,30.4,16.0,69.2,6,22.8,2,13.9,7,1
+CL-1149,Express Simon SASU,Transport,Île-de-France,3200420.0,7.4,3.7,969866.0,30.3,34.0,36.8,2,23.5,1,5.0,23,0
+CL-1150,Optique Meyer SARL,Santé,Île-de-France,799022.0,1.9,-3.3,558416.0,69.9,32.0,32.8,1,31.0,0,2.9,6,0
+CL-1151,Charpentes Robin SARL,BTP,Île-de-France,444618.0,-1.7,12.9,251140.0,56.5,24.0,42.0,5,30.0,1,7.9,3,0
+CL-1152,Clinique vétérinaire François EURL,Santé,Bretagne,231138.0,4.6,11.7,110769.0,47.9,60.0,4.6,0,0.0,0,9.2,2,0
+CL-1153,Maçonnerie Morel EURL,BTP,Auvergne-Rhône-Alpes,2849661.0,4.5,14.7,503228.0,17.7,71.0,7.0,0,0.0,0,9.4,23,0
+CL-1154,Rénovation Michel SAS,BTP,Hauts-de-France,937095.0,4.6,5.8,640066.0,68.3,62.0,10.3,0,0.0,0,8.9,13,0
+CL-1155,Express Dufour SAS,Transport,Occitanie,535208.0,-5.2,1.9,140079.0,26.2,18.0,46.0,3,18.7,0,2.7,7,0
+CL-1156,Maçonnerie Noël EURL,BTP,Pays de la Loire,684797.0,3.8,14.9,70472.0,10.3,65.0,4.3,0,0.0,0,9.2,4,0
+CL-1157,Toitures Marie SA 2,BTP,Occitanie,3553483.0,8.1,5.1,355626.0,10.0,38.0,28.6,1,27.0,0,6.5,23,0
+CL-1158,Bâtiments Girard SAS,BTP,Hauts-de-France,2521052.0,20.0,13.5,693129.0,27.5,53.0,13.6,0,0.0,0,20.9,21,0
+CL-1159,Brasserie Marie EURL,Restauration,Centre-Val de Loire,385451.0,1.3,1.0,147047.0,38.1,25.0,53.6,7,22.1,0,1.0,3,0
+CL-1160,Conseil Leroy SARL 2,Services,Île-de-France,194903.0,4.4,7.5,42565.0,21.8,53.0,20.9,1,9.0,0,2.1,1,0
+CL-1161,Charpentes Blanc SAS,BTP,Bretagne,2419110.0,0.4,16.2,300816.0,12.4,37.0,31.5,4,19.2,2,6.3,32,0
+CL-1162,Métallerie Roux SASU,Industrie,Île-de-France,4721448.0,4.3,10.3,3673003.0,77.8,34.0,56.1,4,21.2,2,9.0,60,1
+CL-1163,Studio Lefebvre SA,Services,Occitanie,414390.0,-0.8,14.9,167369.0,40.4,27.0,43.0,4,23.0,0,7.6,3,0
+CL-1164,Toitures Martin SASU,BTP,Normandie,140258.0,13.4,20.4,58545.0,41.7,55.0,11.6,0,0.0,0,12.1,2,0
+CL-1165,Bâtiments Mercier EURL,BTP,Provence-Alpes-Côte d'Azur,957834.0,-0.5,3.8,757800.0,79.1,39.0,42.8,3,18.3,0,3.6,10,0
+CL-1166,Laboratoire Dupont SAS,Santé,Provence-Alpes-Côte d'Azur,1112598.0,3.3,12.9,148499.0,13.3,39.0,30.4,1,15.0,0,5.4,12,0
+CL-1167,Agence Lambert SAS 2,Services,Auvergne-Rhône-Alpes,329587.0,3.5,9.7,153056.0,46.4,52.0,12.1,1,11.0,0,6.2,4,0
+CL-1168,Fret Durand SARL,Transport,Occitanie,677927.0,-0.3,13.7,241726.0,35.7,37.0,7.8,0,0.0,0,11.6,5,0
+CL-1169,Studio Mathieu SAS,Services,Nouvelle-Aquitaine,171504.0,-12.2,14.9,119470.0,69.7,22.0,59.1,1,29.0,1,23.6,1,0
+CL-1170,Maçonnerie Morin SAS 2,BTP,Hauts-de-France,953344.0,9.0,11.2,599393.0,62.9,46.0,20.1,0,0.0,0,10.9,9,0
+CL-1171,Boulangerie Simon SARL,Restauration,Occitanie,164710.0,4.7,17.8,51915.0,31.5,40.0,23.6,1,11.0,0,1.4,2,0
+CL-1172,Studio Lefebvre EURL,Services,Nouvelle-Aquitaine,528329.0,2.5,6.0,845270.0,160.0,42.0,13.1,1,26.0,0,6.0,4,0
+CL-1173,Comptoir Rousseau SARL,Commerce,Auvergne-Rhône-Alpes,242364.0,1.2,7.5,180112.0,74.3,28.0,37.5,3,24.7,0,8.2,2,1
+CL-1174,Conseil Denis SAS,Services,Auvergne-Rhône-Alpes,253639.0,-4.0,17.5,51322.0,20.2,58.0,6.6,1,21.0,0,2.1,2,0
+CL-1175,Express Meyer SA,Transport,Nouvelle-Aquitaine,581377.0,13.6,9.0,154630.0,26.6,33.0,37.5,1,19.0,1,2.9,7,0
+CL-1176,Agence Dubois EURL,Services,Île-de-France,178985.0,13.2,-2.2,39904.0,22.3,26.0,56.4,4,28.2,1,8.5,2,0
+CL-1177,Boulangerie Fontaine SASU,Restauration,Normandie,176731.0,9.6,15.0,58683.0,33.2,39.0,67.7,2,20.0,1,6.3,1,0
+CL-1178,Brasserie Masson EURL,Restauration,Grand Est,1056081.0,-4.8,-0.9,773226.0,73.2,3.0,92.6,8,33.8,3,17.3,10,1
+CL-1179,Épicerie Guérin SAS,Commerce,Île-de-France,567411.0,9.3,-2.3,217196.0,38.3,16.0,62.5,6,29.0,2,14.8,4,0
+CL-1180,Boutique Moreau SA,Commerce,Provence-Alpes-Côte d'Azur,253495.0,9.0,4.5,203254.0,80.2,22.0,54.2,1,11.0,2,20.8,2,0
+CL-1181,Studio Simon SARL,Services,Bretagne,613547.0,2.3,3.5,748154.0,121.9,23.0,78.9,10,41.9,5,2.4,8,1
+CL-1182,Maçonnerie Barbier SAS,BTP,Auvergne-Rhône-Alpes,502415.0,4.8,5.2,291460.0,58.0,37.0,39.6,3,22.7,0,15.3,3,0
+CL-1183,Toitures Garnier EURL,BTP,Île-de-France,2253850.0,11.7,11.6,848793.0,37.7,31.0,40.3,0,0.0,1,2.2,17,0
+CL-1184,Maison Bernard SARL,Commerce,Île-de-France,435487.0,-9.6,10.8,391312.0,89.9,36.0,36.0,3,27.3,0,2.1,5,0
+CL-1185,Bazar Lucas SARL,Commerce,Île-de-France,466173.0,-10.9,5.3,168508.0,36.1,40.0,31.6,1,27.0,0,4.1,3,0
+CL-1186,Solutions Rivière SA,Services,Pays de la Loire,143712.0,-1.3,6.9,142572.0,99.2,41.0,25.3,2,15.5,0,2.6,1,0
+CL-1187,Restaurant Meyer EURL,Restauration,Centre-Val de Loire,1112595.0,6.2,23.1,154106.0,13.9,57.0,18.4,2,8.5,0,12.8,7,0
+CL-1188,Vergers Simon EURL,Agriculture,Île-de-France,271505.0,4.6,7.4,128400.0,47.3,37.0,60.3,8,28.6,0,1.9,4,0
+CL-1189,Bâtiments Vincent SARL,BTP,Pays de la Loire,591721.0,11.4,15.9,246120.0,41.6,46.0,15.9,0,0.0,0,15.3,6,0
+CL-1190,Usinage Noël EURL,Industrie,Île-de-France,1137716.0,-4.9,15.2,914347.0,80.4,51.0,18.3,0,0.0,0,4.1,14,0
+CL-1191,Restaurant André SAS,Restauration,Grand Est,191011.0,7.1,8.8,72408.0,37.9,32.0,74.0,3,30.3,1,15.5,1,0
+CL-1192,Boulangerie Fournier SARL,Restauration,Pays de la Loire,575453.0,-4.7,2.2,336369.0,58.5,38.0,49.3,2,28.5,0,7.5,4,0
+CL-1193,Laboratoire Dufour SASU,Santé,Nouvelle-Aquitaine,2633635.0,11.1,14.9,187519.0,7.1,68.0,4.5,0,0.0,0,10.6,37,0
+CL-1194,GAEC Petit SA,Agriculture,Île-de-France,852922.0,6.8,16.4,225340.0,26.4,51.0,8.5,1,19.0,0,1.5,7,0
+CL-1195,Clinique vétérinaire Simon SARL,Santé,Grand Est,188190.0,0.0,9.1,67660.0,36.0,69.0,6.4,0,0.0,0,14.0,2,0
+CL-1196,Boutique Muller SA 2,Commerce,Corse,1188441.0,6.2,5.6,470765.0,39.6,52.0,22.6,2,10.5,0,5.0,14,0
+CL-1197,Boutique Meyer SARL,Commerce,Auvergne-Rhône-Alpes,581512.0,3.8,6.3,209771.0,36.1,42.0,37.9,2,23.0,2,2.5,4,0
+CL-1198,Plasturgie Girard SA,Industrie,Auvergne-Rhône-Alpes,1277280.0,-0.7,4.1,287418.0,22.5,41.0,19.7,1,43.0,0,4.7,8,0
+CL-1199,Comptoir Fournier SAS,Commerce,Île-de-France,776078.0,16.6,-1.2,339068.0,43.7,38.0,53.8,3,23.0,1,5.7,10,0
+CL-1200,Services Faure SAS,Services,Hauts-de-France,226932.0,2.9,9.1,99231.0,43.7,37.0,42.8,2,10.0,2,3.7,2,0

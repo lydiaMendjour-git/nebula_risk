@@ -1,0 +1,21 @@
+# Thème de l'application (couleurs, police). Fichier lu automatiquement par Streamlit.
+[theme]
+base = "dark"
+primaryColor = "#A855F7"
+backgroundColor = "#0B0B12"
+secondaryBackgroundColor = "#15121F"
+textColor = "#E9E6F5"
+borderColor = "#2E2545"
+baseRadius = "14px"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+headingFont = "Sora:https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&display=swap"
+baseFontSize = 16
+dataframeHeaderBackgroundColor = "#1C1630"
+chartCategoricalColors = ["#A855F7", "#6366F1", "#EC4899", "#7C3AED", "#C4B5FD", "#F0ABFC"]
+
+[client]
+toolbarMode = "minimal"
+showSidebarNavigation = false
+
+[browser]
+gatherUsageStats = false
